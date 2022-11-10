@@ -1,0 +1,275 @@
+150BC03-DEHESTANI1.xlsx
+├── ACCESSORIES
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── CONTROLL AND MONITORING (SAFETY ELEMENT)
+├── DISCHARGE AREA ASSEMBLY
+│   ├── 150BC03.ME01.FEEDER
+│   ├── 150BC03.ME02.FEEDER
+│   ├── DEFLECTOR PLATE
+│   ├── INSPECTION WINDOW
+│   ├── INTERMEDIATE DISCHARGE CHUTE
+│   ├── LOWER DISCHARGE CHUTE
+│   ├── NAME PLATE
+│   ├── NUT
+│   ├── NUT
+│   ├── NUT 
+│   ├── OVERFILL PROTECTION PLATE
+│   ├── OVFRFILL PROTECTION
+│   ├── PLATE
+│   ├── PLATE
+│   ├── REMOVABLE COVER
+│   ├── RUBBER
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW 
+│   ├── SCREW 
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER 
+│   ├── SUPPORT OVERFILL PROTECTION
+│   ├── UPPER DISCHARGE CHUTE
+│   └── WEDGE WASHER
+├── DRIVE HEAD ASSEMBLY
+│   ├── BEDPLATE
+│   ├── BRAKE
+│   ├── COUPLING
+│   ├── DRIVE HEAD FRAME
+│   ├── DRIVE PULLEY
+│   ├── FLAT WASHER
+│   ├── FLAT WASHER
+│   ├── FLAT WASHER 
+│   ├── GEAR UNIT
+│   ├── NUT
+│   ├── NUT
+│   ├── NUT
+│   ├── NUT
+│   ├── NUT 
+│   ├── PROTECTIVE COVER
+│   ├── REACTION ARM
+│   ├── REACTION LEVER SUPPORT
+│   ├── SCRAPER
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SELF - LOCKING NUT
+│   ├── SHIM
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER 
+│   ├── SPRING WASHER 
+│   └── TAPER WASHER 
+├── INTERMEDIATE AREA ASSEMBLY
+│   ├── ASSEMBLY OF LATTICE AND SUPPORT
+│   │   ├── BOLTS
+│   │   ├── BOLTS
+│   │   ├── FLAT WASHERS
+│   │   ├── FLAT WASHERS 
+│   │   ├── GRATING GALVANIZED MESH ASSEMBLY
+│   │   ├── JOINT-PLATE
+│   │   ├── LATTICE
+│   │   ├── LATTICE
+│   │   ├── LATTICE
+│   │   ├── NUTS
+│   │   ├── NUTS
+│   │   ├── SPRING WASHERS
+│   │   ├── SPRING WASHERS
+│   │   ├── STAIRWAY-UNION-LATTICE
+│   │   ├── SUPPORT
+│   │   ├── SUPPORT
+│   │   ├── SUPPORT
+│   │   └── SUPPORT LATTICE
+│   ├── BELT
+│   ├── BOLT 
+│   ├── COUNTERWFIGHT ASSFMBIY
+│   │   ├── BEAM IPE
+│   │   ├── BEAM IPE 
+│   │   ├── BOLT
+│   │   ├── BOLT 
+│   │   ├── CLAMP FOR WIRE
+│   │   ├── COUNTER WEIGHT GUARD
+│   │   ├── COUNTER WEIGHT GUARD
+│   │   ├── COUNTER WEIGHT GUARD
+│   │   ├── COUNTER WEIGHT GUIDE
+│   │   ├── COUNTER WEIGHT GUIDE
+│   │   ├── COUNTERWEIGHT DRAWER
+│   │   ├── COUNTERWEIGHT GUARD
+│   │   ├── COUNTERWEIGHT GUIDE
+│   │   ├── DECK PLATE
+│   │   ├── DRAWER COVER
+│   │   ├── DRAWER SUPPORT
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER
+│   │   ├── GUIDES
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT 
+│   │   ├── PLATFORM ASSEMBLY
+│   │   ├── PULLEY
+│   │   ├── PULLEY
+│   │   ├── PULLEY GUARD
+│   │   ├── PULLEY GUARD
+│   │   ├── PULLEY SUPPORT
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPLIT PIN 
+│   │   ├── SPLIT PIN 
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── TELESCOPIC GUIDE
+│   │   ├── TENSOR OF WIRE
+│   │   ├── THIMBLE
+│   │   ├── WEDGE WASHER "U" 
+│   │   ├── WEDGE WASHER "U" 
+│   │   └── WIRE
+│   ├── DECK PLATES
+│   ├── IDLER SUPPORT ASSEMBLY
+│   │   ├── CARRYING SELF-ALIGNMENT IDLER
+│   │   │   └── BEARING
+│   │   ├── IDLER CARRYING
+│   │   │   └── BEARING
+│   │   ├── IDLER SUPPORT
+│   │   │   └── BEARING
+│   │   ├── IDLER SUPPORT
+│   │   │   └── BEARING
+│   │   ├── IDLER SUPPORT
+│   │   │   └── BEARING
+│   │   ├── IMPACT IDLER
+│   │   │   └── BEARING
+│   │   ├── NUT
+│   │   ├── RETURN IDLER
+│   │   │   └── BEARING
+│   │   ├── RETURN SELF-ALIGNMENT IDLER
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── STANDARD CARRING IDLER
+│   │   │   └── BEARING
+│   │   └── WEDGE WASHER
+│   ├── INTERMEDIATE FRAMEWORK
+│   │   ├── FLAT WASHER
+│   │   ├── NUT
+│   │   ├── SCREW
+│   │   └── SPRING WASHER 
+│   ├── PLATFORM ASSEMBLY
+│   │   ├── BOLT 
+│   │   ├── GRATING GALVANIZED MESH ASSEMBLY
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL SUP
+│   │   ├── HANDRAIL SUP
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── PLATAFORM
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── STAIR
+│   │   ├── STAIR
+│   │   └── WEDGE WASHER "U"
+│   ├── RAIN COVER ASSEMBLY
+│   │   ├── BEAM SUPPORT COVER
+│   │   ├── BEAM SUPPORT COVER
+│   │   ├── BEAM SUPPORT COVER
+│   │   ├── BEAM SUPPORT COVER
+│   │   ├── BEAM SUPPORT COVER
+│   │   ├── CLAMP
+│   │   ├── HEXAGON HEAD SELFDRLING SCREWS
+│   │   ├── LATERAL COVER
+│   │   ├── LATERAL COVER
+│   │   ├── LATERAL COVER
+│   │   ├── NUT
+│   │   ├── RAIN COVER
+│   │   ├── RAIN COVER SUPPORT
+│   │   ├── SCREW
+│   │   ├── SPRING WASHER
+│   │   └── WEDGE WASHER "U"
+│   ├── SKIRTBOARD ASSEMBLY
+│   │   ├── CLOSING RUBBER ASSEMBLY
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── COVER PLATE
+│   │   ├── FIXATION PIECE
+│   │   ├── L -BEAM 
+│   │   ├── L-BEAM 35x4x2998
+│   │   ├── LATERAL SKIRTBOARD
+│   │   ├── LATERAL SKIRTBOARD 
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── RUBBER 
+│   │   ├── SCREW 
+│   │   ├── SKIRTBOARD CLOSING PLATE
+│   │   ├── SKIRTBOARD CLOSING RUBBER
+│   │   ├── SKIRTBOARD SUPPORT
+│   │   ├── SKIRTBOARD SUPPORT
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER 
+│   │   └── WEDGE WASHER 
+│   ├── UNION PLATE
+│   ├── V CLEANING DEVICE ASSEMBLY
+│   └── WASHBOX ASSEMBLY
+│       ├── FLAT WASHER
+│       ├── NUT
+│       ├── SCREW
+│       ├── SPRING WASHER
+│       └── TAPER WASHFR
+├── INTERMEDIATE AREA ASSEMBLY 
+└── TAIL END AREA ASSEMBLY
+    ├── DRIFT SWITCH
+    ├── DRIFT SWITCH
+    ├── DRIFT SWITCH
+    ├── DRIFT SWITCH
+    ├── EDGE WASHER U
+    ├── FLAT WASHER
+    ├── HORN
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── LATERAL GUARD
+    ├── LEVEL SWITCH
+    ├── LIMIT SWITCH
+    ├── LOCAL CONTROL BOX
+    ├── NUT
+    ├── NUT
+    ├── NUT
+    ├── PULLEY
+    ├── REAR GUARD
+    ├── ROPE SWITCH
+    ├── ROPE SWITCH
+    ├── ROPE SWITCH
+    ├── ROPE SWITCH
+    ├── SCREW
+    ├── SCREW
+    ├── SCREW
+    ├── SPEED CONTROL SUPPORT
+    ├── SPEED SWITCH
+    ├── SPRING WASHER
+    ├── SPRING WASHER
+    └── UPPER TAIL END FRAME

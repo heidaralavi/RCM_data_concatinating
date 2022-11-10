@@ -1,0 +1,1239 @@
+110WD01-DEHESTANI.xlsx
+├── ACCESSORY
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── Charger Assy.
+│   ├── Charger Access Assy.
+│   │   ├── BRACKET
+│   │   ├── CANTILEVER BRACKET
+│   │   ├── CANTILEVER BRACKET
+│   │   ├── CANTILEVER BRACKET
+│   │   ├── FLOOR PANEL
+│   │   ├── FLOOR PANEL
+│   │   ├── FLOOR PANEL
+│   │   ├── FLOOR PANEL
+│   │   ├── HANDRAILING
+│   │   ├── HANDRAILSTANCHION
+│   │   ├── LONG HEX SKT CSK HEAD SCREW
+│   │   ├── LONG PRECISION HEX SCREW
+│   │   ├── PLAIN WASHER
+│   │   ├── POWER UNIT SUPPORT
+│   │   ├── PRECISION HEX NUT
+│   │   ├── PRECISION HEX NUT
+│   │   ├── STAIRWAY
+│   │   └── plain washer
+│   ├── Charger Arm Assy.
+│   │   ├── Arm Raise Charger Track
+│   │   │   ├── Arm Raise Cyclinder
+│   │   │   ├── Bright Washer
+│   │   │   ├── Bush (700716)
+│   │   │   ├── Cylinder Support Frame
+│   │   │   │   ├── Base Plate
+│   │   │   │   ├── C Channle 1
+│   │   │   │   ├── C Channle 2
+│   │   │   │   ├── Circle Plate
+│   │   │   │   ├── Fixed Blade
+│   │   │   │   ├── L Angle
+│   │   │   │   ├── Retainer Flange
+│   │   │   │   ├── Retainer Support
+│   │   │   │   ├── Rib
+│   │   │   │   ├── Support Plate 1
+│   │   │   │   ├── Support Plate 2
+│   │   │   │   ├── Support Plate 3
+│   │   │   │   ├── Upper Plate 1
+│   │   │   │   ├── Upper Plate 2
+│   │   │   │   ├── Vertical Middle plate
+│   │   │   │   ├── Vertical Support plate
+│   │   │   │   ├── incline Middle plate
+│   │   │   │   ├── incline Support plate
+│   │   │   │   ├── incline Upper plate
+│   │   │   │   └── square Plate
+│   │   │   ├── Flanged Bush (700718)
+│   │   │   ├── Grease Nipple 1/4"
+│   │   │   ├── Hex. HD Bolt
+│   │   │   ├── Hex. HD Screw
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Keep Plate (S141934)
+│   │   │   ├── Packer (S536709)
+│   │   │   ├── Pivot Pin (700717)
+│   │   │   ├── Retaining Cap (4536657)
+│   │   │   └── Spring Washer
+│   │   ├── Arm Raise/Lower Limit Switch
+│   │   │   ├── CHARGER ARM LOWER SLOWDOWN
+│   │   │   ├── CHARGER ARM LOWERED
+│   │   │   ├── CHARGER ARM RAISE SLOWDOWN
+│   │   │   ├── CHARGER ARM RAISED
+│   │   │   ├── Hex. Screw
+│   │   │   ├── JUNCTION BOX
+│   │   │   ├── Proximaty Switch
+│   │   │   ├── Slowdown Target Lowered
+│   │   │   ├── Slowdown Target Raised
+│   │   │   ├── Spring Washer
+│   │   │   ├── Stop Target Lowered
+│   │   │   ├── Stop Target Raised
+│   │   │   └── Switch Bracket
+│   │   ├── Buffer Head (New Design)
+│   │   │   ├── Base Plate
+│   │   │   ├── Middle Plate
+│   │   │   ├── Support Plate 1
+│   │   │   ├── Support Plate 2
+│   │   │   ├── Upper Plate 1
+│   │   │   └── Upper Plate 2
+│   │   ├── Buffer Head 700726
+│   │   │   ├── Base Plate
+│   │   │   ├── Middle Plate
+│   │   │   ├── Support Plate 1
+│   │   │   ├── Support Plate 2
+│   │   │   ├── Upper Plate 1
+│   │   │   └── Upper Plate 2
+│   │   ├── Charger Arm Assy.
+│   │   │   ├── Bush
+│   │   │   ├── Bush (DRG NO M512413)
+│   │   │   ├── Charger Arm
+│   │   │   ├── Cover Plate
+│   │   │   ├── End Cap
+│   │   │   ├── Grease Nipple
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Keep Plate
+│   │   │   ├── Pivot Pin (S700801)
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   └── Thrust Washer (S136669)
+│   │   ├── Coupler Head Assy.
+│   │   │   ├── Coupler Head
+│   │   │   ├── Forward Housing
+│   │   │   │   ├── Flange
+│   │   │   │   └── Hub
+│   │   │   ├── Full Cushioning Pad
+│   │   │   ├── Grease Nipple
+│   │   │   ├── Half Cushioning Pad
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Loctite
+│   │   │   ├── Rear Housing
+│   │   │   ├── Set Screw
+│   │   │   ├── Shaft (700724)
+│   │   │   ├── Spacer Tube
+│   │   │   ├── Spring (Spirol) Pin
+│   │   │   ├── Spring Washer
+│   │   │   ├── Thrust Plate
+│   │   │   └── Wiper
+│   │   ├── Coupler Release Mech. Assy.
+│   │   │   ├── CHARGER ARM COUPLER DISENGAGED
+│   │   │   ├── CHARGER ARM COUPLER ENGAGED
+│   │   │   ├── CHARGER ARM COUPLER WEDGE ENGAGED
+│   │   │   ├── Coupler Limit Switch Assy.
+│   │   │   │   ├── BRACKET
+│   │   │   │   ├── BRACKET
+│   │   │   │   ├── HEX NUT
+│   │   │   │   ├── HEX SCREW
+│   │   │   │   ├── HEX SCREW
+│   │   │   │   ├── HEX SCREW
+│   │   │   │   ├── PACKING SET
+│   │   │   │   ├── PLAIN WASHER
+│   │   │   │   ├── PROXIMITY SWITCH
+│   │   │   │   ├── PROXIMITY SWITCH
+│   │   │   │   ├── SPRING WASHER
+│   │   │   │   ├── SPRING WASHER
+│   │   │   │   └── SWITCH BRACKET
+│   │   │   ├── Coupling Release Cylinder
+│   │   │   │   └── Piston Rod
+│   │   │   ├── JUNCTION BOX
+│   │   │   ├── Lever Arm (700775)
+│   │   │   ├── part
+│   │   │   └── part
+│   │   ├── Grease Nipple
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Nut
+│   │   ├── Hex. Screw
+│   │   ├── Hex. Thin Nut
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── Swinging Arm Assy.
+│   │   │   ├── Swinging Arm
+│   │   │   └── Swinging Arm Cushioning Assy.
+│   │   │       ├── Anti-Scuffing Compound
+│   │   │       ├── Bearing Plate
+│   │   │       ├── Bright Washer
+│   │   │       ├── Bush (DRG NO. S135842)
+│   │   │       ├── Cover
+│   │   │       ├── Flanged Bush (DRG NO 700720)
+│   │   │       ├── Full Cushioning Pad
+│   │   │       ├── Grease Nipple
+│   │   │       ├── Half Cushioning Pad
+│   │   │       ├── Hex. Nut
+│   │   │       ├── Hex. SKT. CSK. Screw
+│   │   │       ├── Hex. Screw
+│   │   │       ├── Hex. Thin Nut
+│   │   │       ├── Loctite Studlock 270
+│   │   │       ├── Pivot Housing (L512411)
+│   │   │       │   ├── Base Plate
+│   │   │       │   ├── Housing
+│   │   │       │   ├── Key Plate
+│   │   │       │   │   ├── Gear Disc
+│   │   │       │   │   └── Spline Disc
+│   │   │       │   ├── Rib
+│   │   │       │   └── Ring
+│   │   │       ├── Pivot Shaft 700721
+│   │   │       ├── Rebound Stop
+│   │   │       ├── Spring Washer
+│   │   │       ├── Steel on Steel SPH. Plain BRG.
+│   │   │       ├── Superclean Safety Solvent
+│   │   │       ├── Swinging Arm Head Pivot Pin
+│   │   │       ├── Thrust Washer (S135849)
+│   │   │       └── Washer
+│   │   └── Swinging Arm Pivot Pin
+│   ├── Charger Electrics Assy.
+│   │   ├── CHARGER ONBOARD CONTROL JUNCTION BOX
+│   │   ├── CHARGER ONBOARD LCS
+│   │   ├── CHARGER ONBOARD POWER JUNCTION BOX
+│   │   ├── FLASHER FRONT
+│   │   ├── FLASHER REAR
+│   │   ├── FLOODLIGHT
+│   │   ├── FLOODLIGHT
+│   │   └── HORN
+│   ├── Charger Grease Lub. Sys. Assy.
+│   │   ├── 'O' RING
+│   │   ├── ADAPTOR
+│   │   ├── ADAPTOR
+│   │   ├── ADAPTOR
+│   │   ├── ADAPTOR
+│   │   ├── ADAPTOR
+│   │   ├── COPPER TUBE
+│   │   ├── DOUBLE TUBE CLIP c/w SCREW
+│   │   ├── DOUBLE TUBE CLIP c/w SCREW
+│   │   ├── ELBOW
+│   │   ├── FLEXIBLE HOSE
+│   │   ├── FLEXIBLE HOSE High pressure
+│   │   ├── Female Re-useoble
+│   │   ├── Lock Washer MB30
+│   │   ├── MALE STUD COUPLING
+│   │   ├── MALE STUD COUPLING
+│   │   ├── MALE STUD COUPLING
+│   │   ├── MANUAL PUMP
+│   │   ├── MODULE
+│   │   ├── MODULE
+│   │   ├── PLAIN WASHER
+│   │   ├── PUMP MOUNTING BRACKET
+│   │   ├── Re-useable
+│   │   ├── Re—useable Sleeve
+│   │   ├── Re—useoble Stud
+│   │   ├── S1NGLE TUBE CUP c/w SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SINGLE TUBE CLIP c/w SCREW
+│   │   ├── STAUFF CLAMP
+│   │   ├── STAUFF CLAMP
+│   │   ├── STEEL TUBE
+│   │   ├── TEE
+│   │   ├── TRIPLE TUBE CLIP c/w SCREW
+│   │   ├── TUBE UNION
+│   │   ├── TUBE UNION
+│   │   └── VALVE STEM COVER
+│   ├── Charger Hydraulics Assy.
+│   │   ├── ANTI-CONDENSATION HEATER
+│   │   ├── ANTI-CONDENSATION HEATER
+│   │   ├── CHARGER ARM COUPLER EXTEND SOLENOID VALVE
+│   │   ├── CHARGER ARM COUPLER RETRACT SOLENOID VALVE
+│   │   ├── CHARGER ARM DUAL DRIVER UNIT
+│   │   ├── CHARGER ARM PROPORTIONAL VALVE (LOWER)
+│   │   ├── CHARGER ARM PROPORTIONAL VALVE (RAISE)
+│   │   ├── CHARGER ARM SYSTEM LOAD UP SOLENOID VALVE
+│   │   ├── CHARGER BRAKES OFF SOLENOID VALVE
+│   │   ├── CHARGER BRAKES ON SOLENOID VALVE
+│   │   ├── CHARGER BRAKES RELEASED MAX. PRESSURE
+│   │   ├── CHARGER BRAKES RELEASED MIN. PRESSURE
+│   │   ├── CHARGER BRAKES SLUG SOLENOID VALVE
+│   │   ├── CHARGER BRAKES&COUPLER SYSTEM LOAD UP SOLENOID VALVE
+│   │   ├── CHARGER HYD.OIL RESERVOIR HEATER
+│   │   ├── CHARGER HYD.PUMP MOTOR NO.1 PROPORTIONAL VALVE (FORWARD)
+│   │   ├── CHARGER HYD.PUMP MOTOR NO.1 PROPORTIONAL VALVE (REVERSE)
+│   │   ├── CHARGER HYD.PUMP MOTOR NO.2 PROPORTIONAL VALVE (FORWARD)
+│   │   ├── CHARGER HYD.PUMP MOTOR NO.2 PROPORTIONAL VALVE (REVERSE)
+│   │   ├── ELECTRO MOTOR
+│   │   ├── ELECTRO MOTOR
+│   │   ├── ENCODER
+│   │   ├── HYD. PUMP MOTOR NO.1 LINE FILTER BLOCKED
+│   │   ├── HYD. PUMP MOTOR NO.1 LOW BOOST PRESSURE SHUTDOWN
+│   │   ├── HYD. PUMP MOTOR NO.1 SUCTION VALVE CLOSED
+│   │   ├── HYD. PUMP MOTOR NO.2 LINE FILTER BLOCKED
+│   │   ├── HYD. PUMP MOTOR NO.2 LOW BOOST PRESSURE SHUTDOWN
+│   │   ├── HYD. PUMP MOTOR NO.2 SUCTION VALVE CLOSED
+│   │   ├── JUNCTION BOX
+│   │   ├── OIL LEVEL SWITCH
+│   │   ├── OIL TEMPERATURE SENSOR
+│   │   ├── RETURN FILTER BLOCKED
+│   │   ├── SPIDER CONTROL UNIT
+│   │   ├── TERMISTOR (PT100)
+│   │   └── THERMISTOR (PT100)
+│   ├── Charger Main Frame Assy.
+│   │   ├── BUFFER BRACKET
+│   │   ├── BUFFER BRACKET
+│   │   ├── LIFTING BRACKET
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── buffer
+│   │   ├── buffer
+│   │   ├── cover plate
+│   │   ├── main frame
+│   │   ├── precision hex head screw
+│   │   ├── precision hex head screw
+│   │   ├── precision hex head screw
+│   │   ├── precision hex head screw
+│   │   └── precision hex nut
+│   ├── Drive Cartridge (W.out Brk)
+│   │   ├── CARTRIDGE BODY
+│   │   ├── COLLAR EYEBOLT
+│   │   ├── Drive Pinion (M536337)
+│   │   ├── Drive Shaft (M536333)
+│   │   ├── ENCODER c/w MOUNTING PLATE
+│   │   ├── END PLATE
+│   │   ├── GREASE NIPPLE
+│   │   ├── HEX SOC SETSCREW, FLAT POINT
+│   │   ├── HEX SOC SETSCREW, FLAT POINT
+│   │   ├── HYDRAULIC MOTOR HAGGULAND TYPE
+│   │   ├── KEY
+│   │   ├── LOWER SPACER
+│   │   ├── Labyrinth (DRG No. S536335)
+│   │   ├── OIL SEAL
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PLUG, SOCKET HEAD
+│   │   ├── PRECISION HEXAGON BOLT
+│   │   ├── PRECISION HEXAGON BOLT
+│   │   ├── PRECISION HEXAGON BOLT
+│   │   ├── SPHERICAL ROLLER BEARING
+│   │   ├── SPRING PIN
+│   │   └── UPPER SPACER
+│   ├── Drive Cartridge (with Brk)
+│   │   ├── CARTRIDGE BODY
+│   │   ├── COLLAR EYEBOLT
+│   │   ├── Drive Pinion (M536337)
+│   │   ├── Drive Shaft (M536333)
+│   │   ├── END PLATE
+│   │   ├── GREASE NIPPLE
+│   │   ├── HEX SOC SETSCREW, FLAT POINT
+│   │   ├── HEX SOC SETSCREW, FLAT POINT
+│   │   ├── HYDRAULIC MOTOR+BRAKE HAGGLUNS
+│   │   │   ├── BICA-Disc Brake 24
+│   │   │   │   ├── BICA-Disc Brake 37
+│   │   │   │   │   └── Disc Set
+│   │   │   │   │       ├── Gear Disc
+│   │   │   │   │       └── Spline Disc
+│   │   │   │   └── Disc Set
+│   │   │   ├── BRAKE HAGGLUNS
+│   │   │   └── HYDRAULIC MOTOR HAGGULAND TYPE
+│   │   ├── KEY
+│   │   ├── LABYRINTH
+│   │   ├── LOWER SPACER
+│   │   ├── OIL SEAL
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PLUG, SOCKET HEAD
+│   │   ├── PRECISION HEX BOLT
+│   │   ├── PRECISION HEX BOLT
+│   │   ├── PRECISION HEX BOLT
+│   │   ├── SPERICAL ROLLER BEARING
+│   │   ├── SPRING PIN
+│   │   └── UPPER SPACE
+│   ├── Encoder Assembly
+│   │   ├── BEARING RETAINER
+│   │   ├── BEARING RETAINER
+│   │   ├── DEEP GROOVE BALL BEARING
+│   │   ├── ENCODER
+│   │   ├── ENCODER
+│   │   ├── ENCODER COUPLING
+│   │   ├── ENCODER DRIVE SHAFT
+│   │   ├── GREASE NIPPLE
+│   │   ├── HEX HD PRECISION BOLT
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX HD PRECISION SCREW
+│   │   ├── HEX SOCKET CSK HD SCREW
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PLAIN WASHER
+│   │   ├── PRECISION HEX NUT
+│   │   ├── RESOLVER CARTRIDGE BODY
+│   │   ├── RESOLVER LOCATION BRACKET
+│   │   ├── RESOLVER SUPPORT BRACKET
+│   │   ├── SEAL
+│   │   ├── SELF LOCKING NUT
+│   │   ├── cover
+│   │   └── plate gear
+│   ├── Fixed Support Roller Assy.
+│   │   ├── Axle (DRG No: S535762)
+│   │   ├── Fixed Support Leg Assy.
+│   │   │   ├── End Plate
+│   │   │   ├── Fixed Support Leg
+│   │   │   ├── Hex. Screw
+│   │   │   └── Plain Wahser
+│   │   ├── Hex. Screw
+│   │   ├── Spring Washer
+│   │   ├── Support Roller Assy.
+│   │   │   ├── Clamping Ring M512094
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Spring Washer
+│   │   │   ├── Support Roller
+│   │   │   └── Tapered Roller Bearing
+│   │   └── Vent Fitting
+│   ├── Guide Roller Assembly
+│   │   ├── CARTRIDGE
+│   │   ├── END PLATE
+│   │   ├── FLEXIBLE HOSE
+│   │   ├── HEX SOC HD CAP SCREW
+│   │   ├── HEX SOC HD CAPSCREW
+│   │   ├── LINDAPTER
+│   │   ├── LUB VENT FITTING
+│   │   ├── PLAIN WASHER
+│   │   ├── PRECISION HEX BOLT
+│   │   ├── PRECISION HEX SCREW
+│   │   ├── RETAINER
+│   │   ├── Roller (L512575)
+│   │   ├── SHAFT
+│   │   ├── TAPERED BEARING UNIT
+│   │   └── TOMMY BAR
+│   ├── Hex. Screw
+│   ├── Nut
+│   ├── Packer
+│   ├── Packer
+│   ├── Plain Washer
+│   ├── Retaining Plate
+│   ├── Spring Washer
+│   └── Sprung Support Roller Assy.
+│       ├── AXLE
+│       ├── BEARING (DRG NO. 700708)
+│       ├── CLAMPING RING
+│       ├── END PLATE
+│       ├── KEEP PLATE
+│       ├── PIVOT BRACKET
+│       ├── PIVOT PIN
+│       ├── PLAIN WASHER
+│       ├── PLAIN WASHER
+│       ├── PLAIN WASHER
+│       ├── PRECISION HEX NUT
+│       ├── PRECISION HEX NUT
+│       ├── PRECISION HEX SCREW
+│       ├── PRECISION HEX SCREW
+│       ├── PRECISION HEX SCREW
+│       ├── PRECISION HEX SCREW
+│       ├── PRECISION HEX SCREW
+│       ├── Plain Washer
+│       ├── SPLIT PIN
+│       ├── SPRING ADJUSTMENT PLATE
+│       ├── SPRING RETAINING PLATE
+│       ├── SPRUNG SUPPORT LEG
+│       ├── STUD BOLT
+│       ├── SUPPORT ROLLER
+│       ├── Spring (S536239)
+│       ├── Spring Location Bush (S512736)
+│       ├── Spring Washer
+│       ├── TAPERED ROLLER BEARING UNI
+│       ├── VENT FITTING
+│       └── spring washer
+├── Charger Festoon & Travel Limit
+│   ├── CHARGER CLEAR FOR ARM LOWER LIMIT
+│   ├── CHARGER FORWARD TRAVEL LIMIT
+│   ├── CHARGER LAND CONTROL JUNCTION BOX
+│   ├── CHARGER LAND POWER JUNCTION BOX
+│   ├── CHARGER OVERTRAVEL FORWARD LIMIT
+│   ├── CHARGER OVERTRAVEL REVERSE LIMIT
+│   ├── CHARGER REVERSE TRAVEL LIMIT
+│   └── Charger Festoon Towing Arm
+│       └── Towing Wheel
+│           ├── Circlipe 1
+│           ├── Circlipe 2
+│           ├── Hegxagon Head Pin
+│           ├── Plain Washer
+│           ├── Screw
+│           ├── Single Row Ball Bearing
+│           └── Wheel
+├── Charger Track Assy.
+│   ├── GAUGE PLATE
+│   ├── HARD WASHER
+│   ├── JOINT BARS & FASTENERS
+│   ├── LONG PRECISION HEX BOLT
+│   ├── LONG PRECISION HEX BOLT
+│   ├── LONG PRECISION HEX SCREW
+│   ├── LONG THROUGH BOLT ANCHOR
+│   ├── PRECISION HEX BOLT
+│   ├── PRECISION HEX NUT
+│   ├── RAIL
+│   ├── RAIL PLATE
+│   ├── Rack Section (S536196)
+│   ├── Rack Section Template
+│   ├── Railclip K112
+│   ├── SPINE BAR
+│   ├── SPINE BAR
+│   ├── SPINE BAR
+│   ├── WAGON WHEEL DETECTED
+│   ├── intermediate track support
+│   └── track support
+├── Dumper Assy.
+│   ├── Ancillary Equipment
+│   │   ├── Dumper Grease Lub. Sys. Assy.
+│   │   │   ├── Adaptor
+│   │   │   ├── Adaptor
+│   │   │   │   ├── 'O' Ring
+│   │   │   │   ├── Copper tube
+│   │   │   │   ├── Male stud coupling
+│   │   │   │   ├── Male stud coupling
+│   │   │   │   ├── Module
+│   │   │   │   ├── Screw
+│   │   │   │   ├── Screw
+│   │   │   │   ├── Steel tube
+│   │   │   │   └── Valve system cover
+│   │   │   ├── BATTERY PLATE
+│   │   │   ├── BATTERY PLATE
+│   │   │   ├── BUCKHEAD FITTING
+│   │   │   ├── CONTROL PANEL
+│   │   │   ├── Double tube clip c/w screw
+│   │   │   ├── Double tube clip c/w screw
+│   │   │   ├── ELECTRO MOTOR
+│   │   │   ├── Elbow
+│   │   │   ├── Female re-useable
+│   │   │   ├── Flexible hose
+│   │   │   ├── GREASE NIPPLE
+│   │   │   ├── LEVEL SWITCH
+│   │   │   ├── MALE STUD COUPUNG
+│   │   │   ├── MANUAL PUMP
+│   │   │   ├── PUMP MOUNTING BRACKET
+│   │   │   ├── Re—useable
+│   │   │   ├── SOLENOID VALVE
+│   │   │   ├── Sigle tube clip c/w screw
+│   │   │   ├── Single tube clip c/w screw
+│   │   │   ├── Stauff clamp
+│   │   │   ├── Stauff clamp
+│   │   │   ├── Tee
+│   │   │   ├── Tube union
+│   │   │   ├── Tube union
+│   │   │   ├── flexible hose
+│   │   │   ├── reuseable sleeve
+│   │   │   └── reuseable stud
+│   │   ├── Dumper Hydraulics Assy.
+│   │   │   ├── DUMPER BRAKES OFF SOLENOID VALVE
+│   │   │   ├── DUMPER BRAKES ON SOLENOID VALVE
+│   │   │   ├── DUMPER BRAKES RELEASED MAXIMUM PRESSURE
+│   │   │   ├── DUMPER BRAKES RELEASED MINIMUM PRESSURE
+│   │   │   ├── DUMPER BRAKES SLUG SOLENID VALVE
+│   │   │   ├── DUMPER BRAKES SYSTEM LOAD UP SOLENOID VALVE
+│   │   │   ├── DUMPER HYD. PUMP MOTOR
+│   │   │   ├── DUMPER HYD.PUMP MOTOR PROPORTIONAL VALVE(RETURN)
+│   │   │   ├── DUMPER HYD.PUMP MOTOR PROPORTIONAL VALVE(TIP)
+│   │   │   ├── ENCODER
+│   │   │   ├── HYD. COOLING FAN MOTOR
+│   │   │   ├── HYD. OIL RESERVOIR HEATER
+│   │   │   ├── HYD. PUMP MOTOR LOW BOOST PRESSURE SHUTDOWN
+│   │   │   ├── HYD.PUMP MOTOR ACH
+│   │   │   ├── HYD.PUMP MOTOR ACH
+│   │   │   ├── HYD.PUMP MOTOR THERMISTOR
+│   │   │   ├── JUNCTION BOX
+│   │   │   ├── LINE FILTER BLOCKED WARNING
+│   │   │   ├── OIL LEVEL LOW SHUTDOWN
+│   │   │   ├── OIL LEVEL LOW WARNING
+│   │   │   ├── RETURN FILTER BLOCKED WARNING
+│   │   │   ├── SPIDER CONTROL UNIT
+│   │   │   ├── SUCTION VALVE CLOSED
+│   │   │   └── TEMPERATURE SENSING (PT100)
+│   │   └── Grout & Packing Assy.
+│   │       ├── JACKING PLATE
+│   │       ├── PACKING SET FOR DRIVE UNITS
+│   │       ├── PACKING SET FOR FESTOON SUPPOR
+│   │       ├── PACKING SET FOR PLATFORM SUPPO
+│   │       └── packing set for main pivot
+│   ├── Cable Loop Sys. Assy.
+│   │   ├── CABLE LOOP LIMIT
+│   │   ├── CABLE LOOP LIMIT FLAFHER
+│   │   ├── Cable/Hose Tray Assy.
+│   │   │   ├── Cable/Hose Support
+│   │   │   ├── Cable/Hose Tray
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Spring Washer
+│   │   │   └── Tray Support Bracket
+│   │   ├── Foundation Bolt
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Nut
+│   │   ├── Support Assy.
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Spring Washer
+│   │   │   ├── Support Angle
+│   │   │   ├── Support Angle Packing Set
+│   │   │   ├── Support Channel
+│   │   │   └── Taper Washer
+│   │   └── spring washer
+│   ├── Clamp Gear Assy.
+│   │   ├── Bllast Plate
+│   │   ├── Bush (DRG NO 700652)
+│   │   ├── Bush (DRG NO 700657)
+│   │   ├── CYLINDER LOCKED LOCK SWITCH
+│   │   ├── CYLINDER LOCKED LOCK SWITCH
+│   │   ├── CYLINDER LOCKED LOCK SWITCH
+│   │   ├── Clamp Arm
+│   │   │   ├── Ballast Block
+│   │   │   ├── Bend Plate 1
+│   │   │   ├── Bend Plate 2
+│   │   │   ├── End Cap Support Ring
+│   │   │   ├── Hydraulic Cylinder Support
+│   │   │   ├── Pin Support Ring
+│   │   │   ├── Pivot Pin Support
+│   │   │   ├── Plate 1
+│   │   │   ├── Plate 10
+│   │   │   ├── Plate 11
+│   │   │   ├── Plate 12
+│   │   │   ├── Plate 13
+│   │   │   ├── Plate 14
+│   │   │   ├── Plate 2
+│   │   │   ├── Plate 3
+│   │   │   ├── Plate 4
+│   │   │   ├── Plate 5
+│   │   │   ├── Plate 6
+│   │   │   ├── Plate 7
+│   │   │   ├── Plate 8
+│   │   │   ├── Plate 9
+│   │   │   ├── Rib
+│   │   │   ├── Rod
+│   │   │   ├── Side Plate
+│   │   │   ├── Stiffener 1
+│   │   │   ├── Stiffener 2
+│   │   │   ├── Stiffener 3
+│   │   │   ├── Stiffener 4
+│   │   │   ├── Stiffener 5
+│   │   │   ├── Tube
+│   │   │   └── Wear Plate
+│   │   ├── Clamp Beam
+│   │   │   ├── Bottom Plate
+│   │   │   ├── Bush
+│   │   │   ├── Clamp Plate (Front)
+│   │   │   ├── Clamp Plate (Rear)
+│   │   │   ├── Connection Plate
+│   │   │   ├── Front Plate
+│   │   │   ├── Rear Plate
+│   │   │   ├── Side Plate (Left)
+│   │   │   ├── Side Plate (Right)
+│   │   │   ├── Stiffener 1
+│   │   │   ├── Stiffener 2
+│   │   │   ├── Stiffener 3
+│   │   │   ├── Stiffener 4
+│   │   │   ├── Top Plate (Front)
+│   │   │   ├── Top Plate (Middle)
+│   │   │   ├── Top Plate (Rear)
+│   │   │   ├── Wear Deflector Plate 1
+│   │   │   ├── Wear Deflector Plate 2 (LH)
+│   │   │   ├── Wear Deflector Plate 2 (RH)
+│   │   │   ├── Wear Deflector Plate 3
+│   │   │   └── Wear Plate (Bottom)
+│   │   ├── Clamp Pivot Bracket
+│   │   │   ├── Bend Plate (LH)
+│   │   │   ├── Bend Plate (RH)
+│   │   │   ├── End Cap Support Ring
+│   │   │   ├── Pin Support Ring
+│   │   │   ├── Side Plate
+│   │   │   ├── Support Plate 1
+│   │   │   ├── Support Plate 2
+│   │   │   └── Support Tube
+│   │   ├── Cylinder Mounting Bracket
+│   │   ├── Cylinder Side Plate
+│   │   │   ├── Cylinder Side Plate
+│   │   │   └── Cylinder Side Plate
+│   │   ├── DUMPER CLAMP LOWER SOLENOID VALVE
+│   │   ├── DUMPER CLAMP LOWER SOLENOID VALVE
+│   │   ├── DUMPER CLAMP LOWER SOLENOID VALVE
+│   │   ├── DUMPER CLAMP LOWER SOLENOID VALVE
+│   │   ├── DUMPER CLAMP PRESURE SWITCH
+│   │   ├── DUMPER CLAMP PRESURE SWITCH
+│   │   ├── DUMPER CLAMP PRESURE SWITCH
+│   │   ├── DUMPER CLAMP RAISED PROXIMITY SENSOR
+│   │   ├── DUMPER CLAMP RISE SOLENOID VALVE
+│   │   ├── DUMPER CLAMP RISE SOLENOID VALVE
+│   │   ├── DUMPER CLAMP RISE SOLENOID VALVE
+│   │   ├── DUMPER CLAMP RISE SOLENOID VALVE
+│   │   ├── DUMPER CLAMP SOLENOID VALVE
+│   │   ├── End Cap (700650)
+│   │   ├── End Cap (700651)
+│   │   ├── End Cap (700655)
+│   │   ├── End Cap (700656)
+│   │   ├── Headed Bush (700648)
+│   │   ├── Hydrolic Cylinder 125 DA Bore
+│   │   ├── Packing Set (700664)
+│   │   ├── Pad (700662)
+│   │   ├── Pin (700647)
+│   │   ├── Pin (700649)
+│   │   ├── Pin (700654)
+│   │   ├── Rubber Pad (700663)
+│   │   ├── Shear Plate
+│   │   ├── Shear Plate
+│   │   ├── Spring Washer
+│   │   ├── Striker
+│   │   ├── Stud
+│   │   ├── Stud
+│   │   ├── Taper Packing Set
+│   │   └── Taper Washer
+│   ├── Dumper Limit Switches Assy.
+│   │   ├── Clamp Rised L/S
+│   │   │   ├── Flat Washer
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Inductive Sensor Switch
+│   │   │   ├── Spring Pin
+│   │   │   ├── Spring Washer
+│   │   │   ├── Switch Holding Bracket
+│   │   │   └── Switch Sensor Bracket
+│   │   ├── DUMPER AT OVERTRAVEL RETURN LIMIT
+│   │   ├── DUMPER AT OVERTRAVEL TIP LIMIT
+│   │   ├── DUMPER AT RAIL LEVEL LIMIT
+│   │   ├── DUMPER AT RETURN LIMIT
+│   │   ├── DUMPER CLAMP RAISED PROXIMITY SENSOR
+│   │   ├── DUMPER CLAMP RAISED PROXIMITY SENSOR
+│   │   ├── DUMPER CLAMP RAISED PROXIMITY SENSOR
+│   │   ├── DUMPER CLAMP RAISED PROXIMITY SENSOR
+│   │   ├── Overtravel Return L/S
+│   │   │   ├── Channel Support
+│   │   │   ├── Flat Washer
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Limit Switch
+│   │   │   ├── Spring Pin
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   ├── Striker
+│   │   │   ├── Striker Arm
+│   │   │   ├── Switch Support
+│   │   │   └── Taper Washer
+│   │   ├── Overtravel Tip L/S
+│   │   │   ├── Flat Washer
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Limit Switch
+│   │   │   ├── Spring Pin
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   ├── Striker
+│   │   │   ├── Striker Arm
+│   │   │   └── Switch Support
+│   │   ├── RailLevel L/S
+│   │   │   ├── Flat Washer
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Inductive Sensor Switch
+│   │   │   ├── Spring Pin
+│   │   │   ├── Spring Washer
+│   │   │   ├── Switch Holding Bracket
+│   │   │   └── Switch Sensor Bracket
+│   │   └── Return L/S
+│   │       ├── Flat Washer
+│   │       ├── Hex. Bolt
+│   │       ├── Hex. Bolt
+│   │       ├── Hex. Nut
+│   │       ├── Inductive Sensor Switch
+│   │       ├── Spring Pin
+│   │       ├── Spring Washer
+│   │       ├── Switch Holding Bracket
+│   │       └── Switch Sensor Bracket
+│   ├── Dumper Structure Assy.
+│   │   ├── Drive Racks Assy.
+│   │   │   ├── Dumper Rack Section
+│   │   │   ├── Flat Round Washer
+│   │   │   ├── Flat Round Washer
+│   │   │   ├── Self-Locking Hex. Nut
+│   │   │   ├── Socket Head Shoulder Screw
+│   │   │   └── Tooth Template (702405)
+│   │   ├── Dumper Ballast Plate Assy.
+│   │   │   ├── Ballast Plate 1
+│   │   │   ├── Ballast Plate 2
+│   │   │   ├── Ballast Plate 3
+│   │   │   ├── Ballast Plate 4
+│   │   │   ├── Ballast Plate 5
+│   │   │   ├── Ballast Plate 6
+│   │   │   └── Ballast Plate 7
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Nut
+│   │   ├── Hex. Nut
+│   │   ├── Ingo End Ring Assy.
+│   │   │   ├── Base Plate 1
+│   │   │   ├── Base Plate 2
+│   │   │   ├── Base Plate 3
+│   │   │   ├── Base Plate 4
+│   │   │   ├── Base Plate 5
+│   │   │   ├── Bend Plate
+│   │   │   ├── Bottom Flange Plate
+│   │   │   ├── Connecting Bar 1
+│   │   │   ├── Connecting Bar 2
+│   │   │   ├── Connecting Bar 3
+│   │   │   ├── Connecting Bar 4
+│   │   │   ├── Connecting Bar 5
+│   │   │   ├── Diaphragm Plate
+│   │   │   ├── Dumper Rack Support
+│   │   │   ├── End Plate
+│   │   │   ├── Fabricate Tube
+│   │   │   ├── Front Flange Plate
+│   │   │   ├── Front Plate 1
+│   │   │   ├── Front Plate 2
+│   │   │   ├── Inner Boss
+│   │   │   ├── Main Plate
+│   │   │   ├── Middle Plate
+│   │   │   ├── Outer Boss
+│   │   │   ├── Rear Flange Plate
+│   │   │   ├── Rib 1
+│   │   │   ├── Rib 2
+│   │   │   ├── Rod
+│   │   │   ├── Sloping Plate
+│   │   │   ├── Slot Plate
+│   │   │   ├── Stiffener 1
+│   │   │   ├── Stiffener 1
+│   │   │   ├── Stiffener 2
+│   │   │   ├── Stiffener 3
+│   │   │   ├── Stiffener 4
+│   │   │   ├── Stiffener 5
+│   │   │   ├── Stiffener 6
+│   │   │   ├── Stiffener 7
+│   │   │   ├── Stiffener 8
+│   │   │   ├── Support Plate 1
+│   │   │   ├── Support Plate 2
+│   │   │   ├── Support Plate 3
+│   │   │   ├── Support Plate 4
+│   │   │   ├── Top Flange Plate
+│   │   │   └── Top Plate
+│   │   ├── Outgo End Ring Assy.
+│   │   │   ├── End Plate
+│   │   │   ├── Front Flange Plate
+│   │   │   └── Outer Boss
+│   │   ├── Sealing Compound
+│   │   ├── Splice Plate (Flange)
+│   │   ├── Splice Plate (Web)
+│   │   ├── Washer
+│   │   ├── Washer
+│   │   └── side Beam Assy.
+│   ├── Hex. Screw
+│   ├── Ingo & Outgo Drives Assy.
+│   │   ├── Bearing Housing 700587
+│   │   ├── COUPLING CHECK STATION
+│   │   ├── DUMPER ENTRY LCS
+│   │   ├── DUMPER EXIT LCS
+│   │   ├── Drive Bracket (Outgo)
+│   │   ├── Drive Plinth
+│   │   ├── Drive bracket (Ingo)
+│   │   ├── ENCODER
+│   │   ├── Encoder Coupling (HAGGLUNDS)
+│   │   ├── Encoder Coupling (METSO)
+│   │   ├── Encoder Guard
+│   │   ├── Encoder Shaft Extension 700737
+│   │   ├── Encoder Support Bracket(HUGGLU
+│   │   ├── Encoder Support Bracket(METSO)
+│   │   ├── HAGGLUNDS Motor Type CA100
+│   │   ├── JUNCTION BOX
+│   │   ├── JUNCTION BOX
+│   │   ├── JUNCTION BOX
+│   │   ├── JUNCTION BOX
+│   │   ├── Labyrinth Seal Housing(700586)
+│   │   ├── Labyrinth Spacer 700585
+│   │   ├── Lock Nut KM30
+│   │   ├── Non Locating End Cap (Blank)
+│   │   ├── Non Locating End Cap (Encoder)
+│   │   ├── Pinion Shaft (DRG No. 700584)
+│   │   ├── Spherical Roller Bearing-24030
+│   │   ├── Spring Washer
+│   │   ├── Tooth Template (Pinion Shaft)
+│   │   ├── WESTON Oil Seal 120x150x13R4
+│   │   └── WESTON Oil Seal 165x19i0x15 R4
+│   ├── Main Pivots Assy.
+│   │   ├── End Cap
+│   │   ├── End Plate (Locating) Assy.
+│   │   │   ├── End Plate (Locating)
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Seal
+│   │   │   ├── Seal Cover
+│   │   │   └── Spring Washer
+│   │   ├── End Plate (Non-Locating) Assy.
+│   │   │   ├── End Plate (Non-Locating)
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Seal
+│   │   │   ├── Seal Cover
+│   │   │   └── Spring Washer
+│   │   ├── Hex. Bolt
+│   │   ├── Hex. Nut
+│   │   ├── Hex. Screw
+│   │   ├── Housing Assembly
+│   │   │   ├── Bearing Housing
+│   │   │   ├── Bearing Housing (702404)
+│   │   │   │   ├── Lower Housing
+│   │   │   │   ├── Nut
+│   │   │   │   ├── Plain Washer
+│   │   │   │   ├── Screw
+│   │   │   │   ├── Spring Washer
+│   │   │   │   └── Upper Housing
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Spherical Roller Bearing
+│   │   │   ├── Spring Washer
+│   │   │   └── Spring Washer
+│   │   ├── Locking Assy.
+│   │   ├── Pedestal Assy.
+│   │   │   ├── Grease Nipple
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Pivot Stool
+│   │   │   ├── Plug
+│   │   │   └── Shear Block
+│   │   ├── Pivot Shaft
+│   │   ├── Spacer
+│   │   ├── Thrust Washer
+│   │   └── Thrust Washer (700709)
+│   ├── Photocelles & Uncoupling Stati
+│   │   ├── Foundation Bolt
+│   │   ├── Penant Holding Post Assy.
+│   │   │   ├── Chain Assy.
+│   │   │   ├── Hex. Nut
+│   │   │   ├── JUNCTION BOX
+│   │   │   ├── Pendant Control Station
+│   │   │   ├── Pendant Control Station
+│   │   │   ├── Pendant Holding Post
+│   │   │   └── Spring Washer
+│   │   ├── Photocell Post Assy.
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Screw
+│   │   │   ├── P/Cell Lens Hood
+│   │   │   ├── P/Cell Mounting Bracket
+│   │   │   ├── Photocell Receiver
+│   │   │   ├── Photocell Receiver
+│   │   │   ├── Photocell Receiver
+│   │   │   ├── Photocell Receiver Post
+│   │   │   ├── Photocell Transmitter
+│   │   │   ├── Photocell Transmitter
+│   │   │   ├── Photocell Transmitter
+│   │   │   └── Spring Washer
+│   │   └── Platform
+│   │       ├── Clip
+│   │       ├── Hex. Bolt
+│   │       ├── Hex. Bolt
+│   │       ├── Hex. Nut
+│   │       │   └── Spring Washer
+│   │       └── Mounting Plate
+│   ├── Platform Assy.
+│   │   ├── Hex. Nut
+│   │   ├── Hex. Screw
+│   │   ├── Hex. Screw
+│   │   ├── Hex. Screw
+│   │   ├── Platform 1 Assy.
+│   │   │   ├── HSFG FLAT ROUND WASHER
+│   │   │   ├── HSFG HEX NUT
+│   │   │   ├── LONG HSFG HEX.BOLT
+│   │   │   ├── LONG PRECISION HEX BOLT
+│   │   │   ├── PANDROL CLIP
+│   │   │   ├── PANDROLSHOULDER
+│   │   │   ├── PLATFORM STRUCTURE
+│   │   │   ├── PRECISION HEX NUT
+│   │   │   ├── SPRING WASHER
+│   │   │   ├── TAPER WASHER
+│   │   │   ├── TAPER WASHER
+│   │   │   ├── WHEEL LOCATING ANGLE
+│   │   │   ├── WHEEL LOCATING ANGLE BRACKET
+│   │   │   └── rail
+│   │   ├── Platform 2 Assy.
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── FLOOR PLATE
+│   │   │   ├── LG C’SK SOCKET HD SCREW
+│   │   │   ├── LG HEX. HD.SCREW
+│   │   │   ├── LG PREC. HEX. BOLT
+│   │   │   ├── LG PREC. HEX. BOLT
+│   │   │   ├── PREC. HEX. NUT
+│   │   │   ├── PREC. HEX. NUT
+│   │   │   ├── SPRING WASHER
+│   │   │   ├── SPRING WASHER
+│   │   │   ├── SUPPORT BRACKET
+│   │   │   ├── SUPPORT BRACKET
+│   │   │   ├── SUPPORT BRACKET
+│   │   │   └── angle
+│   │   ├── Safety Hook Assy.
+│   │   │   ├── Bush (DRG NO. 700691)
+│   │   │   ├── Cover Plate (700673)
+│   │   │   ├── Cover Plate (700679)
+│   │   │   ├── Grease Nipple
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Pivot Roller (700678)
+│   │   │   ├── Pivot Roller Pin (700677)
+│   │   │   ├── Safety Hook (Ingo End)
+│   │   │   │   ├── Bush
+│   │   │   │   └── Hook Plate
+│   │   │   ├── Safety Hook (OutGo End)
+│   │   │   │   ├── Bush
+│   │   │   │   └── Hook Plate
+│   │   │   ├── Spring Washer
+│   │   │   └── Thrust Washer (700657)
+│   │   ├── Spring Washer
+│   │   ├── Spring Washer
+│   │   ├── Support Assy.
+│   │   │   ├── C'sk Screw
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Bolt
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Hex. Nut
+│   │   │   ├── Lower Locating Block
+│   │   │   │   ├── Bar
+│   │   │   │   └── Plate
+│   │   │   ├── Packing Set
+│   │   │   ├── Packing Set
+│   │   │   ├── Roller Support Ramp
+│   │   │   │   ├── Plate 1
+│   │   │   │   ├── Plate 2
+│   │   │   │   ├── Plate 3
+│   │   │   │   ├── Plate 4
+│   │   │   │   ├── Plate 5
+│   │   │   │   └── Plate 6
+│   │   │   ├── Spring Washer
+│   │   │   ├── Spring Washer
+│   │   │   └── Support Beam
+│   │   ├── Support Roller Assy.
+│   │   │   ├── Bush (DRG NO. 700691)
+│   │   │   ├── Grease Nipple
+│   │   │   ├── Hex. Screw
+│   │   │   ├── Spring Washer
+│   │   │   ├── Support Roller
+│   │   │   ├── Support Roller Bracket (Ingo E
+│   │   │   │   ├── Base Plate
+│   │   │   │   ├── Plate 1
+│   │   │   │   ├── Plate 2
+│   │   │   │   ├── Side Plate (Ingo)
+│   │   │   │   ├── Side Plate (Outgo)
+│   │   │   │   ├── Stiffener 1
+│   │   │   │   └── Stiffener 2
+│   │   │   ├── Support Roller Bracket (Outgo
+│   │   │   │   ├── Side Plate (Ingo)
+│   │   │   │   └── Side Plate (Outgo)
+│   │   │   └── Support Roller Pin
+│   │   │       ├── Flange
+│   │   │       └── Pin
+│   │   ├── Thrust Pad
+│   │   └── Upper Locating Block
+│   │       ├── Bar
+│   │       └── Plate
+│   ├── Spill & Wear Plates Assy.
+│   └── Wagon Size Limit Plate
+├── ELECTRICAL ROOM
+│   ├── 400V&200V AUX. SUPPLIES
+│   ├── AIR CONDITIONING UNIT
+│   ├── AIR CONDITIONING UNIT
+│   ├── BUS SWITCH
+│   ├── CHARGER HYDRAULIC COOLING FAN MOTOR
+│   ├── CHARGER HYDRAULIC MOTOR NO.1
+│   ├── CHARGER HYDRAULIC MOTOR NO.2
+│   ├── CONTROL TRANSFORMER
+│   ├── DUMPER CLAMPS HYD. PUMP MOTOR
+│   ├── DUMPER HYDRAULIC COOLING FAN MOTOR
+│   ├── DUMPER HYDRAULIC PUMP MOTOR
+│   ├── INCOMER
+│   ├── MAIN CONTROL DESK
+│   ├── MCC PANEL
+│   ├── MV PANEL
+│   ├── PLC PANEL
+│   ├── TRANSFORMER
+│   ├── UPS
+│   ├── WHELL GRIPPER /DUMPER HYD. COOLING FAN
+│   └── WHELL GRIPPER HYD. PUMP MOTOR
+├── Grippers Assy.
+│   ├── Gripper Covers Assy.
+│   │   ├── Flat Round Washer
+│   │   ├── Gripper Cover Plate (700750)
+│   │   │   ├── Bend Plate
+│   │   │   ├── Chequer Plate
+│   │   │   ├── Plate
+│   │   │   └── Rod
+│   │   ├── Gripper Cover Plate (700751)
+│   │   │   ├── Bend Chequer Plate
+│   │   │   └── Slope Chequer Plate
+│   │   ├── Gripper Cover Plate (700752)
+│   │   │   └── Bend Chequer Plate
+│   │   ├── Gripper Cover Plate (700753)
+│   │   │   └── Bend Chequer Plate
+│   │   ├── Gripper Cover Plate (700754)
+│   │   │   ├── Bend Chequer Plate
+│   │   │   └── Slope Chequer Plate
+│   │   ├── Gripper Cover Plate (700755)
+│   │   │   └── Chequer Plate
+│   │   ├── Gripper Cover Plate (700756)
+│   │   │   ├── Bend Chequer Plate
+│   │   │   ├── Chequer Plate
+│   │   │   └── Slope Chequer Plate
+│   │   ├── Gripper Cover Plate (700757)
+│   │   │   └── chequer Plate
+│   │   ├── Gripper Cover Plate (700758)
+│   │   │   └── Chequer Plate
+│   │   ├── Hex CSK HD Screw
+│   │   ├── Hex Prec. Nut
+│   │   └── Packing set
+│   ├── Gripper Grease Lub. Sys. Assy.
+│   │   ├── ADAPTOR
+│   │   ├── Bright Washer
+│   │   ├── Bright Washer
+│   │   ├── COPPER TUBE
+│   │   ├── DOUBLE TUBE CLIP c/w SCREW
+│   │   ├── MALE STUD COUPLING
+│   │   ├── MALE STUD COUPLING
+│   │   ├── MALE STUD COUPUNG
+│   │   ├── MANUAL PUMP
+│   │   ├── MODULE DDMS
+│   │   ├── PUMP MOUNTING BRACKET
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SINGLE TUBE CLIP c/w SCREW
+│   │   ├── SINGLE TUBE CLIP c/w SCREW
+│   │   ├── STEEL TUBE
+│   │   ├── TEE
+│   │   ├── TUBE UNION
+│   │   ├── TUBE UNION
+│   │   ├── VALVE STEM COVER
+│   │   ├── elbow
+│   │   ├── screw
+│   │   └── ‘O' RING
+│   ├── Gripper Hydraulics Assy.
+│   │   ├── DUMPER CLAMPS COLD STSRT
+│   │   ├── DUMPER CLAMPS FILTER BLOCKED
+│   │   ├── DUMPER CLAMPS HYD. PUMP MOTOR
+│   │   ├── DUMPER CLAMPS HYD. PUMP MOTOR SUCTION VALVE CLOSED
+│   │   ├── DUMPER CLAMPS SYSTEM LOAD UP SOLENOID VALVE
+│   │   ├── DUMPER CLAMPS SYSTEM LOAD UP SOLENOID VALVE
+│   │   ├── HEATER
+│   │   ├── HEATER
+│   │   ├── HEATER
+│   │   ├── HYD. COOLING FAN MOTOR
+│   │   ├── JUNCTION BOX
+│   │   ├── OIL LEVEL LOW-SHUTDOWN
+│   │   ├── OIL LEVEL LOW-WARNING
+│   │   ├── OIL TEMPERATURE HIGH SHUTDOWN
+│   │   ├── OIL TEMPERATURE HIGH START COOLING FAN
+│   │   ├── OIL TEMPERATURE LOW PRREVENT STARTUP
+│   │   ├── Rotex Coupling 42
+│   │   │   ├── Hub (Motor Side)
+│   │   │   ├── Hub (Pump Side)
+│   │   │   ├── Screw
+│   │   │   └── Spider
+│   │   ├── WHEEEL GRIPPERS/DUMPER CLAMPS LCS
+│   │   ├── WHEEL GRIPPERS HYD. PUMP MOTOR SUCTION VALVE CLOSED
+│   │   ├── WHELL GRIPPER FILTER BLOCKED
+│   │   ├── WHELL GRIPPERS ENGAGE SOLENOID VALVE
+│   │   ├── WHELL GRIPPERS ENGAGED MAXIMUM PRESSURE
+│   │   ├── WHELL GRIPPERS ENGAGED MINIMUMM PRESSURE
+│   │   ├── WHELL GRIPPERS HYD. PUMP MOTOR
+│   │   ├── WHELL GRIPPERS RELEASE SOLENOID VALVE
+│   │   ├── WHELL GRIPPERS SYSTEM LOAD UP SOLENOID VALVE
+│   │   └── WHELL GRIPPERS SYSTEM LOAD UP SOLENOID VALVE
+│   └── Gripper Unit Assy.
+│       ├── Control Equipment
+│       ├── Flat Round Washer
+│       ├── Foundation Assy.
+│       │   ├── Adjusting Strip
+│       │   ├── Foundation Mounting Plate
+│       │   ├── Foundation Plate
+│       │   ├── Hex. Bolt
+│       │   ├── Hex. Nut
+│       │   ├── Spacer
+│       │   └── Spring Washer
+│       ├── Gripper Frame Assy.
+│       │   ├── Bush (DRG NO. S137175)
+│       │   └── Gripper Main Frame
+│       ├── Gripper Operating Assy.
+│       │   ├── Arm Pin
+│       │   ├── Cylinder Crank
+│       │   ├── Gripper Hydraulic Cylinder
+│       │   │   ├── Nut Guide (LT27564)
+│       │   │   └── SPH BRG Rod End
+│       │   ├── Hex. Bolt
+│       │   ├── Hex. Nut
+│       │   ├── Lever Arm Assy.
+│       │   │   ├── Crank
+│       │   │   ├── Crank Pin
+│       │   │   ├── Hex. Bolt
+│       │   │   ├── Hex. Nut
+│       │   │   ├── Lever Arm
+│       │   │   ├── Lever Arm
+│       │   │   ├── Plain Bearing(Oilite GM12×50LG
+│       │   │   ├── Plain Bearing(Oilite GM9×35 LG
+│       │   │   ├── Pressure Bar M534934
+│       │   │   ├── Socket HD Capscrew
+│       │   │   ├── Spring Pin
+│       │   │   ├── Spring Washer
+│       │   │   └── Thrust Washer
+│       │   ├── Mounting Plate Assy.
+│       │   │   ├── Bush
+│       │   │   ├── Cylinder Mounting Plate
+│       │   │   ├── Flange Bearing
+│       │   │   ├── Hex. Bolt
+│       │   │   ├── Hex. Nut
+│       │   │   ├── Spacer
+│       │   │   └── Spring Washer
+│       │   ├── Operating Shaft (M137171)
+│       │   ├── Parallel Key
+│       │   ├── Reaction Shaft Assy.
+│       │   │   ├── Bush (DRG NO. S137174)
+│       │   │   ├── Eccentric Pin M135383
+│       │   │   ├── Hex. Bolt
+│       │   │   ├── Locking Element
+│       │   │   ├── Reaction Shaft
+│       │   │   ├── Specer Sleeve
+│       │   │   └── Spring Washer
+│       │   ├── Rod Eye Pin
+│       │   ├── Spring Pin
+│       │   ├── Spring Pin
+│       │   ├── Spring Washer
+│       │   └── Thrust Washer
+│       ├── Hex. Bolt
+│       ├── Hex. Nut
+│       ├── Inner Packing Set
+│       ├── JUNCTION BOX
+│       ├── Outer Packing Set
+│       ├── Rail Clip (702381)
+│       ├── WHELL GRIPPER NO.1 RELEASED
+│       ├── WHELL GRIPPER NO.2 RELEASED
+│       ├── WHELL GRIPPER NO.3 RELEASED
+│       ├── WHELL GRIPPER NO.4 RELEASED
+│       ├── WHELL GRIPPER NO.5 RELEASED
+│       ├── WHELL GRIPPER NO.6 RELEASED
+│       ├── WHELL GRIPPER NO.7 RELEASED
+│       └── WHELL GRIPPER NO.8 RELEASED
+│           ├── Hex. Screw
+│           ├── Hex. Screw
+│           ├── Plain Washer
+│           ├── Plain Washer
+│           ├── Proximity Switch
+│           ├── Spring Washer
+│           ├── Spring Washer
+│           └── Switch Target
+└── Unloading Sys. Foundations Ass

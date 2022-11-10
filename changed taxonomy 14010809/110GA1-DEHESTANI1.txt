@@ -1,0 +1,24 @@
+110GA1-DEHESTANI1.xlsx
+├── ACCESSORY
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+└── PLATFORM
+    ├──  SCREW
+    ├──  SCREW
+    ├──  SCREW
+    ├── ACTUATOR
+    │   ├── 110GA1.ME01 FEEDER
+    │   ├── ELECTRO MOTOR
+    │   ├── JUNCTION BOX
+    │   ├── LIMIT SWITCH
+    │   ├── LIMIT SWITCH
+    │   └── LOCAL CONTROL BOX
+    ├── DEFLECTOR PLATE
+    ├── NUT
+    ├── NUT
+    ├── NUT
+    ├── SPRING WASHER
+    ├── SPRING WASHER
+    ├── SPRING WASHER
+    └── flang Bearing

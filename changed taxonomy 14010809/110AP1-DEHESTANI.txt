@@ -1,0 +1,161 @@
+110AP1-DEHESTANI.xlsx
+├── ACCESSORY
+│   ├── CBALE
+│   ├── EARTHING
+│   └── LADDER
+├── Chain
+│   ├── Drive Section
+│   │   ├── Bearing
+│   │   ├── Bushing
+│   │   ├── Bushing
+│   │   ├── Cap. Screw
+│   │   ├── Cap. Screw
+│   │   ├── Drive Shaft
+│   │   ├── Drive Wheel
+│   │   ├── Drive Wheel
+│   │   ├── Frame
+│   │   ├── Gear Coupling
+│   │   ├── Key
+│   │   ├── Key
+│   │   ├── Locating Ring
+│   │   ├── Plummer Block Housing
+│   │   ├── Plummer Block Housing
+│   │   └── Washer
+│   ├── Frame
+│   │   └── Rail
+│   ├── Roller Cross Section
+│   │   ├──  Pan
+│   │   ├──  Roller
+│   │   ├── Bearing
+│   │   ├── Bushing
+│   │   ├── Cap. Screw
+│   │   ├── Castellated Nut
+│   │   ├── Connecting Rod
+│   │   ├── Cotter Pin
+│   │   ├── Elast Bushing
+│   │   ├── Elast Bushing
+│   │   ├── Hexagon Screw
+│   │   ├── Hexagon Screw
+│   │   ├── Link
+│   │   ├── Lock Nut
+│   │   ├── Locking Washer
+│   │   ├── Nut
+│   │   ├── Pin
+│   │   ├── Ring
+│   │   ├── Screw Allen
+│   │   ├── Shaft
+│   │   ├── Washer
+│   │   ├── Washer
+│   │   └── Washer
+│   └── Tail Shaft Section
+│       ├── Bearing
+│       ├── Bushing
+│       ├── Hexagon Screw
+│       ├── Key
+│       ├── Locating Ring
+│       ├── Plummer Block Housing
+│       ├── Tail Shaft
+│       ├── Tail Wheel
+│       ├── Tension System
+│       │   ├── Cap. Screw
+│       │   ├── Cap. Screw
+│       │   ├── Steel Plate
+│       │   ├── Steel Plate
+│       │   ├── Steel Plate
+│       │   ├── Steel Plate
+│       │   └── Welding Compound
+│       └── Washer
+├── DRIVE UNIT
+│   ├── FEDEER
+│   ├── GEARBOX
+│   │   ├── low speed coupling
+│   │   └── pulley
+│   ├── HEATER
+│   ├── HYDRO COUPLING
+│   │   ├── low speed coupling
+│   │   ├── low speed coupling protection
+│   │   ├── protection support
+│   │   └── protection support
+│   ├── LOCAL CONTROL BOX
+│   ├── MOTOR 
+│   │   └── pulley
+│   ├── V-BELT
+│   │   ├── V-BELT protection
+│   │   └── protection support
+│   └── structure
+│       └── bedplate
+├── Input Hopper
+│   ├── Hardox
+│   ├── Mesh
+│   └── Teflon
+├── Output Hopper
+│   ├── Inspection Window
+│   ├── LEVEL SWITCH
+│   ├── Manual Gate
+│   ├── Mesh
+│   ├── Skirtboard
+│   └── Supports
+├── Scraper Assembly
+│   ├── Chain
+│   │   ├── Link
+│   │   ├── Rail
+│   │   └── Scraper Angle
+│   ├── DRIVE UNIT
+│   │   ├── Electromotor ME02
+│   │   ├── FEDEER
+│   │   └── LOCAL CONTROL BOX
+│   ├── Drive Section
+│   │   ├── Bearing
+│   │   ├── Bushing
+│   │   ├── Bushing
+│   │   ├── Cap. Screw
+│   │   ├── Cap. Screw
+│   │   ├── Drive Shaft
+│   │   ├── Drive Wheel
+│   │   ├── Drive Wheel
+│   │   ├── Frame
+│   │   ├── Key 
+│   │   ├── Key 2end Rd.
+│   │   ├── Locating Ring
+│   │   ├── Plummer Block Housing
+│   │   ├── Plummer Block Housing
+│   │   ├── Reducer
+│   │   └── Washer
+│   ├── Structure
+│   │   ├── JUNCTION BOX
+│   │   ├── Reaction Arm
+│   │   ├── Reaction Arm Bearing
+│   │   │   ├── Hexagon Screw
+│   │   │   ├── Plate Ch. 10
+│   │   │   └── Plate Ch. 15
+│   │   └── SPEED SWITCH
+│   └── Tail Shaft Section
+│       ├── Bearing
+│       ├── Bushing
+│       ├── Cap. Screw
+│       ├── Key 2end Rd.
+│       ├── Locating Ring
+│       ├── Plummer Block Housing
+│       ├── Tail Shaft 
+│       ├── Tail Wheel
+│       ├── Tension System
+│       │   ├── Hexagon Screw
+│       │   ├── Hexagon Screw
+│       │   ├── Nut
+│       │   └── Tighte Bar
+│       └── Washer
+└── Structure
+    ├──  Rear Guard
+    ├── Feeder Assembly
+    ├── Guard
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── JUNCTION BOX
+    ├── Leveling Plates
+    ├── ROPE SWITCH
+    ├── ROPE SWITCH
+    ├── Reaction Lever
+    ├── Reaction Lever Bearing
+    └── SPEED SWITCH

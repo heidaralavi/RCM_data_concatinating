@@ -1,0 +1,885 @@
+110ST01-DEHESTANI.xlsx
+├──  CONTROL CABLE REEL MECHANISM
+│   ├── DRUM EMPTY
+│   ├── DRUM FULL
+│   ├── ELECTRO MOTOR
+│   ├── LOCAL CONTROL BOX
+│   ├── POWER REEL SLIP RING HOUSE
+│   ├── SLACK CABLE GUIDE BACKWARD
+│   ├── SLACK CABLE GUIDE FORWARD
+│   ├── TIGHT CABLE GUIDE BACKWARD
+│   └── TIGHT CABLE GUIDE FORWARD
+├──  POWER CABLE REEL MECHANISM
+│   ├── DRUM EMPTY
+│   ├── DRUM FULL
+│   ├── ELECTRO MOTOR
+│   ├── HEATER
+│   ├── LOCAL CONTROL BOX
+│   ├── POWER REEL SLIP RING HOUSE
+│   ├── SLACK CABLE GUIDE BACKWARD
+│   ├── SLACK CABLE GUIDE FORWARD
+│   ├── TIGHT CABLE GUIDE BACKWARD
+│   └── TIGHT CABLE GUIDE FORWARD
+├──  RAILWAY
+│   ├── ANCHOR BOLTS
+│   ├── ANCHOR BOLTS
+│   ├── ANCHOR BOLTS
+│   ├── ANCHORING PLAT
+│   ├── BASE PLATE
+│   ├── BOLT 
+│   ├── BUFFER
+│   ├── BUFFER
+│   ├── CONCRETE BLOCKS FOR CABLING
+│   ├── FASTENER CAP
+│   ├── FLAT WASHER 
+│   ├── JOINT PLATE
+│   ├── L-BEAM 
+│   ├── NUT.
+│   ├── NUT. 
+│   ├── NUT. 
+│   ├── PIT FOR VOLTAGE FEED
+│   ├── RAIL CLAMP LEFT SIDE THRUSTOR 1
+│   ├── RAIL CLAMP LEFT SIDE THRUSTOR 2
+│   ├── RAIL CLAMP LEFT SIDE THRUSTOR 3
+│   ├── RAIL CLAMP LEFT SIDE THRUSTOR 4
+│   ├── RAIL CLAMP LS RELEASED
+│   ├── RAIL CLAMP LS RELEASED
+│   ├── RAIL CLAMP RS RELEASED
+│   ├── RAIL CLAMP RS RELEASED
+│   ├── RAIL UIC-60
+│   ├── SPRING WASHER 
+│   └── SPRING WASHER 
+├── 110.ST1 TRAVELLING MECHANISM
+│   ├── ASSEMBLY OF DRIVEN TRAVELLING MECHANISM
+│   │   ├── 4 WHEELS Ø500 BOGIE
+│   │   │   ├── 4 WHELLS BOGIE D.500
+│   │   │   ├── DRIVEN WHEEL Ø500 UIC ASSEMBLY
+│   │   │   │   ├── BEARING
+│   │   │   │   ├── BEARING SUPPOT BUSHING
+│   │   │   │   ├── DRIVEN WHEEL ø500 UIC60
+│   │   │   │   ├── INT. BUSHING 
+│   │   │   │   ├── LOCK NUT 
+│   │   │   │   ├── LOCK WASHER 
+│   │   │   │   └── NILOS RING 
+│   │   │   ├── GREASING SYSTEM
+│   │   │   ├── HEXAG. NUT 
+│   │   │   ├── OILER TECALEMIT 
+│   │   │   ├── PIN
+│   │   │   ├── PLATE BRAKE 
+│   │   │   ├── RETAINING PLATE
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW 
+│   │   │   ├── SECONDARY BOGIE
+│   │   │   ├── SECONDARY BOGIE SHAFT
+│   │   │   ├── SPRING WASHER 
+│   │   │   ├── SPRING WASHER 
+│   │   │   └── WHEEL SHAFT
+│   │   ├── ARTICULATION BOLT Ø150
+│   │   ├── ARTICULATION SUPPORT 
+│   │   ├── BOGIE CLOSING PLATE
+│   │   ├── EARTHING 
+│   │   ├── ELECTRO MOTOR
+│   │   │   └── PT100
+│   │   ├── ELECTRO MOTOR
+│   │   │   └── PT100
+│   │   ├── ELECTRO MOTOR
+│   │   │   └── PT100
+│   │   ├── ELECTRO MOTOR
+│   │   │   └── PT100
+│   │   ├── ENCODER
+│   │   ├── END STOP BACKWARD
+│   │   ├── END STOP FORWARD
+│   │   ├── FLASHER
+│   │   ├── FLASHER
+│   │   ├── FLAT WASHER 
+│   │   ├── GANTRY BRAKE
+│   │   ├── GANTRY BRAKE
+│   │   ├── GANTRY BRAKE
+│   │   ├── GANTRY BRAKE
+│   │   ├── HEXAG. NUT
+│   │   ├── HEXAG. NUT
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HORN
+│   │   ├── HORN
+│   │   ├── JUNCTION BOX
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── LUG
+│   │   ├── OVERTRAVEL BACKWARD
+│   │   ├── OVERTRAVEL FORWARD
+│   │   ├── RAIL CLEANER
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SLOWDOWN BACKWARD
+│   │   ├── SLOWDOWN FORWARD
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── SYCHRONIZING
+│   │   ├── TRAVEL BRAKE LS RELEASED
+│   │   ├── TRAVEL BRAKE LS RELEASED
+│   │   ├── TRAVEL BRAKE RS RELEASED
+│   │   ├── TRAVEL BRAKE RS RELEASED
+│   │   ├── WASHER
+│   │   ├── WASHER 
+│   │   └── WASHER 
+│   ├── ASSEMBLY OF TRAVELLING MECHANISM WITH ENCODER SHAFT
+│   │   ├── 4 WHEELS Ø500 BOGIE WITH ENCODER
+│   │   │   ├── 4 WHELLS BOGIE 
+│   │   │   ├── BEARING 
+│   │   │   ├── BEARING 
+│   │   │   ├── BEARING BUSHING
+│   │   │   ├── BEARING INA 
+│   │   │   ├── BEARING SUPPORT HUB
+│   │   │   ├── BEARING SUPPORT HUB
+│   │   │   ├── BOLT
+│   │   │   ├── BRAKE 
+│   │   │   ├── BRAKE PROTECTION PLAT
+│   │   │   ├── BRAKE SBH 
+│   │   │   ├── BRIGHT KEY 
+│   │   │   ├── BRIGHT KEY 
+│   │   │   ├── BUFFER
+│   │   │   ├── CHASSIS
+│   │   │   ├── CIRCLIP 
+│   │   │   ├── CLOSING COVER
+│   │   │   ├── CLOSING WASHER
+│   │   │   ├── CLOSING WASHER
+│   │   │   ├── COUPLING WITH PULLEY 
+│   │   │   ├── COVER
+│   │   │   ├── COVER
+│   │   │   ├── COVER
+│   │   │   ├── DRIVE WHEEL Ø500 UIC60 ASSEMB.
+│   │   │   │   ├── BEARING 
+│   │   │   │   ├── BEARING SUPPOT BUSHING
+│   │   │   │   ├── DRIVE WHEEL ø500 UIC60
+│   │   │   │   ├── FLAT WASHER 
+│   │   │   │   ├── HEXAG. NUT 
+│   │   │   │   ├── INT. BUSHING 
+│   │   │   │   ├── LOCK NUT 
+│   │   │   │   ├── LOCK WASHER 
+│   │   │   │   ├── NILOS RING
+│   │   │   │   ├── SCREW 
+│   │   │   │   ├── SPRING WASHER 
+│   │   │   │   ├── STRAIGHT PIN 
+│   │   │   │   └── TOOTHED WHEEL 
+│   │   │   ├── FIXING SCREW
+│   │   │   ├── GEAR MOTOVARIO
+│   │   │   ├── GREASING SYSTEM
+│   │   │   ├── HEXAG. NUT
+│   │   │   ├── HEXAG. NUT
+│   │   │   ├── HEXAG. NUT 
+│   │   │   ├── HEXAG. NUT 
+│   │   │   ├── INT. RING
+│   │   │   ├── INT. RING
+│   │   │   ├── INT. RING 
+│   │   │   ├── INT/EXT RING 
+│   │   │   ├── LOCK NUT 
+│   │   │   ├── LOCK WASHER
+│   │   │   ├── MOTOR 
+│   │   │   ├── NILOS RING 
+│   │   │   ├── NILOS RING 
+│   │   │   ├── NYLOCK NUT 
+│   │   │   ├── NYLOCK NUT 
+│   │   │   ├── NYLOCK NUT 
+│   │   │   ├── OUT-PUT SHAFT
+│   │   │   ├── PIN 
+│   │   │   ├── PLATE BRAKE 
+│   │   │   ├── PROTECTION Ø500
+│   │   │   ├── RETAINING PLATE
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SECONDARY BOGIE
+│   │   │   ├── SECONDARY BOGIE SHAFT
+│   │   │   ├── SPLIT PIN 
+│   │   │   ├── SPRING WASHER
+│   │   │   ├── SPRING WASHER 
+│   │   │   ├── SPRING WASHER 
+│   │   │   ├── SPRING WASHER 
+│   │   │   ├── SPRING WASHER 
+│   │   │   ├── TAB WASHER 
+│   │   │   ├── TAPER WASHER 
+│   │   │   ├── TOOTHED WHEEL 
+│   │   │   ├── TOOTHED WHEEL 
+│   │   │   ├── WASHER 
+│   │   │   ├── WASHER 
+│   │   │   ├── WASHER 
+│   │   │   ├── WHEEL SHAFT
+│   │   │   └── WINDOW CLOSING COVER
+│   │   ├── ARTICULATION BOLT Ø150
+│   │   ├── ARTICULATION SUPPORT D150
+│   │   ├── BRAKE RAIL CLEANER
+│   │   ├── EARTHING 
+│   │   ├── ENCODER SHAFT Ø 10
+│   │   ├── FLAT WASHER 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── HEXAG. NUT 
+│   │   ├── LUG
+│   │   ├── RAIL CLEANER
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SCREWED PIN 
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER 
+│   │   ├── WASHER
+│   │   ├── WASHER 
+│   │   ├── WASHER 
+│   │   └── WASHER 
+│   └── ASSEMBLY OF TRAVELLING MECHANISM WITHOUT ENCODER SHAFT
+│       ├── 4 WHEELS Ø500 BOGIE NO ENCODER
+│       │   ├── 4 WHELLS BOGIE D.500
+│       │   ├── BEARING 
+│       │   ├── BEARING 
+│       │   ├── BEARING 
+│       │   ├── BEARING BUSHING
+│       │   ├── BEARING SUPPORT HUB
+│       │   ├── BEARING SUPPORT HUB
+│       │   ├── BOLT 
+│       │   ├── BRAKE 
+│       │   ├── BRAKE 
+│       │   ├── BRAKE PROTECTION PLATE
+│       │   ├── BRIGHT KEY
+│       │   ├── BRIGHT KEY 
+│       │   ├── BUFFER 
+│       │   ├── CHASSIS
+│       │   ├── CIRCLIP 
+│       │   ├── CLOSING COVER
+│       │   ├── CLOSING WASHER
+│       │   ├── COUPLING WITH PULLEY 
+│       │   ├── COVER
+│       │   ├── COVER
+│       │   ├── DRIVE WHEEL Ø500 UIC60 ASSEMB.
+│       │   │   ├── BEARING 
+│       │   │   ├── BEARING SUPPOT BUSHING
+│       │   │   ├── DRIVE WHEEL ø500 UIC60
+│       │   │   ├── FLAT WASHER 
+│       │   │   ├── HEXAG. NUT 
+│       │   │   ├── INT. BUSHING
+│       │   │   ├── LOCK NUT 
+│       │   │   ├── LOCK WASHER
+│       │   │   ├── NILOS RING 
+│       │   │   ├── SCREW
+│       │   │   ├── SPRING WASHER 
+│       │   │   ├── STRAIGHT PIN
+│       │   │   └── TOOTHED WHEEL 
+│       │   ├── FIXING SCREW
+│       │   ├── GEAR MOTOVARIO
+│       │   ├── GREASING SYSTEM
+│       │   ├── HEXAG. NUT 
+│       │   ├── HEXAG. NUT 
+│       │   ├── HEXAG. NUT 
+│       │   ├── HEXAG. NUT 
+│       │   ├── INT. RING 
+│       │   ├── INT. RING 
+│       │   ├── INT. RING 
+│       │   ├── INT/EXT RING 
+│       │   ├── LOCK NUT
+│       │   ├── LOCK WASHER 
+│       │   ├── MOTOR 
+│       │   ├── NILOS RING
+│       │   ├── NILOS RING
+│       │   ├── NYLOCK NUT 
+│       │   ├── NYLOCK NUT 
+│       │   ├── NYLOCK NUT 
+│       │   ├── OUT-PUT SHAFT
+│       │   ├── PIN 
+│       │   ├── PLATE BRAKE 
+│       │   ├── PROTECTION
+│       │   ├── RETAINING PLATE
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SCREW 
+│       │   ├── SECONDARY BOGIE
+│       │   ├── SECONDARY BOGIE SHAFT
+│       │   ├── SPLIT PIN 
+│       │   ├── SPRING WASHER
+│       │   ├── SPRING WASHER 
+│       │   ├── SPRING WASHER 
+│       │   ├── SPRING WASHER 
+│       │   ├── SPRING WASHER 
+│       │   ├── TAB WASHER 
+│       │   ├── TAPER WASHER 
+│       │   ├── TOOTHED WHEEL 
+│       │   ├── TOOTHED WHEEL 
+│       │   ├── WASHER
+│       │   ├── WASHER 
+│       │   ├── WASHER 
+│       │   ├── WHEEL SHAFT
+│       │   └── WINDOW CLOSING COVER
+│       ├── ARTICULATION BOLT 
+│       ├── ARTICULATION SUPPORT 
+│       ├── BRAKE RAIL CLEANER
+│       ├── EARTHING 
+│       ├── FLAT WASHER 
+│       ├── HEXAG. NUT
+│       ├── HEXAG. NUT
+│       ├── HEXAG. NUT
+│       ├── HEXAG. NUT
+│       ├── HEXAG. NUT 
+│       ├── HEXAG. NUT 
+│       ├── LUG
+│       ├── RAIL CLEANER
+│       ├── SCREW
+│       ├── SCREW 
+│       ├── SCREW 
+│       ├── SCREW 
+│       ├── SCREWED PIN 
+│       ├── SPRING WASHER 
+│       ├── SPRING WASHER 
+│       ├── WASHER
+│       ├── WASHER 
+│       ├── WASHER 
+│       └── WASHER 
+├── ELECTRICAL ROOM
+│   ├── 110ST01BO01.ME01
+│   ├── 110ST01LU01.ME01
+│   ├── 110ST01LU01.ME02
+│   ├── 110ST01RC01.ME01
+│   ├── 110ST01RC01.ME02
+│   ├── 110ST01RC01.ME03
+│   ├── 110ST01RC01.ME04
+│   ├── 110ST01RL01.ME01
+│   ├── 110ST01RL02.ME01
+│   ├── 110ST01TD01
+│   ├── AUX. DISTRIBUTION VOLTAGE
+│   ├── BRAKING RESISTOR
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── EMERGENCY PUSHBUTTON
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX WIND SPEED SENSOR
+│   ├── OPERATOR DESK
+│   ├── SUB CONTROL PANEL
+│   ├── SUB CONTROL PANEL
+│   ├── SUB CONTROL PANEL
+│   ├── SUB CONTROL PANEL
+│   ├── SUB CONTROL PANEL
+│   ├── SUB CONTROL PANEL
+│   ├── TEMPRETURE CONTROL
+│   ├── TRANSFORMATOR
+│   └── WIND SPEED SENSOR
+├── HYDRULIC
+│   ├── Ball 
+│   ├── Ball 
+│   ├── Check 
+│   ├── Check vane RHD 20—PS
+│   ├── Coupling and bell housing 
+│   ├── ELECTRO MOTOR
+│   ├── ENCODER
+│   ├── Electric level
+│   ├── Electric motor 
+│   ├── Electronic driver E—RP—AC-05F—RR
+│   ├── Filler breather 
+│   ├── Hydraulic cylinder 
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LEVEL SWITCH (BOOM)
+│   ├── LEVEL SWITCH (BOOM)
+│   ├── LEVEL SWITCH (TANK)
+│   ├── LOCAL CONTROL BOX
+│   ├── Manometer
+│   ├── Manometer
+│   ├── Oil level LVA2TA
+│   ├── Overcentre 
+│   ├── Overcentre 
+│   ├── PRESURE SWITCH
+│   ├── PROXIMITY SENSOR
+│   ├── PROXIMITY SENSOR
+│   ├── Plate-out
+│   ├── Pressure check point MINIMESS
+│   ├── Pressure gauge by—pass 
+│   ├── Pressure relief 
+│   ├── Proportional solenoid dire. 
+│   ├── Protection cap
+│   ├── Return line filter
+│   ├── Solenoid directional
+│   ├── Subplot.
+│   ├── Suction filter 
+│   ├── Tank special 
+│   ├── Tomo 
+│   ├── Tube coupling 
+│   ├── VALVE
+│   ├── VALVE
+│   ├── VALVE
+│   └── Vane pump fixed displacement 
+├── STACKER 110.ST1 GENERAL ARRANGEMENT BOOM
+│   ├── ASSEMBLY OF BOOM ACCESSES
+│   │   ├── BOOM GRATING:GLAVANIZED MESH ASSEMBLY
+│   │   ├── FLAT WASHER
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT 
+│   │   ├── JOINT PIECE FOR WALKWAY BEAM
+│   │   ├── JOINT PLATES FOR HANDRAILS
+│   │   ├── PREVAILING TORQUE HEX NUT
+│   │   ├── SLOTTED ROUND HEAD SCREW 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── TREAD GRATING-750
+│   │   └── WALKWAY BEAM
+│   ├── ASSEMBLY OF BOOM CONVEYOR
+│   │   ├── AUXILIARY PULLEY 
+│   │   │   ├── ADAPTER 
+│   │   │   ├── BEARING
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   ├── BUSHING
+│   │   │   ├── ROD
+│   │   │   ├── SHAFT 
+│   │   │   ├── SHELL CL 
+│   │   │   └── TOLLOK 
+│   │   ├── BELT 
+│   │   ├── BELT WIDTH 1000 "V" CLEANING DEVICE
+│   │   ├── BOLT 
+│   │   ├── CARRYING IDLER 
+│   │   ├── CARRYING SELF-ALIGNING IDLER 
+│   │   ├── CLEANING SCRAPER 
+│   │   ├── DECK PLATES
+│   │   ├── DECK PLATES
+│   │   ├── DECK PLATES
+│   │   ├── DECK PLATES
+│   │   ├── DECK PLATES
+│   │   ├── DECK PLATES
+│   │   ├── DISCHARGE CHUTE
+│   │   ├── DISCHARGE CHUTE
+│   │   ├── DRIVE PULLEY 
+│   │   │   ├── FIX BEARING SUPPORT 
+│   │   │   │   ├── ADAPTER 
+│   │   │   │   ├── BEARING 
+│   │   │   │   ├── BEARING SUPPORT 
+│   │   │   │   ├── GUIDE RING
+│   │   │   │   ├── SCREW 
+│   │   │   │   ├── SEAL 
+│   │   │   │   ├── SPRING WASHER 
+│   │   │   │   └── TENSOR SUPPORT COVER
+│   │   │   ├── FREE BEARING SUPPORT 
+│   │   │   │   ├── ADAPTER 
+│   │   │   │   ├── BEARING 
+│   │   │   │   ├── BEARING SUPPORT 
+│   │   │   │   ├── COVER
+│   │   │   │   ├── GUIDE RING 
+│   │   │   │   ├── SCREW 
+│   │   │   │   ├── SEAL
+│   │   │   │   └── SPRING WASHER
+│   │   │   ├── GREASER HIDR. 
+│   │   │   ├── SHAFT 
+│   │   │   ├── SHELL 
+│   │   │   └── TOLLOK 
+│   │   ├── DRIVE PULLEY GUARD
+│   │   ├── DRIVE PULLEY GUARD
+│   │   ├── DRIVE UNIT 90 Kw
+│   │   ├── FIXATION PIECE FOR SKIRTBOARD
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── HELICAL SPRING LOCK WASHER
+│   │   ├── HELICAL SPRING LOCK WASHER
+│   │   ├── HELICAL SPRING LOCK WASHER 
+│   │   ├── HELICAL SPRING LOCK WASHER 
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT 
+│   │   ├── HEX NUT 
+│   │   ├── HEX NUT 
+│   │   ├── HYDRAULIC JACK
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── IMPACT IDLER 
+│   │   ├── L-BEAM
+│   │   ├── L-BEAM
+│   │   ├── NAME PLATE
+│   │   ├── PROTECTION TRAY
+│   │   ├── RETURN IDLER 
+│   │   ├── RETURN SELF-ALIGNER IDLER 
+│   │   ├── RUBBER 
+│   │   ├── SCREWED BAR 
+│   │   ├── SKIRTBOARD
+│   │   ├── SKIRTBOARD 
+│   │   ├── SKIRTBOARD 
+│   │   ├── SKIRTBOARD CLOSING PLATE
+│   │   ├── SKIRTBOARD SUPLEMENT
+│   │   ├── SKIRTBOARD SUPLEMENT
+│   │   ├── SKIRTBOARD SUPPORT
+│   │   ├── SKIRTBOARD SUPPORT
+│   │   ├── SOCKET FLAT HEAD SCREW 
+│   │   ├── SPLIT PIN (COTTER PIN) 
+│   │   ├── SPRING PIN (ROLLED PIN)
+│   │   ├── SQUARE BAR 30,
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── TAKE UP BEAM
+│   │   ├── V CLEANING DEVICE SUPPORT
+│   │   ├── V CLEANING DEVICE SUPPORT
+│   │   ├── WEAR PLATE
+│   │   ├── WEAR PLATE
+│   │   ├── WEAR PLATE
+│   │   ├── WIND GUARD
+│   │   └── WIND GUARD SUPPORT
+│   ├── ASSEMBLY OF BOOM STRUCTURE
+│   │   ├── BOLT
+│   │   ├── BOLT 
+│   │   ├── BOLT 
+│   │   ├── BOLT 
+│   │   ├── BOLT 
+│   │   ├── BOOM FRAME COUNTERWEIGHT AREA
+│   │   ├── BOOM FRAME DISCHARGE AREA
+│   │   ├── BOOM FRAME INTERMEDIATE AREA
+│   │   ├── BRAKE RELEASE
+│   │   ├── DRIFT SWITCH
+│   │   ├── DRIFT SWITCH
+│   │   ├── DRIFT SWITCH
+│   │   ├── DRIFT SWITCH
+│   │   ├── ELECTRO MOTOR
+│   │   │   └── PT100
+│   │   ├── ELECTRO MOTOR
+│   │   ├── FLASHER
+│   │   ├── FRONT STAY
+│   │   ├── HEATER
+│   │   ├── HELICAL SPRING LOCK WASHER 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT
+│   │   ├── HIGH STRENGTH BOLT 
+│   │   ├── HIGH STRENGTH BOLT 
+│   │   ├── HORN
+│   │   ├── INTERMEDIATE LUG (STAY)
+│   │   ├── JOINT PLATE FOR BOOM FRAME
+│   │   ├── JOINT PLATE FOR BOOM FRAME
+│   │   ├── JOINT PLATE FOR BOOM FRAME
+│   │   ├── LEVEL SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── MAST
+│   │   ├── NUT FOR HIGH STRENGTH BOLT 
+│   │   ├── REAR STAY
+│   │   ├── RETAINING PLATE 
+│   │   ├── RETAINING PLATE 
+│   │   ├── ROPE SWITCH
+│   │   ├── ROPE SWITCH
+│   │   ├── ROPE SWITCH
+│   │   ├── ROPE SWITCH
+│   │   ├── SPEED SWITCH
+│   │   ├── SQUARE BEVELED WASHER
+│   │   ├── STAYS SPACER
+│   │   ├── TAKE-UP GUIDE
+│   │   └── WASHER FOR HIGH STRENGTH BOLT 
+│   ├── BUSH
+│   ├── COUNTERWEIGHT SECTION
+│   ├── FLAT WASHER
+│   ├── HEB 
+│   ├── HEX CAP SCREW 
+│   ├── HEX NUT 
+│   ├── JOINT PLATE FOR COUNTERWEIGHT SECTIONS
+│   ├── OILER HIDRAULIT 
+│   ├── PLATE 
+│   ├── RETAINING PLATE
+│   ├── RETAINING PLATE FOR BOLTS
+│   ├── RETAINING RING 
+│   ├── SHAFT FOR SPHERICAL PLAIN BEARING
+│   └── SPHERICAL PLAIN 
+├── STACKER 110.ST1 GENERAL ARRANGEMENT TRIPPER
+│   ├── ASSEMBLY OF ACCESSES TO ELECTRIC EQUIPMENT PLATFORM
+│   ├── ASSEMBLY OF ACCESSES TO TRIPPER
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── GRATING:GLAVANIZED MESH ASSEMBLY
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HANDRAILS 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT 
+│   │   ├── HEX NUT 
+│   │   ├── JOINT PIECE FOR WALKWAY BEAM
+│   │   ├── JOINT PLATES FOR HANDRAILS
+│   │   ├── JOINT PLATES FOR HANDRAILS
+│   │   ├── PREVAILING TORQUE HEX NUT 
+│   │   ├── PREVAILING TORQUE HEX NUT 
+│   │   ├── SLOTTED ROUND HEAD SCREW 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── STAIRS SUPPORT BEAM
+│   │   ├── STAIRS TO ACCESS TRIPPER
+│   │   ├── TREAD GRATING-800
+│   │   └── WALKWAY BEAM
+│   ├── ASSEMBLY OF CONVEYOR COMPONENTS FOR TRIPPER
+│   │   ├── AUXILIARY PULLEY 
+│   │   │   ├── ADAPTER 
+│   │   │   ├── BEARING
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   ├── BUSHING 
+│   │   │   ├── SHAFT 
+│   │   │   ├── SHELL 
+│   │   │   └── TOLLOK 
+│   │   ├── AUXILIARY PULLEY 
+│   │   │   ├── ADAPTER
+│   │   │   ├── BEARING 
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   ├── BUSHING 
+│   │   │   ├── SHAFT 
+│   │   │   ├── SHELL CL 
+│   │   │   └── TOLLOK 
+│   │   ├── AUXILIARY PULLEY GREASE SYSTEM
+│   │   │   ├── BULKHEAD COUPLING NUT 
+│   │   │   ├── BULKHEAD ELBOW 
+│   │   │   ├── MALE STUD COUPLING 
+│   │   │   ├── MALE STUD ELBOW 
+│   │   │   ├── METALIC LAGGIN TUBE
+│   │   │   ├── OILER HIDRAULIT 
+│   │   │   ├── POLYAMIDE TUBE 
+│   │   │   └── STUD POR CUTTING RING
+│   │   ├── CARRYING IDLER 
+│   │   ├── CARRYING SELF-ALIGNING IDLER 
+│   │   ├── CLEANING SCRAPER MARTIN
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── HEX CAP SCREW
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT
+│   │   ├── HEX NUT 
+│   │   ├── HEX NUT 
+│   │   ├── HEX NUT 
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── IDLER SUPPORT FRAME
+│   │   ├── INSPECTION WINDOW 
+│   │   ├── PULLEY FOR BELT LIFTING LIMITATION
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   └── PULLEY FOR BELT LIFTING LIMITATION 
+│   │   ├── SQUARE BAR 
+│   │   ├── SQUARE BEVELED WASHER
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── TRIPPER CONVEYOR B-1000 -FRONT PULLEY GUARD
+│   │   ├── TRIPPER CONVEYOR B-1000 -GUARD PLATE
+│   │   ├── TRIPPER CONVEYOR B-1000 -TOP PULLEY GUARD
+│   │   ├── TRIPPER DISCHARGE CHUTE-CHUTE RUBBER CLOSING
+│   │   ├── TRIPPER DISCHARGE CHUTE-DEFLECTOR PLATE
+│   │   ├── TRIPPER DISCHARGE CHUTE-FINES RECLAIMING PLATE
+│   │   ├── TRIPPER DISCHARGE CHUTE-LEVEL SWITCH SUPPORT
+│   │   ├── TRIPPER DISCHARGE CHUTE-LOWER BODY
+│   │   ├── TRIPPER DISCHARGE CHUTE-REGULATION PLATE
+│   │   ├── TRIPPER DISCHARGE CHUTE-RUBBER FIXATION PLATE
+│   │   ├── TRIPPER DISCHARGE CHUTE-UPPER BODY
+│   │   ├── TRIPPER DISCHARGE CHUTE-UPPER BODY COVER
+│   │   ├── WIND GUARD
+│   │   └── WIND GUARD SUPPORT
+│   ├── ASSEMBLY OF ELECTRIC EQUIPMENT PLATFORM
+│   │   ├── DRIFT SWITCH
+│   │   ├── DRIFT SWITCH
+│   │   ├── MATERIAL DETECTED
+│   │   ├── ROPE SWITCH
+│   │   └── ROPE SWITCH
+│   ├── ASSEMBLY OF TRIPPER STRUCTURE
+│   │   ├── BOLT 
+│   │   ├── BOLT 
+│   │   ├── BRACING BEAM
+│   │   ├── BRACING BEAM
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX CAP SCREW 
+│   │   ├── HEX NUT
+│   │   ├── HIGH STRENGTH BOLT
+│   │   ├── HIGH STRENGTH BOLT 
+│   │   ├── HIGH STRENGTH BOLT 
+│   │   ├── JOINT PLATES FOR TRIPPER FRAME
+│   │   ├── JOINT PLATES FOR TRIPPER FRAME
+│   │   ├── JOINT PLATES FOR TRIPPER FRAME
+│   │   ├── NUT FOR HIGH STRENGTH BOLT 
+│   │   ├── NUT FOR HIGH STRENGTH BOLT 
+│   │   ├── RETAINING PLATE 
+│   │   ├── RETAINING PLATE 
+│   │   ├── SPLIT PIN (COTTER PIN)
+│   │   ├── SPLIT PIN (COTTER PIN) 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── SQUARE BEVELED WASHER 
+│   │   ├── TRIPPER FRAME
+│   │   ├── TRIPPER FRAME
+│   │   ├── TRIPPER FRAME
+│   │   ├── TRIPPER FRAME
+│   │   ├── TRIPPER FRAME
+│   │   ├── TRIPPER FRONT STAY
+│   │   ├── TRIPPER FRONT SUPPORT FRAME
+│   │   ├── TRIPPER MAST
+│   │   ├── TRIPPER REAR STAY
+│   │   ├── TRIPPER REAR SUPPORT FRAME
+│   │   ├── TRIPPER STRUCTURE JOINT BOLT
+│   │   ├── TRIPPER STRUCTURE JOINT BOLT
+│   │   ├── TRIPPER SUPPORT FRAME
+│   │   ├── WASHER FOR HIGH STRENGTH BOLT
+│   │   └── WASHER FOR HIGH STRENGTH BOLT 
+│   ├── BOGIE DRIVEN WHEEL Ø500 ASSEMBLY
+│   │   ├── BOLT
+│   │   ├── CLEANING PLATE
+│   │   ├── DRIVEN WHEEL FRAME 
+│   │   ├── DRIVEN WHEEL Ø500 UIC ASSEMBLY
+│   │   │   ├── BEARING 
+│   │   │   ├── BEARING SUPPOT BUSHING
+│   │   │   ├── DRIVEN WHEEL ø500 UIC60
+│   │   │   ├── INT. BUSHING
+│   │   │   ├── LOCK NUT 
+│   │   │   ├── LOCK WASHER 
+│   │   │   └── NILOS RING 
+│   │   ├── HEXAG. NUT 
+│   │   ├── OILER TECALEMIT 
+│   │   ├── PIN 
+│   │   ├── PLATE BRAKE 
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   └── SPRING WASHER 
+│   └── BOGIE DRIVEN WHEEL Ø500 WITH BUFFER ASSEMBLY
+│       ├── BOLT
+│       ├── BUFFER
+│       ├── BUFFER FRAME
+│       ├── CLEANING FRAME
+│       ├── DRIVEN WHEEL Ø500 UIC ASSEMBLY
+│       │   ├── BEARING 
+│       │   ├── BEARING SUPPOT BUSHING
+│       │   ├── DRIVEN WHEEL ø500 UIC60
+│       │   ├── INT. BUSHING 
+│       │   ├── LOCK NUT
+│       │   ├── LOCK WASHER 
+│       │   └── NILOS RING 
+│       ├── ELECTRICAL ROOM
+│       ├── HEXAG. NUT 
+│       ├── HEXAG. NUT 
+│       ├── OILER TECALEMIT
+│       ├── PIN 
+│       ├── PLATE BRAKE 
+│       ├── SCREW 
+│       ├── SCREW 
+│       ├── SPRING WASHER 
+│       ├── SPRING WASHER 
+│       └── SPRING WASHER 
+└── STACKER ITSELF
+    ├── ASSEMBLY OF ACCESSES TO BOOM
+    ├── BOLT
+    ├── BOLT 
+    ├── BOLT 
+    ├── BOOM SUPPORT STRUCTURE
+    ├── CABLE
+    ├── EARTHING
+    ├── FASTENER
+    ├── HELICAL SPRING LOCK WASHER 
+    ├── HELICAL SPRING LOCK WASHER 
+    ├── HELICAL SPRING LOCK WASHER 
+    ├── HEX CAP SCREW
+    ├── HEX CAP SCREW 
+    ├── HEX CAP SCREW 
+    ├── HEX CAP SCREW 
+    ├── HEX NUT 
+    ├── HEX NUT 
+    ├── HIGH STRENGTH BOLT
+    ├── HIGH STRENGTH BOLT 
+    ├── HIGH STRENGTH BOLT 
+    ├── HYDRAULIC CYLINDER
+    ├── HYDRAULIC OIL 
+    ├── HYDRAULIC UNIT
+    ├── INFRASTRUCTURE FRAME
+    ├── INFRASTRUCTURE REAR FRAME
+    ├── JOINT PLATES
+    ├── JOINT PLATES
+    ├── JOINT PLATES
+    ├── LADDER
+    ├── LUG FOR HYDRAULIC CYLINDER
+    ├── NUT FOR HIGH STRENGTH BOLT 
+    ├── NUT FOR HIGH STRENGTH BOLT 
+    ├── RETAINING PLATE
+    ├── SQUARE BEVELED WASHER 
+    ├── SQUARE BEVELED WASHER 
+    ├── WASHER FOR HIGH STRENGTH BOLT 
+    └── WASHER FOR HIGH STRENGTH BOLT 

@@ -1,0 +1,129 @@
+610RF1-DEHESTANI1.xlsx
+├── ACCESSORY
+│   ├── CABLE
+│   ├── CAMERA FOR 610RF
+│   ├── CONTROL PANEL 
+│   ├── EARTHING
+│   ├── LADER
+│   └── Ladder
+├── DRIVE UNITE
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── ELECTRO MOTOR 
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── FEEDER
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LOCALL CONTROL BOX
+│   └── LOCALL CONTROL BOX
+├── FRAME
+│   ├── Attachment
+│   ├── Attachment
+│   ├── Attachment
+│   ├── Beam left side
+│   ├── Beam right side
+│   ├── Bearing Plate
+│   ├── Bracket
+│   ├── Bracket
+│   ├── Clamping Plate
+│   ├── Clamping Plate
+│   ├── Cover
+│   ├── Cross member
+│   ├── End Profiled, Left Hand Side
+│   ├── End Profiled, Right Hand Side
+│   ├── M6S
+│   ├── Nut
+│   ├── Nut
+│   ├── Nut
+│   ├── Profiled Plate, Left Hand Side
+│   ├── Profiled Plate, Right Hand Side
+│   ├── Screw
+│   ├── Screw
+│   ├── Screw
+│   ├── Screw
+│   ├── Shaft
+│   ├── Shim
+│   ├── Skirtbord
+│   ├── Split pin
+│   ├── Support
+│   ├── Washer
+│   ├── Washer
+│   ├── Washer
+│   ├── Wear Plate, Left Hand Side
+│   ├── Wear Plate, Left Hand Side
+│   ├── Wear Plate, Right Hand Side
+│   └── Wear Plate, Right Hand Side
+├── LUBRICANT UNIT
+│   ├── FUSE ACC
+│   ├── FUSE ACC
+│   ├── Piping
+│   ├── Pump Unit 1 
+│   ├── Pump Unit 2
+│   ├── RF BEARING LUBE 1
+│   ├── RF BEARING LUBE 2
+│   └── Valves
+└── ROLLER ASSEMBLY
+    └── Roller
+        ├── Adapter Sleeve
+        ├── Bearing
+        ├── End Cap
+        ├── Felt Ring
+        ├── Lock / Cover
+        ├── O - Ring
+        ├── Plummer Block
+        ├── Screw
+        ├── Spacer Ring
+        ├── St / Bar - Kils
+        ├── Taconite - Ring
+        └── V - Ring

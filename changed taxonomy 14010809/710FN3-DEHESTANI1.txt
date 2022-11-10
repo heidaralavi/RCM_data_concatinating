@@ -1,0 +1,98 @@
+710FN3-DEHESTANI1.xlsx
+├──  DAMPER UNIT
+│   ├── ACTUATOR
+│   │   ├── 710FN03-ACTUATOR FEEDER
+│   │   ├── BEARING
+│   │   ├── CONTROL PANEL
+│   │   ├── LEVER 
+│   │   └── MAIN SHAFT
+│   └── DAMPER
+│       ├── BEARING
+│       ├── CASING
+│       ├── CONNECTION BAR
+│       ├── CONNECTION LEVER
+│       ├── SHAFT
+│       └── VANE
+├── CASING
+│   ├── BODY
+│   ├── CASING ROD
+│   ├── EXPANTION JOINT
+│   │   ├── CASING
+│   │   ├── DUST PROOF MATRIAL
+│   │   ├── GLASS CLOTH
+│   │   ├── GLASS CLOTH GASKET
+│   │   └── SLEEVE   
+│   ├── INLET CONE
+│   │   ├── HEX CAP SCREW M16*45
+│   │   ├── HEXNUT M16
+│   │   └── SPRING WASHER A 17
+│   ├── INLET CONE SUPPORT(FIX SIDE)
+│   ├── INLET CONE SUPPORT(FREE SIDE)
+│   ├── INSULATION
+│   │   ├── BLANKRT
+│   │   └── COVER
+│   ├── LABYRINTH SEAL
+│   │   ├── LABYRINTH GASKET
+│   │   └── PLATE
+│   ├── LINER ASSEMBLY
+│   │   ├── LINER NO1
+│   │   ├── LINER NO2
+│   │   ├── LINER NO3
+│   │   ├── LINER NO4
+│   │   └── LINER NO5
+│   └── MAN HOLE
+├── DRIVE UNIT
+│   ├── 0710FN03.ME01.FEEDER
+│   ├── 0710FN03.ME02.FEEDER
+│   ├── AUXILLARY MOTOR
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── PH FAN TURNING
+│   ├── COUPLING  
+│   │   ├── COUPLING COVER
+│   │   ├── FAN SIDE HUB 
+│   │   ├── MOTOR SIDE HUB
+│   │   └── TRANSMISION UNIT(SPACER)
+│   ├── FLEXIBLE DISK COUPLING
+│   │   ├── COUPLING COVER
+│   │   ├── FAN SIDE HUB 
+│   │   ├── MOTOR SIDE HUB
+│   │   └── TRANSMISION UNIT(SPACER)
+│   ├── GEAR BOX
+│   ├── MAIN MOTOR
+│   └── ONE WAY CLUTCH
+├── LIQUID STARTER
+│   └── DRIVE UNIT LIQUID STARTER
+│       ├── 0710FN03.1R01.FEEDER
+│       ├── 0710FN03.1R01.M10.FEEDER
+│       └── ELECTRO MOTOR 
+├── OTHER
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── Foundation
+│   ├── LADDER
+│   └── Stairs
+└── ROTARY UNIT
+    ├── BEARING HOUSING
+    │   ├── AIR BREATHER
+    │   ├── BEARING HOUSING FIXED SIDE
+    │   ├── BEARING HOUSING FREE SIDE
+    │   ├── COOLING SYSTEM
+    │   │   ├── FLOW METER
+    │   │   ├── SIGHT GLASSE 1
+    │   │   ├── SIGHT GLASSE 2
+    │   │   ├── VALVE 2
+    │   │   └── VALVE1
+    │   ├── FAN VIBRATION
+    │   ├── FAN VIBRATION
+    │   ├── LABYRINTH
+    │   ├── MONITOR PANEL
+    │   ├── MONITOR TEMPERATURE
+    │   ├── MONITOR TEMPERATURE
+    │   ├── ROLLER BEARING ANTIMOTOR SIDE
+    │   └── ROLLER BEARING MOTOR SIDE
+    ├── COOLING WHEEL
+    ├── IMPELLER
+    │   ├── BOSS
+    │   ├── SHAFT NUT
+    │   └── SHAFT WASHER
+    └── SHAFT

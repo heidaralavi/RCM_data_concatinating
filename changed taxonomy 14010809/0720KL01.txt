@@ -1,0 +1,486 @@
+0720KL01.xlsx
+├── Accessory
+│   ├── CABLE
+│   ├── CAMERA OF KILN
+│   ├── CONTROL PANEL
+│   ├── Connection Box
+│   ├── EARTHING
+│   ├── FEEDER-720SN1
+│   ├── LADDER
+│   └── SCANNER
+├── Carrying Mechanism(N02)
+│   ├── Adjusting Lug for 05
+│   ├── Adjusting Lug for 06
+│   ├── Adjusting Lug for 07
+│   ├── Adjusting Lug for 08
+│   ├── Air Vent for 05
+│   ├── Air Vent for 06
+│   ├── Air Vent for 07
+│   ├── Air Vent for 08
+│   ├── Bearing Housing 05
+│   ├── Bearing Housing 06
+│   ├── Bearing Housing 07
+│   ├── Bearing Housing 08
+│   ├── Bottom Plate for 05
+│   ├── Bottom Plate for 06
+│   ├── Bottom Plate for 07
+│   ├── Bottom Plate for 08
+│   ├── Bushing 05
+│   ├── Bushing 06
+│   ├── Bushing 07
+│   ├── Bushing 08
+│   ├── Bushing Stopper for 05
+│   ├── Bushing Stopper for 06
+│   ├── Bushing Stopper for 07
+│   ├── Bushing Stopper for 08
+│   ├── Carrying Roller (North)
+│   ├── Carrying Roller (South)
+│   ├── Carrying Roller Frame
+│   ├── Carrying Roller Shaft (North)
+│   ├── Carrying Roller Shaft (South)
+│   ├── Cover for Adjusting Lug for 05
+│   ├── Cover for Adjusting Lug for 06
+│   ├── Cover for Adjusting Lug for 07
+│   ├── Cover for Adjusting Lug for 08
+│   ├── Cylinder for 05
+│   ├── Cylinder for 06
+│   ├── Cylinder for 07
+│   ├── Cylinder for 08
+│   ├── End Cover for 05
+│   ├── End Cover for 06
+│   ├── End Cover for 07
+│   ├── End Cover for 08
+│   ├── Filler Bar
+│   ├── Graphite Block Case (North)
+│   ├── Graphite Block Case (South)
+│   ├── Graphite Block for 05
+│   ├── Graphite Block for 06
+│   ├── Graphite Block for 07
+│   ├── Graphite Block for 08
+│   ├── Guard for Peep Hole Cover for 05
+│   ├── Guard for Peep Hole Cover for 06
+│   ├── Guard for Peep Hole Cover for 07
+│   ├── Guard for Peep Hole Cover for 08
+│   ├── Holder of Thermocouple for 05
+│   ├── Holder of Thermocouple for 06
+│   ├── Holder of Thermocouple for 07
+│   ├── Holder of Thermocouple for 08
+│   ├── Housing Cover for 05
+│   ├── Housing Cover for 06
+│   ├── Housing Cover for 07
+│   ├── Housing Cover for 08
+│   ├── Jacket Box (North)
+│   ├── Jacket Box (South)
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── Name Plate for 05
+│   ├── Name Plate for 06
+│   ├── Name Plate for 07
+│   ├── Name Plate for 08
+│   ├── Nut for 05
+│   ├── Nut for 06
+│   ├── Nut for 07
+│   ├── Nut for 08
+│   ├── Oil Bucket for 05
+│   ├── Oil Bucket for 06
+│   ├── Oil Bucket for 07
+│   ├── Oil Bucket for 08
+│   ├── Oil Level Gauge for 05
+│   ├── Oil Level Gauge for 06
+│   ├── Oil Level Gauge for 07
+│   ├── Oil Level Gauge for 08
+│   ├── Oil Pan (North, Discharge Side)
+│   ├── Oil Pan (North, Feed Side)
+│   ├── Oil Pan (South, Discharge Side)
+│   ├── Oil Pan (South, Feed Side)
+│   ├── Oil Seal Cover for 05
+│   ├── Oil Seal Cover for 06
+│   ├── Oil Seal Cover for 07
+│   ├── Oil Seal Cover for 08
+│   ├── Oil Seal for 05
+│   ├── Oil Seal for 06
+│   ├── Oil Seal for 07
+│   ├── Oil Seal for 08
+│   ├── Peep Hole Cover (NO. 1) for 05
+│   ├── Peep Hole Cover (NO. 1) for 06
+│   ├── Peep Hole Cover (NO. 1) for 07
+│   ├── Peep Hole Cover (NO. 1) for 08
+│   ├── Peep Hole Cover (NO. 2) for 05
+│   ├── Peep Hole Cover (NO. 2) for 06
+│   ├── Peep Hole Cover (NO. 2) for 07
+│   ├── Peep Hole Cover (NO. 2) for 08
+│   ├── Piston for 05
+│   ├── Piston for 06
+│   ├── Piston for 07
+│   ├── Piston for 08
+│   ├── Plain Riding Ring
+│   ├── Radiation Shield (North, Discharge Side)
+│   ├── Radiation Shield (North, Feed Side)
+│   ├── Radiation Shield (South, Discharge Side)
+│   ├── Radiation Shield (South, Feed Side)
+│   ├── Retaining Ring (Discharge Side)
+│   ├── Retaining Ring (Feed Side)
+│   ├── Rubber Sheet for 05
+│   ├── Rubber Sheet for 06
+│   ├── Rubber Sheet for 07
+│   ├── Rubber Sheet for 08
+│   ├── Stopper (North)
+│   ├── Stopper (South)
+│   ├── Stopper Plate for Filler Bar
+│   ├── Stopper Plate for Retaining Ring
+│   ├── V - Packing for 05
+│   ├── V - Packing for 06
+│   ├── V - Packing for 07
+│   ├── V - Packing for 08
+│   ├── Water Shield Ring (Type 1) for 05
+│   ├── Water Shield Ring (Type 1) for 06
+│   ├── Water Shield Ring (Type 1) for 07
+│   ├── Water Shield Ring (Type 1) for 08
+│   ├── Water Shield Ring (Type 2) (Discharge Side)
+│   ├── Water Shield Ring (Type 2) (Feed Side)
+│   ├── Water Shield Ring (Type 3) (Discharge Side)
+│   ├── Water Shield Ring (Type 3) (Feed Side)
+│   ├── Wearing Plate for 05
+│   ├── Wearing Plate for 06
+│   ├── Wearing Plate for 07
+│   └── Wearing Plate for 08
+├── Carrying and Thrust Mechanism(N01)
+│   ├── Adjusting Lug for 01
+│   ├── Adjusting Lug for 02
+│   ├── Adjusting Lug for 03
+│   ├── Adjusting Lug for 04
+│   ├── Air Breather (Discharge Side)
+│   ├── Air Breather (Feed Side)
+│   ├── Air Vent for 01
+│   ├── Air Vent for 02
+│   ├── Air Vent for 03
+│   ├── Air Vent for 04
+│   ├── Bearing Housing (Discharge Side)
+│   ├── Bearing Housing (Feed Side)
+│   ├── Bearing Housing 01
+│   ├── Bearing Housing 02
+│   ├── Bearing Housing 03
+│   ├── Bearing Housing 04
+│   ├── Bottom Plate for 01
+│   ├── Bottom Plate for 02
+│   ├── Bottom Plate for 03
+│   ├── Bottom Plate for 04
+│   ├── Bushing 01
+│   ├── Bushing 02
+│   ├── Bushing 03
+│   ├── Bushing 04
+│   ├── Bushing Stopper for 01
+│   ├── Bushing Stopper for 02
+│   ├── Bushing Stopper for 03
+│   ├── Bushing Stopper for 04
+│   ├── Carrying Roller (North)
+│   ├── Carrying Roller (South)
+│   ├── Carrying Roller Frame
+│   ├── Carrying Roller Shaft (North)
+│   ├── Carrying Roller Shaft (South)
+│   ├── Cover for Adjusting Lug for 01
+│   ├── Cover for Adjusting Lug for 02
+│   ├── Cover for Adjusting Lug for 03
+│   ├── Cover for Adjusting Lug for 04
+│   ├── Cylinder for 01
+│   ├── Cylinder for 02
+│   ├── Cylinder for 03
+│   ├── Cylinder for 04
+│   ├── End Cover for 01
+│   ├── End Cover for 02
+│   ├── End Cover for 03
+│   ├── End Cover for 04
+│   ├── Filler Bar
+│   ├── Graphite Block Case (North)
+│   ├── Graphite Block Case (South)
+│   ├── Graphite Block for 01
+│   ├── Graphite Block for 02
+│   ├── Graphite Block for 03
+│   ├── Graphite Block for 04
+│   ├── Guard for Peep Hole Cover for 01
+│   ├── Guard for Peep Hole Cover for 02
+│   ├── Guard for Peep Hole Cover for 03
+│   ├── Guard for Peep Hole Cover for 04
+│   ├── Hex. Bolt
+│   ├── Holder of Thermocouple for 01
+│   ├── Holder of Thermocouple for 02
+│   ├── Holder of Thermocouple for 03
+│   ├── Holder of Thermocouple for 04
+│   ├── Housing Cover for 01
+│   ├── Housing Cover for 02
+│   ├── Housing Cover for 03
+│   ├── Housing Cover for 04
+│   ├── Jacket Box (Discharge Side)
+│   ├── Jacket Box (Feed Side)
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── KILN ROLLER BEARING TEMPERATURE
+│   ├── Name Plate 01
+│   ├── Name Plate 02
+│   ├── Name Plate 03
+│   ├── Name Plate 04
+│   ├── Nut for 01
+│   ├── Nut for 02
+│   ├── Nut for 03
+│   ├── Nut for 04
+│   ├── Oil Bucket for 01
+│   ├── Oil Bucket for 02
+│   ├── Oil Bucket for 03
+│   ├── Oil Bucket for 04
+│   ├── Oil Gauge
+│   ├── Oil Level Gauge for 01
+│   ├── Oil Level Gauge for 02
+│   ├── Oil Level Gauge for 03
+│   ├── Oil Level Gauge for 04
+│   ├── Oil Pan (North, Discharge Side)
+│   ├── Oil Pan (North, Feed Side)
+│   ├── Oil Pan (South, Discharge Side)
+│   ├── Oil Pan (South, Feed Side)
+│   ├── Oil Seal Cover for 01
+│   ├── Oil Seal Cover for 02
+│   ├── Oil Seal Cover for 03
+│   ├── Oil Seal Cover for 04
+│   ├── Oil Seal for 01
+│   ├── Oil Seal for 02
+│   ├── Oil Seal for 03
+│   ├── Oil Seal for 04
+│   ├── Peep Hole Cover (NO. 1) for 01
+│   ├── Peep Hole Cover (NO. 1) for 02
+│   ├── Peep Hole Cover (NO. 1) for 03
+│   ├── Peep Hole Cover (NO. 1) for 04
+│   ├── Peep Hole Cover (NO. 2) for 01
+│   ├── Peep Hole Cover (NO. 2) for 02
+│   ├── Peep Hole Cover (NO. 2) for 03
+│   ├── Peep Hole Cover (NO. 2) for 04
+│   ├── Piston for 01
+│   ├── Piston for 02
+│   ├── Piston for 03
+│   ├── Piston for 04
+│   ├── Radiation Shield (North, Discharge Side)
+│   ├── Radiation Shield (North, Feed Side)
+│   ├── Radiation Shield (South, Discharge Side)
+│   ├── Radiation Shield (South, Feed Side)
+│   ├── Retaining Ring (Discharge Side)
+│   ├── Retaining Ring (Feed Side)
+│   ├── Rubber Sheet for 01
+│   ├── Rubber Sheet for 02
+│   ├── Rubber Sheet for 03
+│   ├── Rubber Sheet for 04
+│   ├── Spacer (Discharge Side)
+│   ├── Spacer (Feed Side)
+│   ├── Stopper (North)
+│   ├── Stopper (South)
+│   ├── Stopper Plate for Filler Bar
+│   ├── Stopper Plate for Retaining Ring
+│   ├── Tension Rod (Discharge Side)
+│   ├── Tension Rod (Feed Side)
+│   ├── Thrust Bearing Housing (Discharge)
+│   ├── Thrust Bearing Housing (Feed)
+│   ├── Thrust Bearing Housing Cover (Discharge)
+│   ├── Thrust Bearing Housing Cover (Feed)
+│   ├── Thrust Riding Ring
+│   ├── Thrust Roller (Discharge Side)
+│   ├── Thrust Roller (Feed Side)
+│   ├── Thrust Roller Frame
+│   ├── Thrust Wearing Plate (Discharge Side)
+│   ├── Thrust Wearing Plate (Feed Side)
+│   ├── V - Packing for 01
+│   ├── V - Packing for 02
+│   ├── V - Packing for 03
+│   ├── V - Packing for 04
+│   ├── Water Shield Ring (Type 1) for 01
+│   ├── Water Shield Ring (Type 1) for 02
+│   ├── Water Shield Ring (Type 1) for 03
+│   ├── Water Shield Ring (Type 1) for 04
+│   ├── Water Shield Ring (Type 2) (Discharge Side)
+│   ├── Water Shield Ring (Type 2) (Feed Side)
+│   ├── Water Shield Ring (Type 3) (Discharge Side)
+│   ├── Water Shield Ring (Type 3) (Feed Side)
+│   ├── Wearing Plate for 01
+│   ├── Wearing Plate for 02
+│   ├── Wearing Plate for 03
+│   └── Wearing Plate for 04
+├── Discharge End Assembly
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── 1
+│   ├── KILN HOOD PRESSURE
+│   ├── KILN SECONDARY AIR TEMPERATURE
+│   ├── KILN SECONDARY AIR TEMPERATURE
+│   ├── KILN SECONDARY AIR TEMPERATURE
+│   └── KILN SECONDARY AIR TEMPERATURE
+├── Drive Unit
+│   ├── BRAKE LIMIT SWITCH
+│   ├── Clutch Assembly (North)
+│   ├── Clutch Assembly (South)
+│   ├── Coupling for Emergency Gear and Motor (North)
+│   ├── Coupling for Emergency Gear and Motor (South)
+│   ├── Coupling for Main Gear and Motor (North)
+│   ├── Coupling for Main Gear and Motor (South)
+│   ├── ELECTRO MOTOR HEATER
+│   ├── ELECTRO MOTOR HEATER
+│   ├── Emegency Gear Reducer (North)
+│   ├── Emegency Gear Reducer (South)
+│   ├── Emegency Motor (North)
+│   ├── Emegency Motor (South)
+│   ├── FEEDER-720KL1.HEATER MOTOR 1
+│   ├── FEEDER-720KL1.HEATER MOTOR 2
+│   ├── FEEDER.720KL1.ME01
+│   ├── FEEDER.720KL1.ME02
+│   ├── FEEDER.720KL1.ME09
+│   ├── FEEDER.720KL1.ME10
+│   ├── FEEDER.720KL1.ML13
+│   ├── FEEDER.720KL1.ML14
+│   ├── KILN 1 AUX DRIVE BRAKE
+│   ├── KILN 2 AUX DRIVE BRAKE
+│   ├── KILN AUXILLARY DRIVE 1
+│   ├── KILN AUXILLARY DRIVE 1 JUNCTION BOX
+│   ├── KILN AUXILLARY DRIVE 1 LIMIT SWITCH CLOSE
+│   ├── KILN AUXILLARY DRIVE 1 LIMIT SWITCH OPEN
+│   ├── KILN AUXILLARY DRIVE 2
+│   ├── KILN AUXILLARY DRIVE 2 JUNCTION BOX
+│   ├── KILN AUXILLARY DRIVE 2 LIMIT SWITCH CLOSE
+│   ├── KILN AUXILLARY DRIVE 2 LIMIT SWITCH OPEN
+│   ├── KILN MOTOR 1 HEATER
+│   ├── KILN MOTOR 2 HEATER
+│   ├── KILN ROTATION SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── MOTOR TEMPERATURE
+│   ├── Main Gear Reducer (North)
+│   ├── Main Gear Reducer (South)
+│   ├── Main Motor (North)
+│   ├── Main Motor (South)
+│   ├── ROTARY KILN MOTOR 1
+│   ├── ROTARY KILN MOTOR 2
+│   ├── Torsion Shaft (North)
+│   └── Torsion Shaft (South)
+├── Feef End Assembly
+│   ├── Air Seal Housing
+│   ├── Air Seal Ring
+│   ├── Bolt for Brick Retainer
+│   ├── Bolt for Brick Retainer
+│   ├── Bolt, Nut
+│   ├── Brick Retainer (NO. 1)
+│   ├── Brick Retainer (NO. 2)
+│   ├── Brick Retainer (NO. 3)
+│   ├── Cooling Duct
+│   ├── Duct Support
+│   ├── Piping for Lubrication
+│   ├── Piping for Lubrication
+│   ├── Retaining Ring
+│   ├── Spring
+│   └── Supporting Plate
+├── Grease Unit for Drive Unit (LY01)
+│   ├── KILN GEAR OIL HEATER 1
+│   ├── KILN GEAR OIL HEATER 2
+│   ├── LEVEL SWITCH
+│   ├── LEVEL SWITCH
+│   ├── OIL SPRAY SYSTEM KILN
+│   ├── OIL SPRAY SYSTEM KILN
+│   ├── POS SWITCH 1
+│   ├── POS SWITCH 2
+│   ├── PRESSURE SWITCH
+│   ├── PRESSURE SWITCH
+│   ├── PRESSURE SWITCH
+│   ├── ROTARY KILN AIR SPRAY VALVE 1
+│   ├── ROTARY KILN AIR SPRAY VALVE 2
+│   ├── ROTARY KILN OIL SPRAY AIR PUMP 1
+│   ├── ROTARY KILN OIL SPRAY AIR PUMP 2
+│   ├── ROTARY KILN OIL SPRAY RETURN
+│   ├── ROTARY KILN OIL SPRAY VALVE
+│   ├── START PB
+│   └── START PB
+├── Lubrication Unit for Carrying Mechanism(LX01)
+│   ├── DIfferential PRESSURE SWITCH
+│   ├── FEEDER-720KL1.HEATER LUB 1
+│   ├── FEEDER.720KL1.ME05
+│   ├── FEEDER.720KL1.ME06
+│   ├── FLOWMETER
+│   ├── KILN OIL COOLING 1 HEATER
+│   ├── KILN OIL COOLING 1 PUM 1 ELECTRO MOTOR
+│   ├── KILN OIL COOLING 1 PUM 2 ELECTRO MOTOR
+│   ├── LEVEL SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── PRESSURE SWITCH
+│   ├── PRESSURE SWITCH
+│   ├── PT100
+│   ├── TEMPERATURE TRANSMITTER
+│   ├── THERMOMETER
+│   └── THERMOMETER
+├── Lubrication Unit for Carrying and Thrust Mechanism (LX02)
+│   ├── DIfferential PRESSURE SWITCH
+│   ├── FEEDER-720KL1.HEATER LUB 2
+│   ├── FEEDER.720KL1.ME07
+│   ├── FEEDER.720KL1.ME08
+│   ├── FLOW SWITCH
+│   ├── FLOW SWITCH
+│   ├── FLOW SWITCH
+│   ├── FLOWMETER
+│   ├── KILN OIL COOLING 2 HEATER
+│   ├── KILN OIL COOLING 2 PUM 1 ELECTRO MOTOR
+│   ├── KILN OIL COOLING 2 PUM 2 ELECTRO MOTOR
+│   ├── KILN OIL COOLING UNIT 2
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── PRESSURE SWITCH
+│   ├── PRESSURE SWITCH
+│   ├── PT100
+│   ├── TEMPERATURE TRANSMITTER
+│   ├── THERMOMETER
+│   └── THERMOMETER
+├── Lubrication Unit for Drive Unit (LU01)
+│   ├── DIfferential PRESSURE SWITCH
+│   ├── FEEDER-720KL1.GEAR OIL 1
+│   ├── FEEDER-720KL1.GEAR OIL 2
+│   ├── FEEDER.720KL1.ME11
+│   ├── FEEDER.720KL1.ME12
+│   ├── KILN GEAR LUB OIL PUMP 1 ELECTRO MOTOR
+│   ├── KILN GEAR LUB OIL PUMP 2 ELECTRO MOTOR
+│   ├── LEVEL SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── OIL PRESSURE
+│   ├── OIL PRESSURE
+│   ├── OIL PRESSURE
+│   ├── OIL PRESSURE
+│   ├── PT100
+│   ├── TEMPERATURE TRANSMITTER
+│   └── THERMOSWITCH
+└── Shell
+    ├── PYROMETER
+    ├── PYROMETER CONTROL PANEL
+    ├── Shell
+    ├── Shell (Discharge End)
+    ├── Shell (Feed End)
+    └── Shell (NO. 2)

@@ -1,0 +1,58 @@
+160EF1-DEHESTANI1.xlsx
+├── ACCESSORIES
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── CONTROL & MONITORING (SAFTY ELEMENTS)
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── FLASHER
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LEVEL SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   └── SPEED SWITCH
+├── DISCHARGE  AREA  ASSEMBLY
+├── DRIVE HEAD AREA ASSEMBLY
+│   ├── 160FE01.ME01.FEEDER
+│   ├── Drive Unit
+│   │   └── Tail Unit Assembly
+│   ├── Head Drum Assembly
+│   │   ├── Bearing Housing Fix (SNL 3134)
+│   │   │   ├── Bearing With Adaptor
+│   │   │   ├── Housing
+│   │   │   ├── Locating Ring
+│   │   │   └── Seal
+│   │   ├── Bearing Housing Loose(SNL 3134
+│   │   │   └── End Cover
+│   │   └── Drive Pulley B1800
+│   │       ├── Diamond Rubber Lagging
+│   │       ├── Drive Drum
+│   │       │   ├── Hub
+│   │       │   └── Shell
+│   │       ├── Drive Shaft D150×160×130×2869
+│   │       └── Locking Assy. T
+│   │           ├── Inner Ring
+│   │           ├── Outer Ring
+│   │           └── Screw
+│   ├── Head Structure
+│   ├── Skirtboard Assembly
+│   ├── Tail Drum Assembly
+│   │   ├── Drum Pulley  
+│   │   │   ├── Diamond Rubber Lagging
+│   │   │   ├── Hub
+│   │   │   ├── Pin
+│   │   │   └── Shell
+│   │   ├── Locking Assmbly 
+│   │   │   ├── Inner Ring
+│   │   │   ├── Outer Ring
+│   │   │   └── Screw
+│   │   ├── Sensor Clamp
+│   │   ├── THD Take-up Housing
+│   │   └── Tail Shaft
+│   └── Upper Discharge Chute
+├── INTERMEDIATE AREA ASSEMBLY 
+└── TAIL END AREA ASSEMBLY

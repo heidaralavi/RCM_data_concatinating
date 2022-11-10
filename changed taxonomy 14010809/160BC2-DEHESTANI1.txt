@@ -1,0 +1,74 @@
+160BC2-DEHESTANI1.xlsx
+├──  STRUCTURE
+│   ├── GRATING
+│   ├── HANDRAIL 01
+│   ├── HANDRAIL 02
+│   ├── HANDRAIL 03
+│   └── HANDRAIL 04
+├── DRIVE UNIT
+│   ├── BOLT-NUT-WASHERS
+│   ├── COUPLING
+│   ├── COUPLING GUARD
+│   ├── DRIVE SUPPORT
+│   ├── ELECTRO MOTOR
+│   └── GEAR BOX
+├── HEAD UNIT
+│   ├── BELT SCRAPPER
+│   ├── BOLT-NUT-WASHERS
+│   ├── DEFLECTOR PLATE
+│   ├── HEAD DRUM
+│   ├── HEAD STRUCTURE
+│   ├── HEAD UPPER DISCHARGE CHUTE
+│   └── SHIM PLATE
+├── RAIN COVER
+│   ├── BOLT-NUT-WASHERS
+│   ├── COVER PLATE
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── FLASHER
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── MAIN FRAME
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── SIDE COVER 
+│   └── SPEED SWITCH
+├── ROPE SWITCH
+│   ├── EYE BOLT
+│   ├── HEX BOLT
+│   ├── HEX BOLT-NUT-WASHERS
+│   ├── HEX NUT-WASHERS
+│   ├── PULL ROPE
+│   ├── ROPE CLAMP
+│   ├── ROPE SWITCH
+│   ├── TENTION SPRING
+│   ├── THIMBLE
+│   └── TURN BUCKLE
+├── SKIRT BOARD
+│   ├── 160BC02.ME01.FEEDER
+│   └── BOLT-NUT-WASHERS
+├── TAIL UNIT
+│   ├── BASE FRAME
+│   ├── BOLT-NUT-WASHERS
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── LADDER
+│   ├── LADDER & GRATING SUPPORT
+│   ├── PIN
+│   ├── ROPE CLAMP
+│   ├── SPLIT PIN
+│   ├── TAIL DRUM
+│   ├── TAIL GUARD
+│   ├── TAIL STRUCTURE
+│   ├── THIMBLE
+│   ├── TROLLY
+│   └── WIRE
+└── TENSION STRUCTURE
+    ├── BENDING DRUM
+    ├── BOLT-NUT
+    ├── BOLT-NUT-WASHERS
+    └── GUARD

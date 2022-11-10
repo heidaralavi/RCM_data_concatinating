@@ -1,0 +1,32 @@
+110SC03-DEHESTANI.xlsx
+├── CASING
+│   ├── BODY
+│   ├── CASING COVER
+│   │   └── GASKET
+│   ├── COMPANION FLANGE1
+│   │   └── GASKET
+│   ├── COMPANION FLANGE2
+│   │   └── GASKET
+│   ├── INSPECTION HOLE1
+│   ├── INSPECTION HOLE2
+│   ├── SIDE COVER 2
+│   │   └── GASKET
+│   └── SIDE COVER1
+│       └── GASKET
+├── DRIVE UNIT
+│   ├── COUPLING
+│   ├── GEARBOX
+│   └── MAIN MOTOR
+├── OTHER
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── FOUNDATION
+│   ├── HANDRAIL
+│   ├── LADDER
+│   ├── PLATFORM
+│   └── STAIR
+└── ROTARY UNIT
+    ├──  FLANG BEARING
+    └── SCREW & SHAFT
+        ├── GRAND CAP
+        └── GRAND PACKING

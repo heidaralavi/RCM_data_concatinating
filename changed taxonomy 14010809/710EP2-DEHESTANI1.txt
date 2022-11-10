@@ -1,0 +1,103 @@
+710EP2-DEHESTANI1.xlsx
+├── DOUBLE DUMP VALVE
+│   ├── ASSEMBLY  DUMP VALVE
+│   ├── DOUBLE DUMP VALVE - ELECTROMOTOR
+│   ├── DOUBLE DUMP VALVE - ELECTROMOTOR
+│   ├── DOUBLE DUMP VALVE - ELECTROMOTOR
+│   ├── DOUBLE DUMP VALVE - ELECTROMOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── GEAR MOTOR
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   └── LOCAL CONTROL BOX
+├── HOPPER
+│   ├── BODY HOPPER
+│   ├── CHUTE
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   ├── HOPPER HEATER
+│   └── INSULATION
+├── INLET
+│   ├── AIR SPLIT
+│   ├── BODY
+│   ├── INLET TEMPERATURE
+│   ├── INLET TEMPERATURE
+│   └── INSULATION
+├── MAIN BODY
+│   ├── BODY
+│   ├── COLLECTING  ASSEMBLY
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── HAMMER
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── SHAFT
+│   │   └── SPROCKET-CHAIN
+│   ├── DISCHARGE ASSEMBLY
+│   │   ├──  HEATER FOR Support Insulator 1
+│   │   ├──  HEATER FOR Support Insulator 2
+│   │   ├──  HEATER FOR Support Insulator 3
+│   │   ├──  HEATER FOR Support Insulator 4
+│   │   ├──  HEATER FOR Support Insulator 5
+│   │   ├──  HEATER FOR Support Insulator 6
+│   │   ├──  HEATER FOR Support Insulator 7
+│   │   ├──  HEATER FOR Support Insulator 8
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── GEAR MOTOR
+│   │   ├── HAMMER
+│   │   ├── Insulator 1
+│   │   ├── Insulator 2
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── SHAFT-LANTERN WHEEL
+│   ├── Gas  Distribution Screen1
+│   ├── Gas  Distribution Screen2
+│   └── INSULATION
+├── OUTLET
+│   ├── BODY
+│   ├── INSULATION
+│   └── OUT LET PRESSURE
+├── STRUCTURE
+├── SUNDRY
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── FEEDER - MCC
+│   ├── HANDRAIL AND GRATING
+│   ├── LADDER
+│   └── WATER CANAL
+├── Transformator
+│   ├── 710EP02.TF01
+│   ├── 710EP02.TF01
+│   ├── 710EP02.TF01
+│   ├── 710EP02.TF01
+│   └── CONTROL PANEL
+└── Transformator
+    ├── 710EP02.TF02
+    ├── 710EP02.TF02
+    ├── 710EP02.TF02
+    ├── CONTROL PANEL
+    └── CONTROL PANEL

@@ -1,0 +1,64 @@
+110BF1-DEHESTANI1.xlsx
+├── LOWER BODY
+│   ├── BODY PLATE
+│   ├── CHECK VALVE
+│   ├── FILTER
+│   ├── HOPPER PLATE
+│   │   └── CHECK VALVE
+│   └── INPUT DUCKET
+├── UPPER BODY
+│   ├── AIR SUCTION
+│   ├── BODY PLATE
+│   ├── CHECK VALVE
+│   ├── OUTPUT DUCKET
+│   └── UPPER BODY AIR BLOWER
+│       ├── CONTROL PANEL
+│       ├── CONTROL PANEL (BAG FILTER )
+│       ├── EMERGENCY STOP
+│       ├── HORN
+│       ├── PRESURE SWITCH
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       ├── SOLENOID VALVE
+│       └── SOLENOID VALVE
+└── accesoris
+    ├── CABLES
+    ├── CBALE
+    ├── EARTHING
+    ├── EARTHING
+    ├── HANDRAIL
+    ├── LADDER
+    ├── LADER
+    ├── LIGHTENING
+    ├── LIGHTING
+    ├── STAIRS
+    ├── STRUCTURE SUPPORT
+    └── SURGE ARRESTER

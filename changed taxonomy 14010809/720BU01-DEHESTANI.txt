@@ -1,0 +1,54 @@
+720BU01-DEHESTANI.xlsx
+├── ACCESSORIES
+│   ├── 0720BU01.FEEDER
+│   ├── CABLE
+│   ├── Duct
+│   ├── EARTHING
+│   └── LADDER
+├── CASING
+│   ├── Actuators air-gas
+│   ├── Damper
+│   ├── Fireproof
+│   └── body
+├── Electrical panel
+│   └── BURNER CONTROL PANEL
+├── STRUCTURE
+│   ├── Bearing Housing1
+│   ├── Bearing Housing2
+│   ├── Casing1
+│   ├── Casing2
+│   ├── Coupling1
+│   ├── Coupling2
+│   ├── Damper1
+│   ├── Damper2
+│   ├── Duct
+│   ├── Impeller1
+│   ├── Impeller2
+│   ├── Metal beam
+│   ├── shaft1
+│   └── shaft2
+└── Unit Gas
+    ├──  PRESSURE SWITCH
+    ├──  PRESSURE SWITCH
+    ├── FLAME DETECTOR
+    ├── FLOW CONTROL VALVE
+    ├── FLOW TRANSMITTER
+    ├── PRESSURE SWITCH
+    ├── PRESSURE SWITCH
+    ├── PRESSURE TRANSMITTER
+    ├── PRESSURE TRANSMITTER
+    ├── PRESSURE TRANSMITTER
+    ├── PRESSURE TRANSMITTER
+    ├── PRESSURE TRANSMITTER
+    ├── PT100
+    ├── RESISTANCE THERMOMETER SENSOR PT102
+    ├── SMART VALVE POSITIONER
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── SOLENOID VALVE
+    ├── Sparkler
+    └── Valve

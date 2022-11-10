@@ -1,0 +1,550 @@
+110BC02-DEHESTANI.xlsx
+├── DISCHARGE AREA ASSEMBLY
+│   ├── ACTUATOR  SUPPORT OF ACTUATOR
+│   ├── BEARING SUPPORT
+│   ├── DEFLECTOR PLATE 01
+│   ├── DEFLECTOR PLATE 02
+│   │   ├── Base Plate
+│   │   ├── CTSK Head Screw
+│   │   ├── Deflector Holder
+│   │   ├── Deflector Plate Support
+│   │   ├── Nut
+│   │   ├── Nut
+│   │   ├── Plate 1
+│   │   ├── Plate 2
+│   │   ├── Rod
+│   │   ├── Rubber Liner
+│   │   ├── Screw
+│   │   ├── Spring Washer
+│   │   ├── Spring Washer
+│   │   ├── Stiffener 1
+│   │   └── Stiffener 2
+│   ├── DRIVE HEAD ASSEMBLY
+│   │   ├── DRIVE GROUP 110Kw
+│   │   │   ├── BEDPLATE
+│   │   │   ├── BRAKE
+│   │   │   ├── COUPLING
+│   │   │   ├── FLAT WASHER
+│   │   │   ├── FLAT WASHER
+│   │   │   ├── FLAT WASHER 
+│   │   │   ├── FLAT WASHER 
+│   │   │   ├── GEAR UNIT
+│   │   │   ├── MOTOR 110 Kw
+│   │   │   ├── NUT
+│   │   │   ├── NUT
+│   │   │   ├── PROTECTIVE COVER
+│   │   │   ├── REACTION ARM
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   ├── SCREW 
+│   │   │   └── SELF—LOCKING NUT 
+│   │   ├── DRIVE HEAD FRAME
+│   │   ├── DRIVE PULLEY
+│   │   │   ├── ADAPTER 
+│   │   │   ├── BEARING
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   ├── BEARING SUPPORT 
+│   │   │   ├── DISC TLK-401
+│   │   │   ├── DRIVE PULLEY SHAFT 
+│   │   │   ├── DRIVE PULLEY SHELL 
+│   │   │   └── GUIDE RING 
+│   │   ├── FLAT WASHER 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── REACTION LEVER SUPPORT
+│   │   ├── SCRAPER 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER
+│   │   └── SPRING WASHER
+│   ├── FLAPE GATE
+│   │   ├── Base Plate
+│   │   ├── CTSK Head Screw
+│   │   ├── Flap Body
+│   │   ├── Lever
+│   │   ├── Parallel Key
+│   │   ├── Shaft
+│   │   ├── Stiffener
+│   │   ├── Wear Plate 1
+│   │   └── Wear Plate 2
+│   ├── INSPECTION WINDOW 
+│   ├── INTERMEDIATE DISCHARGE CHUTE
+│   │   ├── Companion Flange
+│   │   ├── Front Plate
+│   │   ├── Guide Plate (Front)
+│   │   ├── Guide Plate (Rear)
+│   │   ├── Rear Plate
+│   │   ├── Side Plate
+│   │   ├── Stiffener (Front)
+│   │   ├── Stiffener (Rear)
+│   │   ├── Stiffener (Side)
+│   │   └── Support Flange
+│   ├── LOWER DISCHARGE CHUTE PART 1
+│   │   ├── CTSK Head Screw
+│   │   ├── Chute Body
+│   │   │   ├── Bend Plate
+│   │   │   ├── Flange Bearing Support
+│   │   │   ├── Front Plate
+│   │   │   ├── L-Angle 1
+│   │   │   ├── L-Angle 2
+│   │   │   ├── Lower Flange (Part 2)
+│   │   │   ├── Lower Flange (Part 3)
+│   │   │   ├── Lower Plate (Front)
+│   │   │   ├── Lower Plate (Rear)
+│   │   │   ├── Nut
+│   │   │   ├── Rear Plate
+│   │   │   ├── Screw
+│   │   │   ├── Side Plate
+│   │   │   ├── Spring Washer
+│   │   │   └── Upper Flange
+│   │   ├── Liner (01/1) LH
+│   │   ├── Liner (01/1) RH
+│   │   ├── Liner (01/2) LH
+│   │   ├── Liner (01/2) RH
+│   │   ├── Liner (01/3)
+│   │   ├── Liner (01/4)
+│   │   ├── Liner (01/5)
+│   │   ├── Liner (10/1)
+│   │   ├── Liner (11/1)
+│   │   ├── Nut
+│   │   └── Spring Washer
+│   ├── LOWER DISCHARGE CHUTE PART 2
+│   ├── LOWER DISCHARGE CHUTE PART 3
+│   │   ├── CTSK Head Screw
+│   │   ├── Chute Body
+│   │   │   ├── Front Plate 1
+│   │   │   ├── Front Plate 2
+│   │   │   ├── Rear Plate 1
+│   │   │   ├── Rear Plate 2
+│   │   │   ├── Side Plate (LH)
+│   │   │   └── Side Plate (RH)
+│   │   ├── Nut
+│   │   ├── Overfill Chute Support
+│   │   │   ├── Bend Plate
+│   │   │   ├── Flange
+│   │   │   ├── L-Angle
+│   │   │   ├── L-Angle 1 (LH)
+│   │   │   ├── L-Angle 1 (RH)
+│   │   │   ├── L-Angle 2 (LH)
+│   │   │   ├── L-Angle 2 (RH)
+│   │   │   ├── Nut
+│   │   │   ├── Overfill Chute
+│   │   │   ├── Overfill Door
+│   │   │   ├── Overfill Support
+│   │   │   ├── Plate
+│   │   │   ├── Screw
+│   │   │   ├── Side Plate
+│   │   │   ├── Spring Washer
+│   │   │   ├── Upper Flange
+│   │   │   └── Upper Plate
+│   │   ├── Screw
+│   │   ├── Spring Washer
+│   │   ├── Wear Plate 01
+│   │   ├── Wear Plate 02
+│   │   ├── Wear Plate 03
+│   │   └── Wear Plate 04
+│   ├── NAME PLATE
+│   ├── NUT 
+│   ├── NUT 
+│   ├── NUT 
+│   ├── NUT 
+│   ├── OVERFILL PROTECTION  
+│   ├── PLATFORM
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SCREW
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER 
+│   ├── SPRING WASHER 
+│   ├── SPRING WASHER 
+│   ├── UPPER DISCHARGE CHUTE
+│   │   ├── Bend Plate
+│   │   ├── Deflector Holder
+│   │   ├── Flange
+│   │   ├── Hook
+│   │   ├── Nut
+│   │   ├── Plate 1
+│   │   ├── Plate 2
+│   │   ├── Plate 3
+│   │   ├── Plate 4
+│   │   ├── Rear Plate
+│   │   ├── Rib
+│   │   ├── Rubber
+│   │   ├── Screw
+│   │   ├── Screw
+│   │   ├── Side Plate (LH)
+│   │   ├── Side Plate (RH)
+│   │   ├── Spring Washer
+│   │   ├── Support Plate 1
+│   │   ├── Support Plate 2
+│   │   └── Upper Plate
+│   └── WEDGE WASHER 
+├── HAMMER SAMPLE TAKER ASSEMBLY
+│   ├── CONTAINER ASSEMBLY
+│   ├── FLAT WASHER 
+│   ├── HAMMER SAMPLE TAKER
+│   ├── NUT 
+│   ├── NUT 
+│   ├── SCREW 
+│   ├── SCREW 
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER 
+│   └── STAINLESS STEEL CHUTE
+│       ├── Flange
+│       ├── Plate 1
+│       ├── Plate 2
+│       ├── Plate 3
+│       ├── Plate 4
+│       └── Plate 5
+├── INTERMEDIATE AREA ASSMBLY
+│   ├── ASSLY. OF LATICE & SUPPORTS
+│   │   ├── BOLT
+│   │   ├── FLAT.WASHERS
+│   │   ├── GRATING GALVANIZED MESH ASSEMBLY
+│   │   ├── LATTICE
+│   │   ├── NUT
+│   │   ├── POINT TOWER 
+│   │   ├── SPRING.WASHERS
+│   │   └── SUPPORT
+│   ├── BELT SCALE ASSEMBLY 
+│   │   ├── BELT SCALE
+│   │   ├── NUT
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   └── TAPER WASHER 
+│   ├── BOLT 
+│   ├── COUNTERWEIGHT ASSEMBLY
+│   │   ├── BOLT 
+│   │   ├── COUNTERWEIGHT DRAWER
+│   │   ├── COUNTERWEIGHT GUARD
+│   │   ├── COUNTERWEIGHT GUARD
+│   │   ├── COUNTERWEIGHT GUIDE
+│   │   ├── DECK PLATE
+│   │   ├── DRAWER COVER
+│   │   ├── DRAWER SUPPORT
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER 
+│   │   ├── FLAT WASHER 
+│   │   ├── GUIDE
+│   │   ├── LADDER
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── PIN 
+│   │   ├── PULLEY 
+│   │   │   ├── ADAPTER
+│   │   │   ├── BEARING
+│   │   │   ├── DISC
+│   │   │   ├── GUIDE RING
+│   │   │   ├── PULLEY SHELL 
+│   │   │   ├── PULLEY SHELL 
+│   │   │   ├── REDONDO CALIBR
+│   │   │   └── SUPPORT
+│   │   ├── PULLEY 
+│   │   │   ├── ADAPTER
+│   │   │   ├── BEARING
+│   │   │   ├── DISC
+│   │   │   ├── GUIDE RING
+│   │   │   ├── LAGGED SHELL
+│   │   │   ├── PULLEY SHAFT
+│   │   │   └── SUPPORT
+│   │   ├── PULLEY GUARD
+│   │   ├── PULLEY GUARD
+│   │   ├── PULLEY SUPPORT
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPLIT PIN
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── TELESCOPIC GUIDE
+│   │   ├── WEDGE WASHER
+│   │   └── WEDGE WASHER 
+│   ├── DECK PLATE ASSEMBLY
+│   ├── FEEDING CHUTE
+│   │   ├── CTSK Head Screw
+│   │   ├── Chute Body
+│   │   │   ├── Nut
+│   │   │   ├── Plain Washer
+│   │   │   ├── Screw
+│   │   │   ├── Side Frame (LH)
+│   │   │   │   ├── Buttom Plate
+│   │   │   │   ├── Connection Plate
+│   │   │   │   ├── Side Plate (LH)
+│   │   │   │   ├── Stiffener 1
+│   │   │   │   ├── Stiffener 2
+│   │   │   │   ├── Stiffener 3
+│   │   │   │   └── Support Plate
+│   │   │   ├── Side Frame (RH)
+│   │   │   │   └── Side Plate (RH)
+│   │   │   └── Trapezium Frame
+│   │   │       ├── Buttom Plate
+│   │   │       ├── Stiffener
+│   │   │       └── Trapezium Plate
+│   │   ├── Nut
+│   │   ├── Spring Washer
+│   │   ├── Wear Plate 1
+│   │   ├── Wear Plate 10
+│   │   ├── Wear Plate 2
+│   │   ├── Wear Plate 3
+│   │   ├── Wear Plate 4
+│   │   ├── Wear Plate 5
+│   │   ├── Wear Plate 6
+│   │   ├── Wear Plate 7
+│   │   ├── Wear Plate 8
+│   │   └── Wear Plate 9
+│   ├── Feedeing Chute (Lower)
+│   │   ├── CTSK Head Screw
+│   │   ├── Chute Body
+│   │   │   ├── Flange
+│   │   │   ├── Front Plate
+│   │   │   ├── L-Angle 1
+│   │   │   ├── L-Angle 2
+│   │   │   ├── Plate 1
+│   │   │   ├── Plate 2
+│   │   │   ├── Rear Plate
+│   │   │   ├── Rib (Side)
+│   │   │   ├── Rib (rear)
+│   │   │   ├── Side Plate (LH)
+│   │   │   └── Side Plate (RH)
+│   │   ├── Nut
+│   │   ├── Spring Washer
+│   │   ├── Wear Plate (13)
+│   │   ├── Wear Plate (14)
+│   │   ├── Wear Plate (15)
+│   │   ├── Wear Plate (16)
+│   │   ├── Wear Plate (17)
+│   │   ├── Wear Plate (18)
+│   │   ├── Wear Plate (19)
+│   │   ├── Wear Plate (20)
+│   │   ├── Wear Plate (21)
+│   │   ├── Wear Plate (22)
+│   │   ├── Wear Plate (23)
+│   │   ├── Wear Plate (24)
+│   │   ├── Wear Plate (25)
+│   │   ├── Wear Plate (26)
+│   │   ├── Wear Plate (27)
+│   │   └── Wear Plate (28)
+│   ├── IDLER SUPPORT ASSEMBLY
+│   │   ├── FLATWASHER 
+│   │   ├── FLATWASHER 
+│   │   ├── IDLER CARRING; BEARING 6204
+│   │   ├── Idler support frame 
+│   │   ├── Idler support frame 
+│   │   ├── Impact idler Support Frame, 
+│   │   ├── Impact idler, bearing 6205
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── Return idler ; bearing 6204
+│   │   ├── Return self-alignment idler frame
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPR1NGWASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── Self Alling.Idler supp.frame 
+│   │   ├── Standard carrying idler ; bearing 6204
+│   │   └── ldlersuppt. frame 
+│   ├── INTERMEDIATE FRAME WORK
+│   │   ├── NUT
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── WEDGE WASHER
+│   │   └── WEDGE WASHER 
+│   ├── NUT 
+│   ├── PLATFORM ASSEMBLY
+│   │   ├── BOLT 
+│   │   ├── GRAPNG GALVANIZAD MESH ASSEMBLY
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── HANDRAIL
+│   │   ├── NUT
+│   │   ├── NUT 
+│   │   ├── PLATFORM
+│   │   ├── PLATFORM
+│   │   ├── PLATFORM SUPPORT
+│   │   ├── PLATFORM SUPPORT
+│   │   ├── PROP PLATFORM
+│   │   ├── PROP PLATFORM
+│   │   ├── SCREW
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER 
+│   │   ├── STAIRS
+│   │   └── WEDGE WASHER 
+│   ├── RAIN COVER ASSEMBLY
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── BEAM SUPPORT COVER 
+│   │   ├── CLAMP
+│   │   ├── GAL
+│   │   ├── GALS 
+│   │   ├── GALS 
+│   │   ├── GALV
+│   │   ├── GALV
+│   │   ├── GALV
+│   │   ├── GALV 
+│   │   ├── GALV 
+│   │   ├── GALV 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── RAIN COVER
+│   │   ├── RAIN COVER SUPPORT
+│   │   ├── RAIN COVER SUPPORT
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   └── TAPER WASHER 
+│   ├── SCREW 
+│   ├── SKIRT BOARD ASSEMBLY
+│   │   ├── CLOSING RUBBER ASSEMBLY
+│   │   ├── COVER PLATE
+│   │   ├── FIXATION PIECE
+│   │   ├── L-BEAM
+│   │   ├── LATERAL SKIRTBOARD 
+│   │   ├── LATERAL SKIRTBOARD 
+│   │   ├── LATERAL SKIRTBOARD L=2998
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── RUBBER 
+│   │   ├── SCREW 
+│   │   ├── SHRIVELED SCREW
+│   │   ├── SKIRTBOARD CLOSING PLATE
+│   │   ├── SKIRTBOARD CLOSING RUBBER
+│   │   ├── SKIRTBOARD SUPORT
+│   │   ├── SKIRTBOARD SUPORT
+│   │   ├── SPRING WASHER 
+│   │   ├── SPRING WASHER 
+│   │   ├── Skirtboard Size 2998 (Type 1)
+│   │   │   ├── CTSK Head Screw
+│   │   │   ├── Fixation Pieces
+│   │   │   ├── L-Angle
+│   │   │   ├── Nut
+│   │   │   ├── Nut
+│   │   │   ├── Plain Washer
+│   │   │   ├── Rubber
+│   │   │   ├── Skirtboard Lateral
+│   │   │   │   ├── Closing Plate
+│   │   │   │   ├── Lateral
+│   │   │   │   ├── Screw
+│   │   │   │   └── Support Plate
+│   │   │   ├── Spring Washer
+│   │   │   ├── Square Taper Washer
+│   │   │   └── Wear Plate
+│   │   ├── Skirtboard Size 2998(LH Type 2)
+│   │   │   ├── Lateral (LH)
+│   │   │   └── Skirtboard Lateral (LH)
+│   │   ├── Skirtboard Size 2998(RH Type 2)
+│   │   │   ├── CTSK Head Screw
+│   │   │   ├── Fixation Pieces
+│   │   │   ├── L-Angle
+│   │   │   ├── Nut
+│   │   │   ├── Nut
+│   │   │   ├── Plain asher
+│   │   │   ├── Rubber
+│   │   │   ├── Skirtboard Lateral (RH)
+│   │   │   │   ├── Closing Plate
+│   │   │   │   ├── Lateral (RH)
+│   │   │   │   ├── Screw
+│   │   │   │   └── Support Plate
+│   │   │   ├── Spring Washer
+│   │   │   ├── Square Taper Washer
+│   │   │   └── Wear Plate
+│   │   ├── TAPER WASHER 
+│   │   └── WEAR PLATE
+│   ├── SPRING WASHER 
+│   ├── V CLEANING ASSEMBLY
+│   └── WEDGE WASHER 
+├── METAL DETECTOR ASSEMBLY
+│   ├── CABLE
+│   ├── CLAMP 
+│   ├── EARTHING
+│   ├── FLAT WASHER 
+│   ├── LADDER
+│   ├── METAL DETECTOR METCORR 
+│   ├── NUT 
+│   ├── NUT 
+│   ├── PLATE
+│   ├── PLATE
+│   ├── SCREW 
+│   ├── SPRING WASHER 
+│   └── SPRING WASHER 
+├── SAFETY ELEMENTS ASSEMBLY
+│   ├── BRAKE RELEASE
+│   ├── DRIFT SWITCH HEAD
+│   ├── DRIFT SWITCH HEAD
+│   ├── DRIFT SWITCH TAIL
+│   ├── DRIFT SWITCH TAIL
+│   ├── FLAT WASHER 
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LEVEL SWITCH
+│   ├── LEVEL SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── NUT 
+│   ├── PULL CHORD END SUPPORT
+│   ├── PULL CHORD SWITCH
+│   ├── PULL CHORD SWITCH SUPPORT
+│   ├── ROPE SWITCH LEFT
+│   ├── ROPE SWITCH LEFT
+│   ├── ROPE SWITCH RIGHT
+│   ├── ROPE SWITCH RIGHT
+│   ├── SCREW 
+│   ├── SIDE TRAVEL LIMIT SWITCH INF.
+│   ├── SIDE TRAVEL LIMIT SWITCH SUP.
+│   ├── SPEED SWITCH
+│   └── SPRING WASHER 
+└── TAIL END AREA ASSEMBLY
+    ├── FRONTAL GUARD
+    ├── NUT 
+    ├── NUT 
+    ├── PROXIMITY SWITCH SUPPORT
+    ├── SCREW 
+    ├── SCREW 
+    ├── SIDE GUARD
+    ├── SIDE GUARD
+    ├── SPEED CONTROL 
+    ├── SPRING WASHER 
+    ├── SPRING WASHER 
+    ├── TAIL PULLEY 
+    ├── TAIL-END FRAME
+    ├── UPPER GUARD
+    ├── WEDGE WASHER 
+    └── WEDGE WASHER 

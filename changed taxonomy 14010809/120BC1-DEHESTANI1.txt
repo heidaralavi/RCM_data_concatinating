@@ -1,0 +1,320 @@
+120BC1-DEHESTANI1.xlsx
+├── ACCESSORY
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── DISCHARGE AREA ASSEMBLY
+│   ├── 120BC1.ME01.FEEDER
+│   ├── 120BC1.ME02.FEEDER
+│   ├── DEFLECTOR PLATE
+│   ├── DRIVE HEAD ASSEMBLY
+│   │   ├── AUXILIAR PULLEY
+│   │   │   ├── ADAPTER
+│   │   │   ├── BEARING
+│   │   │   ├── CALIBRATED ROD
+│   │   │   ├── DISC
+│   │   │   ├── GUIDE RING
+│   │   │   ├── LAGGED SHELL
+│   │   │   ├── PULLEY SHAFT
+│   │   │   └── SUPPORT
+│   │   ├── DRIVE GROUP 75Kw
+│   │   │   ├── BEDPLATE
+│   │   │   ├── BRAKE
+│   │   │   ├── COUPLING
+│   │   │   │   ├── F C N-EUPEX-P 200 (315×118)
+│   │   │   │   │   ├── F C N-EUPEX-D 200
+│   │   │   │   │   │   ├── Female Flange D 200
+│   │   │   │   │   │   ├── Flexible Element  D 200
+│   │   │   │   │   │   ├── Hub D 200
+│   │   │   │   │   │   ├── Male Ring D 200
+│   │   │   │   │   │   ├── Screw
+│   │   │   │   │   │   └── Screw
+│   │   │   │   │   ├── Long Hub Brake Drum 315×118
+│   │   │   │   │   └── Screw
+│   │   │   │   └── Fluid coupling FN 425
+│   │   │   │       └── Hub Carrier 425
+│   │   │   ├── FLAT WASHER
+│   │   │   ├── FLAT WASHER 
+│   │   │   ├── FLAT WASHER 
+│   │   │   ├── NUT
+│   │   │   ├── NUT 
+│   │   │   ├── NUT 16 8 ZINC I
+│   │   │   ├── PROTECTIVE COVER
+│   │   │   ├── REACTION ARM
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW
+│   │   │   ├── SCREW 
+│   │   │   └── SELF-LOCKING NUT
+│   │   ├── DRIVE HEAD FRAME
+│   │   ├── DRIVE PULLEY
+│   │   │   ├── ADAPTER 
+│   │   │   ├── BEARING
+│   │   │   ├── DISC 
+│   │   │   ├── DRIVE PULLEY SHAFT
+│   │   │   ├── DRIVE PULLEY SHELL
+│   │   │   ├── GUIDE RING
+│   │   │   ├── SUPPORT
+│   │   │   └── SUPPORT 
+│   │   ├── FLAT WASHER
+│   │   ├── FLAT WASHER
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── REACTION LEVER SUPPORT
+│   │   ├── SCRAPER 
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   └── SPRING WASHER
+│   ├── HEATER
+│   ├── INNER SUPPORT
+│   ├── INSPECTION WINDOW
+│   ├── LOWER DISCHARGE CHUTE
+│   │   ├── CTSK Head Screw
+│   │   ├── Lower Chute
+│   │   │   ├── Bend Plate 1
+│   │   │   ├── Bend Plate 2
+│   │   │   ├── Front Plate
+│   │   │   ├── Overfill Protection Chute
+│   │   │   ├── Plate
+│   │   │   ├── Rear Plate
+│   │   │   ├── Side Plate (LH)
+│   │   │   ├── Side Plate (RH)
+│   │   │   ├── Side Stiffener (LH)
+│   │   │   ├── Side Stiffener(RH)
+│   │   │   ├── Stiffener
+│   │   │   └── Support Flange
+│   │   ├── Nut
+│   │   ├── Spring Washer
+│   │   ├── Wear Plate (1A)
+│   │   ├── Wear Plate (1B)
+│   │   ├── Wear Plate (2A)
+│   │   ├── Wear Plate (2B)
+│   │   ├── Wear Plate (3A)
+│   │   ├── Wear Plate (3B)
+│   │   ├── Wear Plate (3C)
+│   │   ├── Wear Plate (3D)
+│   │   ├── Wear Plate (3E)
+│   │   ├── Wear Plate (3F)
+│   │   ├── Wear Plate (4A)
+│   │   ├── Wear Plate (4B)
+│   │   ├── Wear Plate (4C)
+│   │   ├── Wear Plate (4D)
+│   │   ├── Wear Plate (4E)
+│   │   ├── Wear Plate (4F)
+│   │   ├── Wear Plate (4G)
+│   │   ├── Wear Plate (5A)
+│   │   └── Wear Plate (5B)
+│   ├── NAME PLATE
+│   ├── NUT 
+│   ├── NUT 
+│   ├── OVERFILL PROTECTION
+│   ├── OVERFILL PROTECTION CHUTE
+│   ├── SCREW
+│   ├── SCREW 
+│   ├── SCREW 
+│   ├── SPEED CONTROL
+│   ├── SPEED CONTROL SUPPORTS
+│   ├── SPRING WASHER
+│   ├── SPRING WASHER 
+│   ├── SPRING WASHER 
+│   ├── SPRING WASHER 
+│   ├── UPPER DISCHARGE CHUTE
+│   │   ├── Closing Rubber
+│   │   ├── Deflector Support
+│   │   ├── Frame Of Cover
+│   │   ├── Front Frame
+│   │   ├── Front Plate 1
+│   │   ├── Front Plate 2
+│   │   ├── Removable Cover
+│   │   ├── Side Plate
+│   │   ├── Side Plate (W.I.D)
+│   │   ├── Support Plate 1
+│   │   ├── Support Plate 2
+│   │   ├── Support Plate 3
+│   │   └── Upper Cover
+│   └── WEDGE WASHER
+├── INTERMEDIATE AREA ASSEMBLY
+│   ├── ASSEMBLY OF LATTICE & SUPPORTS
+│   │   ├── BOLTS
+│   │   ├── BOLTS
+│   │   ├── FLAT WASHERS
+│   │   ├── FLAT.WASHERS
+│   │   ├── GRATING GALVANIZED MESH ASSEMBLY
+│   │   ├── LATTICE-01
+│   │   ├── LATTICE-02
+│   │   ├── NUTS
+│   │   ├── NUTS
+│   │   ├── POINT TOWER
+│   │   ├── SPRING.WASHERS
+│   │   ├── SUPPORT—P10
+│   │   ├── SUPPORT—P9
+│   │   ├── UNION—PLATE
+│   │   └── WHARF.WASHERS
+│   ├── HANDRAILS
+│   ├── IDLER SUPPORT ASSEMBLY
+│   │   ├──  IDLER SUPP. FRAME
+│   │   ├──  RETURN IDLER
+│   │   ├──  STANDARD CARRYING IDLER
+│   │   ├── CARRYING SELF IDLER SUPP.
+│   │   ├── FLAT WASHER
+│   │   ├── NUT 
+│   │   ├── RETURN SELF ALIGN. IDLER SUPP.
+│   │   ├── SCREW
+│   │   ├── SPRING WASHER
+│   │   └── TRANSITION IDLER SUPPORT
+│   ├── INTERMEDIATE FRAMEWORK
+│   ├── JOINT PLATE
+│   ├── METAL DETECTOR ASSEMBLY
+│   │   ├── CLAMP
+│   │   ├── FLAT WASHER
+│   │   ├── METAL DETECTOR ASSEMBLY
+│   │   ├── METAL DETECTOR METCORR
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── PLATE
+│   │   ├── PLATE
+│   │   ├── SCREW
+│   │   ├── SPRING WASHER
+│   │   └── SPRING WASHER
+│   ├── NUT
+│   ├── RAIN COVER ASSEMBLY
+│   │   ├── CLAMP
+│   │   ├── GALV. 
+│   │   ├── GALV. 
+│   │   ├── GALV. 
+│   │   ├── HANDLE
+│   │   ├── L—BEAM
+│   │   ├── L—BEAM
+│   │   ├── L—BEAM 
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── RAIN COVER
+│   │   ├── RAIN COVER ELEMENT
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   └── TAPER WASHER
+│   ├── SCREW
+│   ├── SPRING WASHER
+│   ├── STAIR
+│   └── WEDGE WASHER
+├── SAFETY ELEMENTS ASSEMBLY
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── END SIDE SUPPORT -PULL CHORD SWITCH
+│   ├── FLAT WASHER
+│   ├── HORN
+│   ├── HORN
+│   ├── HORN
+│   ├── HORN
+│   ├── HORN
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LEVEL SWITCH
+│   ├── LIMIT SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── NUT
+│   ├── PULL CHORD SWITCH
+│   ├── PULL CHORD SWITCH SUPPORT
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── SCREW 
+│   ├── SIDE TRAVEL LIMIT SWITCH ASSY. (INF.)
+│   ├── SIDE TRAVEL LIMIT SWITCH ASSY. (SUP.)
+│   ├── SPEED SWITCH
+│   └── SPRING WASHER
+└── TAIL END AREA ASSEMBLY
+    ├── COUNTERWEIGHT DRAWER
+    ├── FLAT WASHER
+    ├── LADDER
+    ├── MESH GUARD
+    ├── MESH GUARD
+    ├── MESH GUARD
+    ├── MESH GUARD
+    ├── MESH GUARD SUPPORT FRAME
+    ├── NUT
+    ├── NUT 
+    ├── SCREW
+    ├── SCREW
+    ├── SCREW
+    ├── SHEAVE ASSEMBLY
+    ├── TAIL—END FRAME SUPPORT 1
+    ├── TAIL—END FRAME SUPPORT 2
+    ├── THIMBLE ASSEMBLY
+    ├── TOLLEY ASSEMBLY
+    │   ├── 'V' CLEANING DEVICE
+    │   ├── AUXILIARY PULLEY
+    │   │   ├── ADAPTER
+    │   │   ├── BEARING 
+    │   │   ├── CALIBRATED ROD 
+    │   │   ├── DISC
+    │   │   ├── GUIDE RING FR 
+    │   │   ├── PULLEY SHAFT 
+    │   │   ├── PULLEY SHELL 
+    │   │   └── SUPPORT
+    │   ├── BOLT
+    │   ├── BUFFER BRACKET
+    │   ├── BUSHING SELF OIL 
+    │   ├── GUIDE BRACKET
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── OILER TECALEMIT 
+    │   ├── PLATE BRAKE
+    │   ├── RAIL WHEEL
+    │   ├── SCRAPPER
+    │   ├── SCREW
+    │   ├── SCREW
+    │   ├── SCREW
+    │   ├── SCREW
+    │   ├── SCREW
+    │   ├── SCREW 
+    │   ├── SHEAVE ASSEMBLY
+    │   ├── SPRING WASHER
+    │   ├── SPRING WASHER
+    │   ├── SPRING WASHER
+    │   ├── SPRING WASHER 
+    │   ├── SPRING WASHER 
+    │   ├── TOLLEY FRAME
+    │   ├── WASHER 
+    │   └── WASHER 
+    ├── TOWER FRAME
+    ├── WEDGE WASHER
+    └── WIRE 

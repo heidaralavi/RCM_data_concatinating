@@ -1,0 +1,113 @@
+160BC1-DEHESTANI1.xlsx
+├──  STRUCTURE
+│   ├── GRATING
+│   ├── HANDRAIL 01
+│   ├── HANDRAIL 02
+│   ├── HANDRAIL 03
+│   └── HANDRAIL 04
+├── DRIVE UNIT
+│   ├── BOLT-NUT-WASHERS
+│   ├── COUNTERWEIGHT ASSEMBLY
+│   │   ├── BOLT
+│   │   ├── COUNTERWEIGHT DRAWER
+│   │   ├── COUNTERWEIGHT GUIDE
+│   │   ├── DRAWER COVER
+│   │   ├── DRAWER SUPPORT
+│   │   ├── FLAT WASHER
+│   │   ├── GUIDES
+│   │   ├── MESH GUARD
+│   │   ├── NUT
+│   │   ├── PULLEY
+│   │   │   ├── ADAPTER
+│   │   │   ├── CALIBRATED ROD 
+│   │   │   ├── DISC 
+│   │   │   ├── GUIDE RING 
+│   │   │   ├── PULLEY SHAFT 
+│   │   │   ├── PULLEY SHELL 
+│   │   │   └── SUPPORT 
+│   │   ├── PULLEY GUARD
+│   │   ├── PULLEY SUPPORT
+│   │   ├── SCREW
+│   │   ├── SPLIT PIN 
+│   │   ├── SPRING WASHER 
+│   │   ├── TELESCOPIC GUIDE
+│   │   ├── TENSOR OF WIRE
+│   │   ├── THIMBLE
+│   │   ├── WEDGE WASHER 
+│   │   └── WIRE 
+│   ├── COUPLING
+│   ├── COUPLING GUARD
+│   ├── DRIVE SUPPORT
+│   ├── ELECTRO MOTOR
+│   └── GEAR BOX
+├── HEAD UNIT
+│   ├── BELT SCRAPPER
+│   ├── BOLT-NUT-WASHERS
+│   ├── DEFLECTOR PLATE
+│   ├── HEAD DRUM
+│   ├── HEAD STRUCTURE
+│   ├── HEAD UPPER DISCHARGE CHUTE
+│   └── SHIM PLATE
+├── RAIN COVER
+│   ├── BOLT-NUT-WASHERS
+│   ├── COVER PLATE
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── FLASHER
+│   ├── FLASHER
+│   ├── HORN
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX (LEFT)
+│   ├── JUNCTION BOX (LEFT)
+│   ├── JUNCTION BOX (LEFT)
+│   ├── JUNCTION BOX (LEFT)
+│   ├── JUNCTION BOX (RIGHT)
+│   ├── JUNCTION BOX (RIGHT)
+│   ├── JUNCTION BOX (RIGHT)
+│   ├── JUNCTION BOX (RIGHT)
+│   ├── LOCAL CONTROL BOX
+│   ├── MAIN FRAME
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── SIDE COVER 
+│   └── SPEED SWITCH
+├── ROPE SWITCH
+│   ├── EYE BOLT
+│   ├── HEX BOLT
+│   ├── HEX BOLT-NUT-WASHERS
+│   ├── HEX NUT-WASHERS
+│   ├── PULL ROPE
+│   ├── ROPE CLAMP
+│   ├── ROPE SWITCH
+│   ├── TENTION SPRING
+│   ├── THIMBLE
+│   └── TURN BUCKLE
+├── SKIRT BOARD
+│   ├── 160BC01.ME01.FEEDER
+│   └── BOLT-NUT-WASHERS
+└── TAIL UNIT
+    ├── BASE FRAME
+    ├── BOLT-NUT-WASHERS
+    ├── CABLE
+    ├── EARTHING
+    ├── LADDER
+    ├── LADDER & GRATING SUPPORT
+    ├── PIN
+    ├── ROPE CLAMP
+    ├── SPLIT PIN
+    ├── TAIL DRUM
+    ├── TAIL GUARD
+    ├── TAIL STRUCTURE
+    ├── THIMBLE
+    ├── TROLLY
+    └── WIRE

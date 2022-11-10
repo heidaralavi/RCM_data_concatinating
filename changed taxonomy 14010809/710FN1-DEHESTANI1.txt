@@ -1,0 +1,131 @@
+710FN1-DEHESTANI1.xlsx
+├──  DAMPER UNIT
+│   ├── ACTUATOR
+│   │   ├── 710FN01-ACTUATOR FEEDER
+│   │   ├── BEARING
+│   │   ├── LEVER 
+│   │   └── MAIN SHAFT
+│   └── DAMPER
+│       ├── BEARING
+│       ├── CASING
+│       ├── CONNECTION BAR
+│       ├── CONNECTION LEVER
+│       ├── SHAFT
+│       └── VANE
+├── CASING
+│   ├── BODY
+│   ├── CASING ROD
+│   ├── EXPANTION JOINT
+│   │   ├── CASING
+│   │   ├── DUST PROOF MATRIAL
+│   │   ├── GLASS CLOTH
+│   │   ├── GLASS CLOTH GASKET
+│   │   └── SLEEVE   
+│   ├── INLET CONE
+│   │   ├── HEX CAP SCREW M16*45
+│   │   ├── HEXNUT M16
+│   │   └── SPRING WASHER A 17
+│   ├── INLET CONE SUPPORT(FIX SIDE)
+│   ├── INLET CONE SUPPORT(FREE SIDE)
+│   ├── INSULATION
+│   │   ├── BLANKET
+│   │   └── COVER
+│   ├── LABYRINTH SEAL
+│   │   ├── LABYRINTH GASKET
+│   │   └── PLATE
+│   ├── LINER ASSEMBLY
+│   │   ├── LINER NO1
+│   │   ├── LINER NO2
+│   │   ├── LINER NO3
+│   │   ├── LINER NO4
+│   │   └── LINER NO5
+│   └── MAN HOLE
+├── DRIVE UNIT
+│   ├── AUXILLARY MOTOR
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── PH FAN TURNING
+│   ├── COUPLING  
+│   │   ├── COUPLING COVER
+│   │   ├── FAN SIDE HUB 
+│   │   ├── MOTOR SIDE HUB
+│   │   └── TRANSMISION UNIT(SPACER)
+│   ├── FLEXIBLE DISK COUPLING
+│   │   ├── COUPLING COVER
+│   │   ├── FAN SIDE HUB 
+│   │   ├── MOTOR SIDE HUB
+│   │   └── TRANSMISION UNIT(SPACER)
+│   ├── GEAR BOX
+│   ├── MAIN MOTOR
+│   └── ONE WAY CLUTCH
+├── LIQUID STARTER
+│   └── DRIVE UNIT LIQUID STARTER
+│       ├── 0710FN01.1R01.FEEDER
+│       ├── 0710FN01.1R01.M10.FEEDER
+│       └── ELECTRO MOTOR 
+├── LUBRICATION UNIT
+│   ├── 0710FN01.ME03.FEEDER
+│   ├── 0710FN01.ME04.FEEDER
+│   ├── 3-WAY VALVE
+│   ├── 3-WAY WAX TEMP CONTROL VALVE
+│   ├── CHECK VALVE
+│   ├── CHECK VALVE
+│   ├── DRAIN VALVE
+│   ├── DUPLEX FILTER
+│   ├── FLOW METER
+│   ├── FLOW SIGHT
+│   ├── GATE VALVE
+│   ├── GLOB VALVE
+│   ├── HEAT EXCHANGER
+│   │   └── STRAINER
+│   ├── LEVEL GAUGE
+│   ├── LEVEL SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── MOTOR1
+│   ├── MOTOR2
+│   ├── OIL TANK
+│   │   ├── BACK FILTER
+│   │   ├── HEATER
+│   │   ├── OIL
+│   │   └── OIL HEATER
+│   ├── PH FAN LUBE OIL PUMP 1
+│   ├── PH FAN LUBE OIL PUMP 2
+│   ├── PIPPING
+│   ├── PRESSURE CONTROL VALVE
+│   ├── PRESSURE GAUGE
+│   ├── PUMP 1
+│   ├── PUMP 2
+│   ├── RELIEF VALVE
+│   ├── T/B BOX
+│   └── Y-STRAINER
+├── OTHER
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── Foundation
+│   ├── LADDER
+│   └── Stairs
+└── ROTARY UNIT
+    ├── BEARING HOUSING
+    │   ├── AIR BREATHER
+    │   ├── BEARING HOUSING FIXED SIDE
+    │   ├── BEARING HOUSING FREE SIDE
+    │   ├── COOLING SYSTEM
+    │   │   ├── FLOW METER
+    │   │   ├── SIGHT GLASSE 1
+    │   │   ├── SIGHT GLASSE 2
+    │   │   ├── VALVE 2
+    │   │   └── VALVE1
+    │   ├── FAN VIBRATION
+    │   ├── FAN VIBRATION
+    │   ├── LABYRINTH
+    │   ├── MONITOR PANEL
+    │   ├── MONITOR TEMPERATURE
+    │   ├── MONITOR TEMPERATURE
+    │   ├── SLEEVE BEARING ANTIMOTOR SIDE
+    │   └── SLEEVE BEARING MOTOR SIDE
+    ├── COOLING WHEEL
+    ├── IMPELLER
+    │   ├── BOSS
+    │   ├── SHAFT NUT
+    │   └── SHAFT WASHER
+    └── SHAFT

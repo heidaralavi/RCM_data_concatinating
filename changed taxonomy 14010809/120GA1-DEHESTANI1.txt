@@ -1,0 +1,22 @@
+120GA1-DEHESTANI1.xlsx
+├── ACCESSORY
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+└── PLATFORM
+    ├──  SCREW
+    ├──  SCREW
+    ├──  SCREW
+    ├── DEFLECTOR PLATE
+    ├── ELECTRO MOTOR
+    ├── JUNCTION BOX
+    ├── LIMIT SWITCH
+    ├── LIMIT SWITCH
+    ├── LOCAL CONTROL BOX
+    ├── NUT
+    ├── NUT
+    ├── NUT
+    ├── SPRING WASHER
+    ├── SPRING WASHER
+    ├── SPRING WASHER
+    └── flang Bearing

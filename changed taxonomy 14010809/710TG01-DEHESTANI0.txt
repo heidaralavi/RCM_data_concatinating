@@ -1,0 +1,472 @@
+710TG01-DEHESTANI0.xlsx
+├── 710TG1.ME06.FEEDER
+├── ACCESSORIES
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── Auxiliary Stack
+│   ├── 710TG1.ME05.FEEDER
+│   ├── Auxiliary Stack Other
+│   ├── Auxiliary Stack Shell
+│   ├── Chain
+│   ├── Counter Weight
+│   ├── Dirve Unit
+│   ├── LIMIT SWITCH CLOSE
+│   ├── LIMIT SWITCH OPEN
+│   ├── LOCAL CONTROL BOX
+│   ├── STACK CAP POSITION
+│   ├── Stack Cap
+│   │   └── Damper Edge Protector
+│   ├── Stack Deck
+│   ├── TRAVELLING GRATE STACK CAP
+│   └── Upper Bearing
+├── Discharge End
+│   ├── Access Door
+│   ├── Dead Plate Discharge End
+│   │   ├── Cam(LH)
+│   │   ├── Cam(RH)
+│   │   ├── Dead Plate ( Discharge End )
+│   │   ├── Dead Plate ( Discharge End )
+│   │   ├── Dead Plate ( Discharge End )
+│   │   ├── Dead Plate ( Discharge End )
+│   │   ├── Dead Plate ( Discharge End )
+│   │   ├── Pin:Din 7-10H8-32-ST
+│   │   ├── Support(Item13)
+│   │   ├── Support(Item14)
+│   │   ├── Wedge(Item17)
+│   │   └── Wedge(Item18)
+│   ├── Discharge Chute
+│   │   ├── Discharg Chute Tip Casting
+│   │   ├── Discharg Chute Tip Casting (L.H.)
+│   │   ├── Discharg Chute Tip Casting (R.H.)
+│   │   ├── Discharge Chute (Center)
+│   │   ├── Discharge Chute (Side L.H)
+│   │   ├── Discharge Chute (Side R.H)
+│   │   ├── Pressure Plate (DISCHAGE END L.H.)
+│   │   ├── Pressure Plate (DISCHAGE END R.H.)
+│   │   ├── Pressure Plate (DISCHAGE SIDE L.H.)
+│   │   ├── Pressure Plate (DISCHAGE SIDE R.H.)
+│   │   ├── Side Plate Stop (Discharge End L.H.)
+│   │   ├── Side Plate Stop (Discharge End L.H.)
+│   │   ├── Side Plate Stop (Discharge End R.H.)
+│   │   ├── Side Plate Stop (Discharge End R.H.)
+│   │   ├── Upper Seal Plate (Discharge End R.H.)
+│   │   ├── Upper Seal Plate(Discharge End  L.H)
+│   │   ├── Upper Seal Plate(Discharge End  R.H)
+│   │   └── Upper Seal Plate(discharge end  L.H)
+│   ├── Head Shaft
+│   │   ├── End Plate
+│   │   ├── Key
+│   │   ├── Key
+│   │   ├── Main Bearing Housing (Head Shaft)
+│   │   ├── Reamer Bolt
+│   │   ├── Reamer Bolt
+│   │   ├── SHAFT
+│   │   ├── Seal Plate
+│   │   ├── Spherical Roller Bearing(Head Shaft)
+│   │   ├── Sprocket (Side)
+│   │   └── Sprocket (center)
+│   ├── Return roller Shaft
+│   │   └── Return Roller Shaft (DISCHARGE END)
+│   ├── Stripper
+│   │   ├── Bearing
+│   │   ├── Let Down Chine  Strand 20 link
+│   │   ├── Pin 25*135
+│   │   ├── Shaft
+│   │   ├── Side Stripper Casting (L.H.)
+│   │   ├── Side Stripper Casting (R.H.)
+│   │   ├── Square head bolt & nut
+│   │   ├── Squre Head Bolt With Nut & Washer
+│   │   ├── Stopper M24 (WITH NUT)
+│   │   ├── Stripper Casting (CENTER)
+│   │   ├── Stripper Casting (L.H.)
+│   │   ├── Stripper Casting (R.H.)
+│   │   ├── Stripper Guide Casting (L.H.)
+│   │   ├── Stripper Guide Casting (R.H.)
+│   │   └── Stripper Pull Down Rod
+│   ├── WIND BOX 14
+│   │   ├── 710TG1.ME14.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX 14
+│   └── WIND BOX 15
+│       ├── 710TG1.ME15.FEEDER
+│       ├── LIMIT SWITCH
+│       ├── LOCAL CONTROL BOX
+│       └── WIND BOX 15
+├── Drive Unit 01
+│   ├── 710TG01.HE01.FEEDER
+│   ├── 710TG01.HE02.FEEDER
+│   ├── 710TG1.ME01.FEEDER
+│   ├── Chian Cover
+│   ├── Electro-Motor
+│   ├── Gear Reducer  Main Gear Reducer (TYPE B) 
+│   ├── HEATER MOTOR 1
+│   ├── LCB
+│   ├── LOCAL CONTROL BOX
+│   ├── Pulley&Belt cover
+│   │   ├── V-Pulley (For Input Shaft)
+│   │   └── V-Pulley (For Motor Shaft)
+│   ├── Roller Chain
+│   ├── Sprocket Larger
+│   ├── Sprocket Smoller
+│   └── TRAVELING GRATE 1
+├── Drive Unit 02
+│   ├── 710TG1.ME02.FEEDER
+│   ├── Chian Cover
+│   ├── Electro-Motor
+│   ├── Gear Reducer
+│   ├── Gear Reducer Main Gear Reducer (TYPE A)
+│   ├── HEATER MOTOR 2
+│   ├── LCB
+│   ├── LOCAL CONTROL BOX
+│   ├── Pulley&Belt cover
+│   ├── Roller Chain
+│   ├── Roller Chain
+│   ├── Sprocket Larger
+│   ├── Sprocket Smoller
+│   └── TRAVELING GRATE 2
+├── Feed End
+│   ├── Chute
+│   │   ├── Chute (NO.3) I
+│   │   └── Chute (NO.3) II
+│   ├── Dead Plate Feed End
+│   │   ├── Dead Plate1 (Feed End )
+│   │   ├── Dead Plate2 (Feed End )
+│   │   ├── Dead Plate3 (Feed End )
+│   │   ├── Dead Plate4 (Feed End )
+│   │   └── Dead Plate5 (Feed End )
+│   ├── Structure
+│   ├── Tail shaft
+│   │   ├── Bolt
+│   │   ├── Bolt
+│   │   ├── Bolt (with- Nut- Split-Pin and Washer)
+│   │   ├── Cylinder(LH)
+│   │   ├── Cylinder(RH)
+│   │   ├── End Plate
+│   │   ├── Guide Rooler 
+│   │   ├── Hub (Sprocket)
+│   │   ├── Hub(Idler)
+│   │   ├── Idler Wheel (Center)
+│   │   ├── Idler Wheel (side)
+│   │   ├── Main Bearing Housing (Tail Shaft)
+│   │   ├── SHAFT
+│   │   ├── Sleeve 
+│   │   └── Spherical Roller Bearing(Tail Shaft)
+│   └── Upper housing
+│       ├── Peressure plate (Feed End LH)
+│       ├── Peressure plate (Feed End RH)
+│       ├── Peressure plate (Feed SIDE LH)
+│       ├── Peressure plate (Feed SIDE RH)
+│       ├── SIDE Plate Stop (Feed End LH)
+│       ├── SIDE Plate Stop (Feed End RH)
+│       ├── SIDE Plate Stop (Feed SIDE LH)
+│       ├── SIDE Plate Stop (Feed SIDERH)
+│       ├── Seal Bar (Feed End)
+│       ├── Sleeve 
+│       ├── Upper Seal Plate(Feed End LH)
+│       ├── Upper Seal Plate(Feed End LH)
+│       ├── side plate stop(feed side 1)
+│       └── side plate stop(feed side 2)
+├── GRATE PLATE CLEANER
+├── Grate Conveyor Chain Assembly
+│   ├── 710TG1.ME18.FEEDER
+│   ├── COOLING FAN FOR LT
+│   ├── Chain Casting
+│   │   ├── Bushing
+│   │   ├── Chain Casting
+│   │   └── Washer
+│   ├── GRATE LAYER LEVEL
+│   ├── GRATE LAYER LEVEL
+│   ├── GRATE LAYER LEVEL
+│   ├── GRATE LAYER LEVEL
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE CLEAN LIMIT SWITCH
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── GRATE PLATE TEMPERATURE
+│   ├── Grate plate
+│   │   ├── Grate Plate
+│   │   └── Grate Plate Clip
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── Side Plate
+│   │   ├── Side Plate (Bottem L.H.)
+│   │   ├── Side Plate (Bottem R.H.)
+│   │   ├── Side Plate (TOP L.H.)
+│   │   ├── Side Plate (TOP R.H.)
+│   │   ├── Tongued Washer
+│   │   ├── Tongued Washer
+│   │   ├── Wearing Plate (L.H.)
+│   │   └── Wearing Plate (R.H.)
+│   └── Thru Rod
+│       ├── Pipe Spacer1
+│       ├── Pipe Spacer2
+│       ├── Ring
+│       ├── Thru Rod
+│       ├── Thru Rod Clip(New Design)
+│       └── Thru Rod Washer
+├── LOCAL CONTROL BOX
+├── Preheating Zone(ZONE 4)
+│   ├── CONTINIUOUS GAS ANALYZER 
+│   ├── KILN OFF GAS TEMPERATURE
+│   ├── KILN OFF GAS TEMPERATURE
+│   ├── PH OFF GAS PRESSURE
+│   ├── PH OFF GAS PRESSURE
+│   ├── PH PRESSURE
+│   ├── PH PRESSURE
+│   ├── PH PRESSURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── PH WIND BOX TEMPERATURE
+│   ├── Return Roller Shaft
+│   ├── Support Roller Shaft
+│   ├── Upper housing
+│   │   ├── Adaptor Sleeve
+│   │   ├── Adaptor Sleeve
+│   │   ├── Bearing
+│   │   ├── Bearing housing
+│   │   ├── Bearing housing
+│   │   ├── Chute (NO.1) II
+│   │   ├── Chute (NO.1) III
+│   │   ├── Chute (NO.1)I
+│   │   ├── Chute (NO.2) IV
+│   │   ├── Double Flap Damper Assembly(LH)
+│   │   ├── Double Flap Damper Assembly(RH)
+│   │   ├── Guide Roller(T.P.H & P.H )
+│   │   ├── Heat Protection Cover Large
+│   │   ├── Heat Protection Cover Small
+│   │   ├── Labyrinth Cap
+│   │   ├── Labyrinth Cap
+│   │   ├── Pressure Plate (GENERAL L.H.)
+│   │   ├── Pressure Plate (GENERAL R.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY L.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY R.H.)
+│   │   ├── Return Roller (BOTH SIDE)
+│   │   ├── Return Roller (CENTER)
+│   │   ├── Seal Bar (GENERAL)
+│   │   ├── Seal Casting (P.H. No.1 L.H.)
+│   │   ├── Seal Casting (P.H. No.1 R.H.)
+│   │   ├── Seal Casting (P.H. No.2 L.H.)
+│   │   ├── Seal Casting (P.H. No.2 R.H.)
+│   │   ├── Seal Casting (P.H. No.3 L.H.)
+│   │   ├── Seal Casting (P.H. No.3 R.H.)
+│   │   ├── Side Plate Stop (T.P.H. & P.H.)
+│   │   ├── Spherical Roller Bearing
+│   │   ├── Support Plate1 (Key for Support Roller Shaft)
+│   │   ├── Support Roller (T.P.H & P.H.)
+│   │   └── Support Roller Shaft (T.P.H & P.H.)
+│   ├── WIND BOX 11
+│   │   ├── 710TG1.ME11.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX  11
+│   ├── WIND BOX 12
+│   │   ├── 710TG1.ME12.FEEDER
+│   │   ├── 710TG1.ME16.FEEDER
+│   │   ├── COOLING FAN FOR MOTOR
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX 12
+│   ├── WIND BOX 13
+│   │   ├── 710TG1.ME13.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX 13
+│   ├── WIND BOX TEMPERATURE
+│   ├── WIND BOX TEMPERATURE
+│   └── Wind Box Assembly
+├── Tempered Preheating Zone(ZONE 3)
+│   ├── Return Roller Shaft
+│   ├── Support Roller Shaft
+│   │   ├── Adaptor Sleeve
+│   │   ├── Adaptor Sleeve
+│   │   ├── Bearing
+│   │   ├── Bearing housing
+│   │   ├── Bearing housing
+│   │   ├── Chute (NO.1) II
+│   │   ├── Chute (NO.1) III
+│   │   ├── Chute (NO.1)I
+│   │   ├── Chute (NO.2) IV
+│   │   ├── Double Flap Damper Assembly(LH)
+│   │   ├── Double Flap Damper Assembly(RH)
+│   │   ├── Guide Roller(T.P.H & P.H )
+│   │   ├── Labyrinth Cap
+│   │   ├── Labyrinth Cap
+│   │   ├── Pressure Plate (GENERAL L.H.)
+│   │   ├── Pressure Plate (GENERAL R.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY L.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY R.H.)
+│   │   ├── Return Roller (BOTH SIDE)
+│   │   ├── Return Roller (CENTER)
+│   │   ├── Seal Bar (GENERAL)
+│   │   ├── Seal Bar Support
+│   │   ├── Seal Casting (P.H. No.1 L.H.)
+│   │   ├── Seal Casting (P.H. No.1 R.H.)
+│   │   ├── Seal Casting (P.H. No.2 L.H.)
+│   │   ├── Seal Casting (P.H. No.2 R.H.)
+│   │   ├── Seal Casting (P.H. No.3 L.H.)
+│   │   ├── Seal Casting (P.H. No.3 R.H.)
+│   │   ├── Spherical Roller Bearing
+│   │   ├── Support Plate1 (Key for Support Roller Shaft)
+│   │   ├── Support Roller (T.P.H & P.H.)
+│   │   └── Support Roller Shaft (T.P.H & P.H.)
+│   ├── TPH OFF GAS PRESSURE
+│   ├── TPH OFF GAS PRESSURE
+│   ├── TPH OFF GAS TEMPERATURE
+│   ├── TPH OFF GAS TEMPERATURE
+│   ├── TPH OFF GAS TEMPERATURE
+│   ├── TPH OFF GAS TEMPERATURE
+│   ├── TPH PRESSURE
+│   ├── Upper housing
+│   │   └── Side Plate Stop (T.P.H. & P.H.)
+│   ├── WIND BOX 10
+│   │   ├── 710TG1.ME10.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX  10
+│   ├── WIND BOX 7
+│   │   ├── 710TG1.ME07.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX  7
+│   ├── WIND BOX 8
+│   │   ├── 710TG1.ME08.FEEDER
+│   │   ├── 710TG1.ME17.FEEDER
+│   │   ├── COOLING FAN FOR MOTOR
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX  8
+│   ├── WIND BOX 9
+│   │   ├── 710TG1.ME09.FEEDER
+│   │   ├── LIMIT SWITCH
+│   │   ├── LOCAL CONTROL BOX
+│   │   └── WIND BOX 9
+│   └── Wind Box Assembly
+├── Uint grease for bearing
+│   ├── 710TG1.ME03.FEEDER
+│   ├── LUBRICATION SYSTEM(GREASE) TRAVELLING GRATE
+│   └── PANEL grease for bearing
+├── Uint lubrication for side plate
+│   ├── 710TG1.ME04.FEEDER
+│   ├── LUBRICATION SYSTEM(OIL) TRAVELLING GRATE
+│   └── PANEL lubrication for side plate
+├── Zone 1 DDD
+│   ├── DDD INLET TEMPERATURE
+│   ├── DDD INLET TEMPERATURE
+│   ├── DDD INLET TEMPERATURE
+│   ├── DDD INLET TEMPERATURE
+│   ├── DDD OFF GAS PRESSURE
+│   ├── DDD OFF GAS TEMPERATURE
+│   ├── DDD OFF GAS TEMPERATURE
+│   ├── DDD PRESSURE
+│   ├── OUT LET PRESSURE
+│   ├── Return Roller Shaft
+│   │   ├── Return Roller (BOTH SIDE)
+│   │   └── Return Roller (CENTER)
+│   ├── Support Roller Shaft
+│   │   ├── Adaptor Sleeve
+│   │   ├── Bearing housing
+│   │   ├── Guide Roller (D.D.D)
+│   │   ├── Labyrinth Cap
+│   │   ├── Return Roller Shaft (No.1)
+│   │   ├── Return Roller Shaft (No.2)
+│   │   ├── Spherical Roller Bearing
+│   │   ├── Support Roller (D.D.D.)
+│   │   └── Support Roller Shaft (D.D.D.)
+│   ├── Upper housing
+│   │   ├── Pressure Plate (GENERAL L.H.)
+│   │   ├── Pressure Plate (GENERAL R.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY L.H.)
+│   │   ├── Pressure Plate (OIL SUPPLY R.H.)
+│   │   └── Side Plate Stop (D.D.D)
+│   └── Wind Box Assembly
+│       ├── Chute (NO.1) II
+│       ├── Chute (NO.1) III
+│       ├── Chute (NO.1)I
+│       ├── Chute (NO.2) IV
+│       ├── Double Flap Damper Assembly(LH)
+│       └── Double Flap Damper Assembly(RH)
+└── Zone 2 DDD
+    ├── DDD INLET TEMPERATURE
+    ├── DDD INLET TEMPERATURE
+    ├── DDD INLET TEMPERATURE
+    ├── DDD INLET TEMPERATURE
+    ├── DDD OFF GAS PRESSURE
+    ├── DDD OFF GAS TEMPERATURE
+    ├── DDD OFF GAS TEMPERATURE
+    ├── DDD PRESSURE
+    ├── Return Roller Shaft
+    ├── Support Roller Shaft
+    ├── Upper housing
+    │   ├── Seal Bar (GENERAL)
+    │   ├── Seal Casting (P.H. No.1 L.H.)
+    │   ├── Seal Casting (P.H. No.1 R.H.)
+    │   ├── Seal Casting (P.H. No.2 L.H.)
+    │   └── Seal Casting (P.H. No.2 R.H.)
+    └── Wind Box Assembly
+        ├── Adaptor Sleeve
+        ├── Bearing housing
+        ├── Chute (NO.1) II
+        ├── Chute (NO.1) III
+        ├── Chute (NO.1)I
+        ├── Chute (NO.2) IV
+        ├── Cleaner Roller 1
+        ├── Cleaner Roller 2
+        ├── Double Flap Damper Assembly(LH)
+        ├── Double Flap Damper Assembly(RH)
+        ├── Guid Roller
+        ├── Guide Roller (D.D.D)
+        ├── Guide Roller Support
+        ├── Labyrinth Cap
+        ├── Pressure Plate (GENERAL L.H.)
+        ├── Pressure Plate (GENERAL R.H.)
+        ├── Pressure Plate (OIL SUPPLY L.H.)
+        ├── Pressure Plate (OIL SUPPLY R.H.)
+        ├── Return Roller (BOTH SIDE)
+        ├── Return Roller (CENTER)
+        ├── Side Plate Stop (D.D.D)
+        ├── Spherical Roller Bearing
+        ├── Support Roller (D.D.D.)
+        └── Support Roller Shaft (D.D.D.)

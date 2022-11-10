@@ -1,0 +1,186 @@
+120BC4-DEHESTANI1.xlsx
+├── ACCESSORIES
+│   ├── CABLE
+│   ├── EARTHING
+│   └── LADDER
+├── DISCHARGE AREA ASSEMBLY
+│   ├── 120BC4.ME01
+│   ├── 120BC4.ME02
+│   ├── DISCHARGE CHUTE
+│   │   ├── Closing Rubber
+│   │   ├── Front Plate
+│   │   ├── L-Angle
+│   │   ├── Nut
+│   │   ├── Plate 01
+│   │   ├── Plate 02
+│   │   ├── Rubber Curtain
+│   │   ├── Screw
+│   │   ├── Side Plate (LH)
+│   │   ├── Side Plate (RH)
+│   │   ├── Spring Washer
+│   │   ├── Stiffener 01
+│   │   ├── Stiffener 02
+│   │   ├── Stiffener 03
+│   │   ├── Stiffener 04
+│   │   ├── Stiffener 05
+│   │   ├── Support Plate 01
+│   │   ├── Support Plate 02
+│   │   └── Upper Plate
+│   ├── DRIVE HEAD ASSEMBLY
+│   │   ├── BOLT
+│   │   ├── DRIVE HEAD FRAME
+│   │   ├── DRIVE PULLEY
+│   │   │   ├── ADAPTER 
+│   │   │   ├── BEARING 
+│   │   │   ├── DISC 
+│   │   │   ├── DRIVE PULLEY SHAFT
+│   │   │   ├── DRIVE PULLEY SHELL 
+│   │   │   ├── GUIDE RING 
+│   │   │   ├── SUPPORT 
+│   │   │   └── SUPPORT 
+│   │   ├── FLAT WASHER 
+│   │   ├── GEAR UNIT
+│   │   │   ├── Bushing
+│   │   │   └── Hollow Shaft - KAS108/D70
+│   │   ├── MOTOR 11 Kw
+│   │   ├── NUT 
+│   │   ├── SCRAPER
+│   │   ├── SCREW 
+│   │   ├── SPLIT 
+│   │   └── SPRING WASHER 
+│   ├── ELECTRO MOTOR
+│   ├── ELECTRO MOTOR THRUSTER BRAKE
+│   ├── NAME PLATE
+│   ├── NUT
+│   ├── SCREW
+│   └── SPRING WASHER
+├── INTERMEDIATE AREA ASSEMBLY
+│   ├── 'V' CLEANING ASSEMBLY
+│   ├── DECK PLATE ASSEMBLY
+│   ├── DRIVEN WHEEL ASSEMBLY
+│   │   ├── ADAPTER 
+│   │   ├── BEARING 
+│   │   ├── BRIGHT KEY
+│   │   ├── DRIVEN SHAFT
+│   │   ├── GUIDE RING 
+│   │   ├── SCREW
+│   │   ├── SPRING WASHER 
+│   │   ├── SUPPORT 
+│   │   └── WHEEL D.400
+│   ├── DRIVING WHEEL ASSEMBLY
+│   │   ├── ADAPTER
+│   │   ├── BEARING 
+│   │   ├── BRIGHT KEY 
+│   │   ├── DRIVE SHAFT
+│   │   ├── FLAT WASHER 
+│   │   ├── GUIDE RING 
+│   │   ├── SCREW 
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   ├── SUPPORT
+│   │   └── WHEEL D.400
+│   ├── FESTOON
+│   ├── IDLER SUPPORT ASSEMBLY
+│   │   ├── FLAT WASHER 
+│   │   ├── Idler support frame a = 20°, Brg. - 6204
+│   │   ├── Idler support frame a = 30°, Brg. - 6205
+│   │   ├── Idler support frame a = 35°, Brg. - 6204
+│   │   ├── Impact Idler support a = 20°, Brg. - 6205
+│   │   ├── Impact idler Support, a = 35°. Brg. - 6205
+│   │   ├── Impact idler, bearing 6205 133x465
+│   │   ├── NUT 
+│   │   ├── Return Self Ailing. Idler supp. a = 0°, Brg.-6204
+│   │   ├── Return idler, bearing 6204,133x1400
+│   │   ├── SCREW 
+│   │   ├── SPRING WASHER 
+│   │   └── Standard carrying idler ; bearing 6204,133x465
+│   ├── INTERMEDIATE FRAMEWORK
+│   ├── NUT 
+│   ├── SCREW 
+│   ├── SKIRTBOARD ASSEMBLY
+│   │   ├── CLOSING PLATE
+│   │   ├── FIXATION PIECE
+│   │   ├── L BEAM
+│   │   ├── LATERAL SKIRTBOARD
+│   │   ├── NUT 
+│   │   ├── NUT 
+│   │   ├── RUBBER 
+│   │   ├── SCREW
+│   │   ├── SKIRTBOARD SUPPORT
+│   │   ├── SPRING WASHER
+│   │   ├── Skirtboard Size 2998
+│   │   ├── Skirtboard Size 3998
+│   │   └── TAPER WASHER
+│   ├── SPRING WASHER 
+│   ├── TAPER WASHER
+│   └── U—BEAM
+├── INTERMEDIATE AREA ASSEMBLY 
+├── SAFETY ELEMENTS ASSEMBLY
+│   ├── END SIDE SUPPORT -PULL CHORD SWITCH
+│   ├── END TRAVEL LIMIT SWITCH
+│   ├── FLAT WASHER
+│   ├── LIMIT SWITCH SUPPORT
+│   ├── NUT
+│   ├── OVER TRAVEL LIMIT SWITCH
+│   ├── PULL CHORD SWITCH
+│   ├── PULL CHORD SWITCH SUPPORT
+│   ├── SCREW
+│   ├── SIDE TRAVEL LIMIT SWITCH ASSY. (INF.)
+│   ├── SIDE TRAVEL LIMIT SWITCH ASSY. (SUP.)
+│   └── SPRING WASHER 
+├── TAIL END AREA ASSEMBLY
+│   ├── BOLT
+│   ├── DISCHARGE CHUTE
+│   │   ├── Front Plate
+│   │   ├── Rear Plate
+│   │   ├── Side Plate
+│   │   ├── Stiffener
+│   │   └── Support Flange
+│   ├── DRIFT SWITCH
+│   ├── DRIFT SWITCH
+│   ├── FLAT WASHER
+│   ├── HORN
+│   ├── HORN
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── JUNCTION BOX
+│   ├── LIMIT SWITCH
+│   ├── LIMIT SWITCH
+│   ├── LIMIT SWITCH
+│   ├── LIMIT SWITCH
+│   ├── LIMIT SWITCH
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── NUT 
+│   ├── ROPE SWITCH
+│   ├── ROPE SWITCH
+│   ├── SCREW 
+│   ├── SPEED CONTROL
+│   ├── SPEED CONTROL SUPPORT
+│   ├── SPEED SWITCH
+│   ├── SPLIT PIN
+│   ├── SPRING WASHER 
+│   ├── TAIL PULLEY 
+│   │   ├── BEARING 
+│   │   ├── CALIBRATEC ROD
+│   │   ├── DISC
+│   │   ├── OILER HIDR.
+│   │   ├── PULLEY SHAFT
+│   │   └── PULLEY SHELL
+│   ├── TAIL—END FRAME
+│   ├── TAKE—UP SCREW
+│   └── WEDGE WASHER 
+└── TRAVELLING RAILS & HANDRAILS
+    ├── BOLT
+    ├── BUFFER
+    │   ├── NUT
+    │   ├── SCREW
+    │   └── SPRING WASHER
+    ├── CLAMP
+    ├── HANDRAILS
+    │   ├── NUT
+    │   ├── SCREW
+    │   └── SPRING WASHER
+    ├── NUT
+    └── RAIL

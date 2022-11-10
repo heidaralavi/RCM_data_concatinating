@@ -1,0 +1,88 @@
+710FN6-DEHESTANI1.xlsx
+├──  DAMPER UNIT
+│   ├── ACTUATOR
+│   │   ├── 710FN06-ACTUATOR FEEDER
+│   │   ├── BEARING
+│   │   ├── CONTROL PANEL
+│   │   ├── LEVER 
+│   │   └── MAIN SHAFT
+│   ├── ACTUATOR
+│   └── DAMPER
+│       ├── BEARING
+│       ├── CASING
+│       ├── CONNECTION BAR
+│       ├── CONNECTION LEVER
+│       ├── SHAFT
+│       └── VANE
+├── CASING
+│   ├── BODY
+│   ├── CASING ROD
+│   ├── EXPANTION JOINT
+│   │   ├── CASING
+│   │   ├── DUST PROOF MATRIAL
+│   │   ├── GLASS CLOTH
+│   │   ├── GLASS CLOTH GASKET
+│   │   └── SLEEVE   
+│   ├── INLET CONE
+│   │   ├── HEX CAP SCREW M16*45
+│   │   ├── HEXNUT M16
+│   │   └── SPRING WASHER A 17
+│   ├── INLET CONE SUPPORT(FIX SIDE)
+│   ├── INLET CONE SUPPORT(FREE SIDE)
+│   ├── INSULATION
+│   │   ├── BLANKET
+│   │   └── COVER
+│   ├── LABYRINTH SEAL
+│   │   ├── LABYRINTH GASKET
+│   │   └── PLATE
+│   ├── LINER ASSEMBLY
+│   │   ├── LINER NO1
+│   │   ├── LINER NO2
+│   │   ├── LINER NO3
+│   │   ├── LINER NO4
+│   │   └── LINER NO5
+│   └── MAN HOLE
+├── DRIVE UNIT
+│   ├── 710FN06.ME01.FEEDER
+│   ├── FLEXIBLE DISK COUPLING
+│   │   ├── COUPLING COVER
+│   │   ├── FAN SIDE HUB 
+│   │   ├── MOTOR SIDE HUB
+│   │   └── TRANSMISION UNIT(SPACER)
+│   └── MAIN MOTOR
+├── LIQUID STARTER
+│   └── 0
+│       ├── 710FN06.1R01.FEEDER
+│       ├── 710FN06.1R01.M10.FEEDER
+│       └── ELECTRO MOTOR 
+├── OTHER
+│   ├── CABLE
+│   ├── EARTHING
+│   ├── Foundation
+│   ├── LADDER
+│   └── Stairs
+└── ROTARY UNIT
+    ├── BEARING HOUSING
+    │   ├── AIR BREATHER
+    │   ├── BEARING HOUSING FIXED SIDE
+    │   ├── BEARING HOUSING FREE SIDE
+    │   ├── COOLING SYSTEM
+    │   │   ├── FLOW METER
+    │   │   ├── SIGHT GLASSE 1
+    │   │   ├── SIGHT GLASSE 2
+    │   │   ├── VALVE 2
+    │   │   └── VALVE1
+    │   ├── FAN VIBRATION
+    │   ├── FAN VIBRATION
+    │   ├── LABYRINTH
+    │   ├── MONITOR PANEL
+    │   ├── MONITOR TEMPERATURE
+    │   ├── MONITOR TEMPERATURE
+    │   ├── SLEEVE BEARING ANTIMOTOR SIDE
+    │   └── SLEEVE BEARING MOTOR SIDE
+    ├── COOLING WHEEL
+    ├── IMPELLER
+    │   ├── BOSS
+    │   ├── SHAFT NUT
+    │   └── SHAFT WASHER
+    └── SHAFT

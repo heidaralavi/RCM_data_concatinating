@@ -1,0 +1,1021 @@
+730AN1-DEHESTANI.xlsx
+├── ACCESSORIES
+├── CONTROL AND MONITORING
+│   ├── AN BUNCH GRIZZlY CHUTE DOOR
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── ANNULAR COOLER LIMIT SWITCH
+│   ├── CAMERA OF COOLING
+│   ├── CONTROL PANEL
+│   ├── Connection Box 
+│   ├── DISCHARGE HOPPER LEVEL
+│   ├── PRIMACY PRESSURE
+│   ├── SECONDARY PRESSURE
+│   ├── SPYROMETER
+│   ├── TERTIARY PRESSURE
+│   ├── WIND BOX PRESSURE
+│   ├── WIND BOX PRESSURE
+│   └── WIND BOX PRESSURE
+├── DISCHARGE ZONE
+│   ├── DUMPING ZONE ASSEMBLY
+│   │   ├── BEARING
+│   │   ├── BRACKET (INNER)
+│   │   ├── BRACKET (OUTER)
+│   │   ├── CAM PLATE
+│   │   ├── DISCHARGE END HOPPER
+│   │   ├── DISCHARGE HOOD
+│   │   ├── DOOR
+│   │   ├── DOOR (INNER)
+│   │   ├── DOOR (OUTER)
+│   │   ├── DOOR SUPPORT
+│   │   ├── FRAME FOR SELF LINING
+│   │   ├── HAND RAIL
+│   │   ├── LADDER
+│   │   ├── LEAKAGE INDICATOR
+│   │   ├── LIMIT SWITCH SUPPORT
+│   │   ├── LIMIT SWITCH SUPPORT
+│   │   ├── LIMIT SWITCH SUPPORT
+│   │   ├── LIMIT SWITCH SUPPORT
+│   │   ├── LUMP INDICATOR
+│   │   ├── MANHOLE COVER
+│   │   ├── NAME PLATE
+│   │   ├── STOPPER
+│   │   ├── WALK WAY (NO.1)
+│   │   ├── WALK WAY (NO.2)
+│   │   └── WALK WAY (NO.3)
+│   ├── PALLET TRIPPER ASSEMBLY
+│   │   ├── BRACKET (NO.1)
+│   │   ├── BRACKET (NO.2)
+│   │   ├── BUSHING
+│   │   ├── GUIDE PLATE (NO.1)
+│   │   ├── GUIDE PLATE (NO.2)
+│   │   ├── LIMIT SWITCH
+│   │   ├── LIMIT SWITCH
+│   │   ├── PALLET TRIPPER
+│   │   ├── SHEAR PIN
+│   │   ├── SPACER PLATE
+│   │   ├── STIFFENER (NO.1)
+│   │   ├── STIFFENER (NO.2)
+│   │   ├── TRIPPER SUPPORT
+│   │   └── TRIPPER SUPPORT BEAM
+│   └── PICK UP ROLLER
+│       ├── PICK UP ROLLER ASSEMBLY
+│       │   ├── BEARING END COVER
+│       │   ├── BEARING END COVER
+│       │   ├── BEARING SEAL PLATE
+│       │   ├── DUST COVER
+│       │   ├── LABYRINTH SEAL PLATE
+│       │   ├── PICK UP ROLLER
+│       │   ├── PILLOW BLOCK
+│       │   ├── ROLLER BEARING
+│       │   └── ROLLER SHAFT
+│       └── SUPPORT BEAM FOR PICK UP ROLLER
+│           ├── BRACKET (NO.3)
+│           ├── BRACKET (NO.4)
+│           ├── BRACKET (NO.5)
+│           ├── SPACER
+│           ├── SPACER
+│           ├── SUPPORT
+│           ├── SUPPORT BEAM (NO.1)
+│           ├── SUPPORT BEAM (NO.2)
+│           └── SUPPORT BEAM (NO.3)
+├── DRIVE UNIT
+│   ├── 730AN1-ME01-FEEDER
+│   ├── 730AN1-ME02-FEEDER
+│   ├── 730AN1-ME03-FEEDER
+│   ├── 730AN1-ME04-FEEDER
+│   ├── 730AN1-MT01-FEEDER
+│   ├── 730AN1-MT02-FEEDER
+│   ├── AN EMERGENCY DRIVE 1
+│   ├── AN EMERGENCY DRIVE 2
+│   ├── AN MAGNETIC CLUTCH 1
+│   ├── AN MAGNETIC CLUTCH 2
+│   ├── ANNULAR COOLER 1
+│   ├── ANNULAR COOLER 2
+│   ├── AUXILIARY WORM GEAR REDUCER
+│   ├── DRIVE SHAFT
+│   ├── FRAME FOR DRIVE UNIT
+│   ├── GEAR ASSEMBLY
+│   │   ├── GEAR
+│   │   └── KEY
+│   ├── GEAR COUPLING
+│   │   ├── GEAR COUPLING  BETWEEN AUX. DRIVE AND AUX. WORM GEAR
+│   │   ├── GEAR COUPLING BETWEEN MAIN DRIVE AND MAIN GEAR
+│   │   ├── GEAR COUPLING BETWEEN MAIN GEAR AND MAIN WORM GEAR 
+│   │   ├── SAFETY GUARD (NO.1)
+│   │   └── SAFETY GUARD (NO.2)
+│   ├── GEAR COVER ASSEMBLY
+│   │   ├── DOOR
+│   │   ├── DUST SEAL
+│   │   ├── GEAR COVER
+│   │   ├── INSPECTION HOLE COVER
+│   │   ├── SUPPORT ANGLE FOR GEAR COVER
+│   │   └── SUPPORT ANGLE FOR GEAR COVER
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── LOCAL CONTROL BOX
+│   ├── MAGNETIC CLUTCH
+│   ├── MAGNETIC CLUTCH PANEL 1
+│   ├── MAGNETIC CLUTCH PANEL 2
+│   ├── MAIN GEAR REDUCER
+│   ├── MAIN WORM GEAR REDUCER
+│   ├── PINION
+│   │   ├── OIL PAN
+│   │   ├── PINION
+│   │   └── RETAINER FOR PINION
+│   ├── ROLLER BEARING (BOTTOM)
+│   │   ├── BEARING HOUSING (THRUST)
+│   │   ├── OIL SEAL
+│   │   ├── RETAINER FOR SEAL PLATE
+│   │   ├── ROLLER BEARING
+│   │   └── SEAL PLATE (NO.1)
+│   ├── ROLLER BEARING (TOP)
+│   │   ├── BEARING HOUSING (TOP)
+│   │   ├── END PLATE
+│   │   ├── OIL SEAL
+│   │   ├── RETAINER FOR OIL SEAL
+│   │   ├── ROLLER BEARING
+│   │   └── SEAL PLATE (NO.2)
+│   └── SPROCKET ASSEMBLY
+│       ├── PARALLEL KEY
+│       ├── SPROCKET
+│       └── SPROCKET COVER
+├── DUCTS
+│   └── PARALLEL FLOW DUCT
+│       ├── AIR COOLING DUCT
+│       ├── BRICK RETAINER
+│       ├── COIL SPRING
+│       ├── CONNECTING PIN
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.1)
+│       ├── DUCT (NO.2)
+│       ├── DUCT (NO.2)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.1)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.2)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.3)
+│       ├── DUCT SUPPORT (NO.4)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── DUCT SUPPORT (NO.5)
+│       ├── EXPANSION JOINT
+│       ├── EXPANSION JOINT
+│       ├── FLANGE
+│       ├── LOCKING HANDLE
+│       ├── MANHOLE COVER
+│       ├── STOPPER
+│       ├── THERMOMETER TAP
+│       └── THERMOMETER TAP
+├── FEED END HOPPER
+│   ├── BRICK RETAINER ARRANGEMENT
+│   │   ├── BOLT
+│   │   ├── BOLT
+│   │   ├── BOLT
+│   │   ├── BOLT
+│   │   ├── BOLT
+│   │   ├── BRACKET
+│   │   ├── BRACKET
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── BRICK RETAINER
+│   │   ├── COOLING PIPE
+│   │   ├── COVER
+│   │   ├── COVER
+│   │   ├── FLANGE (WITH BOLT NUT AND PACKING)
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── PLATE
+│   │   ├── REINFORCING PLATE
+│   │   ├── REINFORCING PLATE
+│   │   ├── REINFORCING PLATE
+│   │   ├── U-BOLT WITH NUT
+│   │   ├── WASHER
+│   │   ├── WASHER
+│   │   └── WASHER
+│   ├── FEED END HOPPER ASSEMBLY
+│   │   ├── BRICK RETAINER (INNER NO.1)
+│   │   ├── BRICK RETAINER (INNER NO.2)
+│   │   ├── BRICK RETAINER (INNER NO.3)
+│   │   ├── BRICK RETAINER (INNER NO.4)
+│   │   ├── BRICK RETAINER (OUTER NO.1)
+│   │   ├── BRICK RETAINER (OUTER NO.2)
+│   │   ├── BRICK RETAINER (OUTER NO.3)
+│   │   ├── DOOR
+│   │   ├── FEED END HOPPER (NO.1)
+│   │   ├── FEED END HOPPER (NO.2)
+│   │   ├── FRAME FOR INSPECTION HOLE
+│   │   ├── FRAME FOR MANHOLE
+│   │   ├── HOPPER SUPPORT (NO.1)
+│   │   ├── HOPPER SUPPORT (NO.10)
+│   │   ├── HOPPER SUPPORT (NO.11)
+│   │   ├── HOPPER SUPPORT (NO.12)
+│   │   ├── HOPPER SUPPORT (NO.2)
+│   │   ├── HOPPER SUPPORT (NO.3)
+│   │   ├── HOPPER SUPPORT (NO.4)
+│   │   ├── HOPPER SUPPORT (NO.5)
+│   │   ├── HOPPER SUPPORT (NO.6)
+│   │   ├── HOPPER SUPPORT (NO.7)
+│   │   ├── HOPPER SUPPORT (NO.8)
+│   │   ├── HOPPER SUPPORT (NO.9)
+│   │   ├── INSPECTION HOLE COVER (NO.1)
+│   │   ├── INSPECTION HOLE COVER (NO.2)
+│   │   ├── LINING PROTECTOR (NO.1)
+│   │   ├── LINING PROTECTOR (NO.2)
+│   │   ├── MANHOLE COVER
+│   │   ├── SEAL PLATE (NO.7)
+│   │   ├── SEAL PLATE (NO.8)
+│   │   ├── SET BOLT
+│   │   ├── SUPPORT BEAM (NO.2)
+│   │   ├── SUPPORT FOR ITV 3
+│   │   ├── SUPPORT FOR LEVEL METER
+│   │   └── SUPPORT FOR LEVEL METER
+│   ├── GRIZZLY ARRANGEMENT
+│   │   ├── BRACKET (NO.10)
+│   │   ├── BRACKET (NO.11)
+│   │   ├── BRACKET (NO.3)
+│   │   ├── BRACKET (NO.4)
+│   │   ├── BRACKET (NO.4)
+│   │   ├── BRACKET (NO.5)
+│   │   ├── BRACKET (NO.6)
+│   │   ├── BRACKET (NO.7)
+│   │   ├── BRACKET (NO.8)
+│   │   ├── BRACKET (NO.9)
+│   │   ├── BRACKET COVER (NO.1)
+│   │   ├── BRACKET COVER (NO.2)
+│   │   ├── BRACKET COVER (NO.3)
+│   │   ├── CASTABLE
+│   │   ├── EXHAUST DUCT (NO.1)
+│   │   ├── EXHAUST DUCT (NO.2)
+│   │   ├── EXHAUST DUCT (NO.3)
+│   │   ├── FRAME FOR SELF LINING
+│   │   ├── GRIZZLY BAR ASSEMBLY
+│   │   │   ├── BOLT
+│   │   │   ├── BRACKET (NO.1)
+│   │   │   ├── BRACKET (NO.1)
+│   │   │   ├── BRACKET (NO.2)
+│   │   │   ├── CAP CASTING (BOTH SIDE)
+│   │   │   ├── CAP CASTING (MIDDLE)
+│   │   │   ├── COOLING AIR DUCT
+│   │   │   ├── GRIZZLY BAR
+│   │   │   ├── GRIZZLY BAR
+│   │   │   ├── KEY PLATE (NO.1)
+│   │   │   ├── KEY PLATE (NO.2)
+│   │   │   ├── NOSE CASTING (LEFT HAND)
+│   │   │   ├── NOSE CASTING (MIDDLE)
+│   │   │   ├── NOSE CASTING (RIGHT HAND)
+│   │   │   ├── SHAFT (NO.1)
+│   │   │   ├── SHAFT (NO.2)
+│   │   │   ├── SHELL (LEFT HAND)
+│   │   │   ├── SHELL (MIDDLE)
+│   │   │   ├── SHELL (RIGHT HAND)
+│   │   │   └── WASHER
+│   │   ├── GRIZZLY BAR FOR FIRING HOOD ASSEMBLY
+│   │   │   ├── GRIZZLY BAR FOR FIRING HOOD
+│   │   │   ├── GRIZZLY CAP
+│   │   │   ├── HEX. NUT
+│   │   │   ├── KEY PLATE (NO.3)
+│   │   │   ├── PLATE
+│   │   │   ├── SHELL FOR FIRING HOOD
+│   │   │   └── WASHER
+│   │   ├── GRIZZLY SUPPORT BAR ASSEMBLY
+│   │   │   ├── GRIZZLY SPACER (NO.1)
+│   │   │   ├── GRIZZLY SPACER (NO.2)
+│   │   │   ├── GRIZZLY SPACER (NO.3)
+│   │   │   ├── GRIZZLY SPACER (NO.4)
+│   │   │   ├── GRIZZLY SPACER (NO.5)
+│   │   │   ├── GRIZZLY SUPPORT BAR (NO.1)
+│   │   │   ├── GRIZZLY SUPPORT BAR (NO.2)
+│   │   │   ├── PIPE BEARING (NO.1)
+│   │   │   ├── PIPE BEARING (NO.2)
+│   │   │   ├── SHELL FOR GRIZZLY SUPPORT (NO.1)
+│   │   │   ├── SHELL FOR GRIZZLY SUPPORT (NO.2)
+│   │   │   └── SHELL FOR GRIZZLY SUPPORT (NO.2)
+│   │   ├── PATCH PLATE
+│   │   ├── SEAL PLATE (NO.1)
+│   │   ├── SEAL PLATE (NO.1)
+│   │   ├── SEAL PLATE (NO.2)
+│   │   ├── SEAL PLATE (NO.2)
+│   │   ├── SEAL PLATE (NO.3)
+│   │   ├── SEAL PLATE (NO.3)
+│   │   ├── SEAL PLATE (NO.4)
+│   │   ├── SEAL PLATE (NO.4)
+│   │   ├── SEAL PLATE (NO.5)
+│   │   ├── SEAL PLATE (NO.5)
+│   │   ├── SEAL PLATE (NO.6)
+│   │   ├── SHAFT (NO.3)
+│   │   ├── SHAFT (NO.4)
+│   │   ├── SHAFT (NO.5)
+│   │   └── SHIM FOR BRACKET COVER
+│   ├── LOAD WALL ASSEMBLY
+│   │   ├── BOLT
+│   │   ├── BOLT
+│   │   ├── BRICK RETAINER (NO.1)
+│   │   ├── BRICK RETAINER (NO.2)
+│   │   ├── LOAD WALL
+│   │   ├── NUT
+│   │   ├── PIPE SUPPORT (NO.1)
+│   │   ├── PIPE SUPPORT (NO.2)
+│   │   ├── STIFFENER
+│   │   └── WASHER
+│   └── SCREED WALL ASSEMBLY
+│       ├── BOLT
+│       ├── CHAIN CASTING (WITH BUSH/WASHER)
+│       ├── PIPE SUPPORT (NO.1)
+│       ├── PIPE SUPPORT (NO.2)
+│       ├── SCREED WALL
+│       ├── SEAL PLATE
+│       └── WATER TANK
+├── LOWER HOUSING
+│   ├──  DOUBLE FLAP VALVE
+│   │   └── DRIVE UNIT FOR DOUBLE FLAP VALVE
+│   │       ├── 730AN1.ME08-FEEDER
+│   │       ├── 730AN1.ME09-FEEDER
+│   │       ├── 730AN1.ME10-FEEDER
+│   │       ├── 730AN1.ME11-FEEDER
+│   │       ├── 730AN1.ME12-FEEDER
+│   │       ├── 730AN1.ME13-FEEDER
+│   │       ├── DOUBLE FLAP VALVE 1
+│   │       ├── DOUBLE FLAP VALVE 2
+│   │       ├── DOUBLE FLAP VALVE 3
+│   │       ├── DOUBLE FLAP VALVE 4
+│   │       ├── DOUBLE FLAP VALVE 5
+│   │       ├── DOUBLE FLAP VALVE 6
+│   │       ├── LOCAL CONTROL BOX
+│   │       ├── LOCAL CONTROL BOX
+│   │       ├── LOCAL CONTROL BOX
+│   │       ├── LOCAL CONTROL BOX
+│   │       ├── LOCAL CONTROL BOX
+│   │       └── LOCAL CONTROL BOX
+│   ├── DUST HOPPER ASSEMBLY
+│   │   ├── DUST CHUTE
+│   │   ├── DUST HOPPER (NO.1)
+│   │   ├── DUST HOPPER (NO.2)
+│   │   ├── DUST HOPPER (NO.3)
+│   │   ├── DUST HOPPER (NO.4)
+│   │   ├── DUST HOPPER (NO.5)
+│   │   ├── DUST HOPPER (NO.6)
+│   │   ├── DUST HOPPER (NO.7)
+│   │   └── MANHOLE COVER
+│   ├── MANUAL DUST VALVE ASSEMBLY
+│   │   ├── ARM
+│   │   ├── BOLT
+│   │   ├── BOX PACKING
+│   │   ├── CASING
+│   │   ├── CASING PACKING
+│   │   ├── CLEVIS PIN
+│   │   ├── DAMPER ARM
+│   │   ├── DAMPER CHUTE
+│   │   ├── DAMPER PLATE
+│   │   ├── END PLATE
+│   │   ├── FRONT COVER PACKING
+│   │   ├── HEX. NUT
+│   │   ├── HEX. NUT
+│   │   ├── HEX. NUT
+│   │   ├── INSPECTION HOLE COVER (FRONT)
+│   │   ├── INSPECTION HOLE COVER (REAR)
+│   │   ├── NAME PLATE
+│   │   ├── PARALLEL KEY 1
+│   │   ├── PARALLEL KEY 2
+│   │   ├── PILLOW BLOCK 1
+│   │   ├── PILLOW BLOCK 2
+│   │   ├── PLAIN WASHER
+│   │   ├── REAR COVER PACKING
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SCREW
+│   │   ├── SEAL PLATE 1
+│   │   ├── SEAL PLATE 2
+│   │   ├── SHAFT
+│   │   ├── SHIM
+│   │   ├── SPLIT PIN
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── STUD
+│   │   └── WEIGHT
+│   ├── MOTORIZED DUST VALVE ASSEMBLY
+│   │   ├── CAM FOLLOWER
+│   │   ├── COUNTER WEIGHT
+│   │   ├── DAMPER ARM (LOWER)
+│   │   ├── DAMPER ARM (UPPER)
+│   │   ├── FLANGE PACKING
+│   │   ├── LOWER CASING ASSEMBLY
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── NUT
+│   │   ├── PARALLEL KEY
+│   │   ├── SCREW
+│   │   ├── SHAFT
+│   │   ├── SPRING WASHER
+│   │   ├── SPRING WASHER
+│   │   ├── STUD
+│   │   └── UPPER CASING ASSEMBLY
+│   └── WIND BOX ASSEMBLY
+│       ├── DEAD PLATE (NO.1)
+│       ├── DEAD PLATE (NO.2)
+│       ├── DEAD PLATE (NO.3)
+│       ├── DISCHARGE CHUTE
+│       ├── FRAME AIR SEAL (INNER)
+│       ├── FRAME AIR SEAL (OUTER)
+│       ├── FRAME SUPPORT (INNER)
+│       ├── FRAME SUPPORT (OUTER)
+│       ├── PALLET LIMIT FRAME
+│       ├── RETAINING BAND (INNER)
+│       ├── RETAINING BAND (OUTER)
+│       ├── SPONGE
+│       ├── WIND BOX (NO.1)
+│       ├── WIND BOX (NO.10)
+│       ├── WIND BOX (NO.2)
+│       ├── WIND BOX (NO.3)
+│       ├── WIND BOX (NO.4)
+│       ├── WIND BOX (NO.5)
+│       ├── WIND BOX (NO.6)
+│       ├── WIND BOX (NO.7)
+│       ├── WIND BOX (NO.8)
+│       └── WIND BOX (NO.9)
+├── LUBRICATION GREASE SYSTEM
+├── LUBRICATION OIL SYSTEM
+├── ROTATING CHANNEL
+│   ├── PALLET ARM ASSEMBLY
+│   │   ├── BEARING END COVER
+│   │   ├── BEARING RETAINING PLATE
+│   │   ├── BEARING SEAL PLATE
+│   │   ├── BEARING SHAFT
+│   │   ├── C-SNAP RING FOR SHAFT
+│   │   ├── DISTANCE PIECE
+│   │   ├── DUST SEAL PLATE
+│   │   ├── HIGH TENSION BOLT
+│   │   ├── NUT
+│   │   ├── PALLET ARM
+│   │   ├── PALLET ARM ROLLER
+│   │   ├── ROLLER BEARING
+│   │   └── WASHER
+│   ├── PALLET ASSEMBLY
+│   │   ├── BEARING FOR PALLET SHAFT
+│   │   ├── CHAIN BRACKET SEGMENT
+│   │   ├── COIL PACKING
+│   │   ├── END PLATE (NO.1)
+│   │   ├── END PLATE (NO.2)
+│   │   ├── HIGH TENSION BOLT
+│   │   ├── HIGH TENSION BOLT
+│   │   ├── HIGH TENSION BOLT FOR PALLET FRAME
+│   │   ├── KEY (NO.1)
+│   │   ├── KEY (NO.2)
+│   │   ├── NUT
+│   │   ├── PACKING
+│   │   ├── PALEET SHAFT (OUTER)
+│   │   ├── PALLET
+│   │   ├── PALLET FRAME
+│   │   ├── PALLET SHAFT (INNER)
+│   │   ├── PALLET SHIPPING ANGLE
+│   │   ├── PALLET SPACER (INNER)
+│   │   ├── PALLET SPACER (OUTER)
+│   │   ├── RETAINER FOR PACKING
+│   │   ├── SHIM FOR CHAIN BRACKET
+│   │   ├── SPLICE PLATE
+│   │   ├── SPLICE PLATE
+│   │   ├── SPLICE PLATE
+│   │   ├── SPLICE PLATE
+│   │   ├── STOPPER FOR BEARING
+│   │   ├── TAPER KEY
+│   │   ├── TAPER WASHER
+│   │   ├── TEFLON
+│   │   └── WASHER
+│   ├── ROLLER CHAIN ASSEMBLY
+│   │   ├── BUSH
+│   │   ├── CHAIN COVER
+│   │   ├── INNER LINK
+│   │   ├── LOWER LINK
+│   │   ├── PIN 1
+│   │   ├── PIN 2
+│   │   ├── ROLLER
+│   │   └── UPPER LINK
+│   ├── SHELL AND LEDGE PLATE
+│   │   ├── LEDGE PLATE (INNER NO.1)
+│   │   ├── LEDGE PLATE (INNER NO.2)
+│   │   ├── LEDGE PLATE (OUTER NO.1)
+│   │   ├── LEDGE PLATE (OUTER NO.2)
+│   │   ├── LEDGE PLATE (OUTER NO.3)
+│   │   ├── LEDGE PLATE BRACKET (INNER)
+│   │   ├── LEDGE PLATE BRACKET (OUTER)
+│   │   ├── LINING RETAINER (INNER NO.1)
+│   │   ├── LINING RETAINER (INNER NO.2)
+│   │   ├── LINING RETAINER (INNER NO.3)
+│   │   ├── LINING RETAINER (INNER NO.4)
+│   │   ├── LINING RETAINER (INNER NO.5)
+│   │   ├── LINING RETAINER (INNER NO.6)
+│   │   ├── LINING RETAINER (OUTER NO.1)
+│   │   ├── LINING RETAINER (OUTER NO.2)
+│   │   ├── LINING RETAINER (OUTER NO.3)
+│   │   ├── SEAL PLATE (INNER NO.1)
+│   │   ├── SEAL PLATE (INNER NO.2)
+│   │   ├── SEAL PLATE (INNER NO.3)
+│   │   ├── SEAL PLATE (INNER NO.4)
+│   │   ├── SEAL PLATE (OUTER NO.1)
+│   │   ├── SEAL PLATE (OUTER NO.2)
+│   │   ├── SEAL PLATE (OUTER NO.3)
+│   │   ├── SEAL PLATE (OUTER NO.4)
+│   │   ├── SHELL PROTECTOR (INNER)
+│   │   ├── SHELL PROTECTOR (OUTER)
+│   │   ├── SHELL SECTION (INNER)
+│   │   ├── SHELL SECTION (OUTER)
+│   │   ├── SPLICE PLATE (NO.1)
+│   │   └── SPLICE PLATE (NO.2)
+│   ├── SIDE WALL
+│   ├── SUPPORT RAIL
+│   │   ├── SUPPORT RAIL (INNER)
+│   │   └── SUPPORT RAIL (OUTER)
+│   └── THRUST RAIL ASSEMBLY
+│       ├── SQUAD BAR
+│       └── THRUST RAIL
+├── STRUCTURE
+│   ├── GUIDE RAIL ASSEMBLY
+│   │   ├── GUIDE RAIL SEGMENT (NO.1)
+│   │   ├── GUIDE RAIL SEGMENT (NO.2)
+│   │   ├── GUIDE RAIL SEGMENT (NO.3)
+│   │   ├── GUIDE RAIL SEGMENT (NO.4)
+│   │   ├── GUIDE RAIL SEGMENT (NO.5)
+│   │   ├── GUIDE RAIL SEGMENT (NO.6)
+│   │   ├── GUIDE RAIL SEGMENT (NO.7)
+│   │   ├── SHIM (NO.1)
+│   │   ├── SHIM (NO.2)
+│   │   ├── SPLICE PLATE (NO.1)
+│   │   ├── SPLICE PLATE (NO.2)
+│   │   └── SPLICE PLATE (NO.3)
+│   ├── MAIN COLUMN AND BEAM ASSEMBLY
+│   │   ├── ANNULAR COOLER NAME PLATE
+│   │   ├── BEAM (NO.1)
+│   │   ├── BEAM (NO.2)
+│   │   ├── BRACE
+│   │   ├── BRACKET
+│   │   ├── BRACKET (NO.1)
+│   │   ├── BRACKET (NO.10)
+│   │   ├── BRACKET (NO.2)
+│   │   ├── BRACKET (NO.3)
+│   │   ├── BRACKET (NO.4)
+│   │   ├── BRACKET (NO.5)
+│   │   ├── BRACKET (NO.6)
+│   │   ├── BRACKET (NO.7)
+│   │   ├── BRACKET (NO.8)
+│   │   ├── BRACKET (NO.9)
+│   │   ├── COLUMN
+│   │   ├── COLUMN
+│   │   ├── COLUMN (NO.1)
+│   │   ├── COLUMN (NO.2)
+│   │   ├── COLUMN (NO.3)
+│   │   ├── COLUMN (NO.4)
+│   │   ├── CROSS BEAM (CHANNEL)
+│   │   ├── CROSS BEAM (INNER)
+│   │   ├── CROSS BEAM (NO.1)
+│   │   ├── CROSS BEAM (NO.10)
+│   │   ├── CROSS BEAM (NO.2)
+│   │   ├── CROSS BEAM (NO.3)
+│   │   ├── CROSS BEAM (NO.4)
+│   │   ├── CROSS BEAM (NO.5)
+│   │   ├── CROSS BEAM (NO.6)
+│   │   ├── CROSS BEAM (NO.7)
+│   │   ├── CROSS BEAM (NO.8)
+│   │   ├── CROSS BEAM (NO.9)
+│   │   ├── CROSS BEAM (OUTER)
+│   │   ├── DRIVE SUPPORT BEAM
+│   │   ├── DUST COVER
+│   │   ├── LOWER COLUMN (NO.1)
+│   │   ├── LOWER COLUMN (NO.10)
+│   │   ├── LOWER COLUMN (NO.11)
+│   │   ├── LOWER COLUMN (NO.12)
+│   │   ├── LOWER COLUMN (NO.13)
+│   │   ├── LOWER COLUMN (NO.14)
+│   │   ├── LOWER COLUMN (NO.15)
+│   │   ├── LOWER COLUMN (NO.16)
+│   │   ├── LOWER COLUMN (NO.17)
+│   │   ├── LOWER COLUMN (NO.18)
+│   │   ├── LOWER COLUMN (NO.19)
+│   │   ├── LOWER COLUMN (NO.2)
+│   │   ├── LOWER COLUMN (NO.3)
+│   │   ├── LOWER COLUMN (NO.4)
+│   │   ├── LOWER COLUMN (NO.5)
+│   │   ├── LOWER COLUMN (NO.6)
+│   │   ├── LOWER COLUMN (NO.7)
+│   │   ├── LOWER COLUMN (NO.8)
+│   │   ├── LOWER COLUMN (NO.9)
+│   │   ├── LOWER COLUMN SUPPORT BEAM
+│   │   ├── MOUNTING BOARD FOR NAME PLATE
+│   │   ├── SHIM
+│   │   ├── SHIM
+│   │   ├── SUPPORT BEAM (NO.1)
+│   │   ├── SUPPORT BEAM (NO.2)
+│   │   ├── UPPER COLUMN (INNER NO.1)
+│   │   ├── UPPER COLUMN (INNER NO.10)
+│   │   ├── UPPER COLUMN (INNER NO.11)
+│   │   ├── UPPER COLUMN (INNER NO.12)
+│   │   ├── UPPER COLUMN (INNER NO.13)
+│   │   ├── UPPER COLUMN (INNER NO.14)
+│   │   ├── UPPER COLUMN (INNER NO.2)
+│   │   ├── UPPER COLUMN (INNER NO.3)
+│   │   ├── UPPER COLUMN (INNER NO.4)
+│   │   ├── UPPER COLUMN (INNER NO.5)
+│   │   ├── UPPER COLUMN (INNER NO.6)
+│   │   ├── UPPER COLUMN (INNER NO.7)
+│   │   ├── UPPER COLUMN (INNER NO.8)
+│   │   ├── UPPER COLUMN (INNER NO.9)
+│   │   ├── UPPER COLUMN (OUTER NO.1)
+│   │   ├── UPPER COLUMN (OUTER NO.10)
+│   │   ├── UPPER COLUMN (OUTER NO.11)
+│   │   ├── UPPER COLUMN (OUTER NO.12)
+│   │   ├── UPPER COLUMN (OUTER NO.13)
+│   │   ├── UPPER COLUMN (OUTER NO.14)
+│   │   ├── UPPER COLUMN (OUTER NO.2)
+│   │   ├── UPPER COLUMN (OUTER NO.3)
+│   │   ├── UPPER COLUMN (OUTER NO.4)
+│   │   ├── UPPER COLUMN (OUTER NO.5)
+│   │   ├── UPPER COLUMN (OUTER NO.6)
+│   │   ├── UPPER COLUMN (OUTER NO.7)
+│   │   ├── UPPER COLUMN (OUTER NO.8)
+│   │   └── UPPER COLUMN (OUTER NO.9)
+│   ├── STRUCTURES ARRANGEMENT OF BURNER FLOOR
+│   │   ├── CONNECTING PIECE (FOR EXHAUST DUCT)
+│   │   ├── CONNECTING PIECE (FOR HEAT RECUPERATING DUCT)
+│   │   ├── CONNECTING PIECE (FOR PARALLEL FLOW DUCT)
+│   │   ├── COVER PLATE (NO.1)
+│   │   ├── COVER PLATE (NO.2)
+│   │   ├── COVER PLATE (NO.3)
+│   │   ├── COVER PLATE (NO.4)
+│   │   ├── COVER PLATE (NO.5)
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── STRUCTURE OF BURNER FLOOR
+│   │   ├── SUPPORT FRAME FOR COVER (NO.1)
+│   │   └── SUPPORT FRAME FOR COVER (NO.2)
+│   ├── SUPPORT ROLLER ASSEMBLY
+│   │   ├── BEARING SEAL PLATE
+│   │   ├── BEARING SHAFT
+│   │   ├── BOLT
+│   │   ├── BRACKET (INSIDE)
+│   │   ├── BRACKET (OUTSIDE)
+│   │   ├── DISTANCE PIECE (NO.1)
+│   │   ├── DISTANCE PIECE (NO.2)
+│   │   ├── DUST COVER
+│   │   ├── DUST GUARD (INNER)
+│   │   ├── DUST GUARD (OUTER)
+│   │   ├── DUST SEAL PLATE
+│   │   ├── END PLATE
+│   │   ├── GRAPHITE BLOCK
+│   │   ├── LINER (INSIDE)
+│   │   ├── LINER (OUTSIDE)
+│   │   ├── ROLLER
+│   │   ├── ROLLER BEARING
+│   │   ├── SHIM
+│   │   ├── SPACER
+│   │   ├── SUPPORT CHANNEL (INNER)
+│   │   ├── SUPPORT CHANNEL (OUTER)
+│   │   ├── WASHER
+│   │   ├── WEIGHT
+│   │   └── WIRE ROPE
+│   └── THRUST ROLLER ASSEMBLY
+│       ├── BEARING END COVER
+│       ├── BEARING RETAINING PLATE
+│       ├── BEARING SEAL PLATE
+│       ├── BEARING SHAFT
+│       ├── DISTANCE PIECE
+│       ├── DUST SEAL PLATE
+│       ├── ROLLER BEARING
+│       ├── SHIM
+│       └── THRUST ROLLER
+└── UPPER HOUSING
+    ├── ANCHOR SUPPORT PIPE ARRANGEMENT
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── ANCHOR SUPPORT PIPE
+    │   ├── PIPE HANGER (NO.1)
+    │   ├── PIPE HANGER (NO.2)
+    │   ├── PIPE HANGER (NO.3)
+    │   ├── PIPE HANGER (NO.4)
+    │   ├── PIPE HANGER (NO.5)
+    │   └── PIPE HANGER (NO.6)
+    ├── MANHOLE ASSEMBLY FOR HIGH TEMP. ZONE
+    │   ├── HANDLE
+    │   ├── INSPECTION HOLE COVER
+    │   ├── KEY
+    │   ├── LINING RETAINER
+    │   ├── LINING RETAINER (INNER)
+    │   ├── LINING RETAINER (OUTER)
+    │   ├── MANHOLE
+    │   └── MANHOLE FRAME
+    ├── MANHOLE ASSEMBLY FOR LOW TEMP. ZONE
+    │   ├── HANDLE
+    │   ├── INSPECTION HOLE COVER
+    │   ├── KEY
+    │   ├── LINING RETAINER
+    │   ├── LINING RETAINER (INNER)
+    │   ├── LINING RETAINER (OUTER)
+    │   ├── MANHOLE
+    │   └── MANHOLE FRAME
+    ├── PARTITION WALL ASSEMBLY
+    │   ├── BOLT
+    │   ├── BOLT
+    │   ├── BOLT
+    │   ├── BOLT
+    │   ├── BOLT
+    │   ├── BRACKET
+    │   ├── BRACKET
+    │   ├── COIL PACKING
+    │   ├── COIL PACKING
+    │   ├── COVER
+    │   ├── FLANGE
+    │   ├── JOINT
+    │   ├── LINER
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── NUT
+    │   ├── PARTITION WALL (1/2)
+    │   ├── PARTITION WALL (2/2)
+    │   ├── PARTITION WALL SUPPORT
+    │   ├── SEAL PLATE
+    │   ├── SEAL PLATE
+    │   └── SLEEVE
+    └── UPPER HOUSING ASSEMBLY
+        ├── BRACKET (NO.1)
+        ├── BRACKET (NO.10)
+        ├── BRACKET (NO.11)
+        ├── BRACKET (NO.12)
+        ├── BRACKET (NO.13)
+        ├── BRACKET (NO.14)
+        ├── BRACKET (NO.15)
+        ├── BRACKET (NO.16)
+        ├── BRACKET (NO.17)
+        ├── BRACKET (NO.18)
+        ├── BRACKET (NO.2)
+        ├── BRACKET (NO.3)
+        ├── BRACKET (NO.4)
+        ├── BRACKET (NO.5)
+        ├── BRACKET (NO.6)
+        ├── BRACKET (NO.7)
+        ├── BRACKET (NO.8)
+        ├── BRACKET (NO.9)
+        ├── CROSS BEAM (NO.1)
+        ├── CROSS BEAM (NO.10)
+        ├── CROSS BEAM (NO.2)
+        ├── CROSS BEAM (NO.3)
+        ├── CROSS BEAM (NO.4)
+        ├── CROSS BEAM (NO.5)
+        ├── CROSS BEAM (NO.6)
+        ├── CROSS BEAM (NO.7)
+        ├── CROSS BEAM (NO.8)
+        ├── CROSS BEAM (NO.9)
+        ├── CROSS CHANNEL (NO.1)
+        ├── CROSS CHANNEL (NO.2)
+        ├── CROSS CHANNEL (NO.3)
+        ├── CROSS CHANNEL (NO.4)
+        ├── CROSS CHANNEL (NO.5)
+        ├── PARTITION PLATE
+        ├── PARTITION PLATE SUPPORT PIPE
+        ├── PARTITION PLATE SUPPORT PIPE
+        ├── ROOF PLATE
+        ├── SEAL PLATE (INNER)
+        ├── SEAL PLATE (OUTER)
+        ├── SPLICE PLATE
+        ├── STRINGER (INNER NO.1)
+        ├── STRINGER (INNER NO.2)
+        ├── STRINGER (INNER NO.3)
+        ├── STRINGER (INNER NO.4)
+        ├── STRINGER (INNER NO.5)
+        ├── STRINGER (NO.1)
+        ├── STRINGER (NO.2)
+        ├── STRINGER (NO.3)
+        ├── STRINGER (NO.4)
+        ├── STRINGER (NO.5)
+        ├── STRINGER (NO.6)
+        ├── STRINGER (NO.7)
+        ├── STRINGER (OUTER NO.1)
+        ├── STRINGER (OUTER NO.2)
+        ├── STRINGER (OUTER NO.3)
+        ├── STRINGER (OUTER NO.4)
+        ├── STRINGER (OUTER NO.5)
+        ├── SUPPORT BEAM (NO.1)
+        ├── SUPPORT BEAM (NO.2)
+        ├── SUPPORT BEAM (NO.3)
+        ├── UPPER SHELL (INNER NO.1)
+        ├── UPPER SHELL (INNER NO.10)
+        ├── UPPER SHELL (INNER NO.2)
+        ├── UPPER SHELL (INNER NO.3)
+        ├── UPPER SHELL (INNER NO.4)
+        ├── UPPER SHELL (INNER NO.5)
+        ├── UPPER SHELL (INNER NO.6)
+        ├── UPPER SHELL (INNER NO.7)
+        ├── UPPER SHELL (INNER NO.8)
+        ├── UPPER SHELL (INNER NO.9)
+        ├── UPPER SHELL (OUTER NO.1)
+        ├── UPPER SHELL (OUTER NO.10)
+        ├── UPPER SHELL (OUTER NO.11)
+        ├── UPPER SHELL (OUTER NO.12)
+        ├── UPPER SHELL (OUTER NO.13)
+        ├── UPPER SHELL (OUTER NO.2)
+        ├── UPPER SHELL (OUTER NO.3)
+        ├── UPPER SHELL (OUTER NO.4)
+        ├── UPPER SHELL (OUTER NO.5)
+        ├── UPPER SHELL (OUTER NO.6)
+        ├── UPPER SHELL (OUTER NO.7)
+        ├── UPPER SHELL (OUTER NO.8)
+        └── UPPER SHELL (OUTER NO.9)
