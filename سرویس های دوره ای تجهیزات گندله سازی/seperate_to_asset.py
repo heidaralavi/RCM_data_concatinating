@@ -62,13 +62,26 @@ df.to_excel('regenerate_app_asset_no.xlsx',index=False)
 del df
 
 #vlookup for category-class
-df=pd.read_excel("regenerate_app_asset_no.xlsx",dtype=str)
+df1=pd.read_excel("regenerate_app_asset_no.xlsx",dtype=str)
+df2=pd.read_excel("for_vlookup.xlsx",dtype=str)
+inner_join = pd.merge(df1, 
+                      df2, 
+                      on ='app_asset_no', 
+                      how ='inner')
+inner_join['1']=' ('
+inner_join['2']=')'
+inner_join['tozihat_taxonomy']=inner_join['tozihat']+inner_join['1']+inner_join['joze_machine']+inner_join['2']
 
+inner_join['service_no_taxonomy']=inner_join['joze_machine']+inner_join['service']
 
+inner_join.to_excel('final.xlsx',index=False)
+del df1,df2,inner_join
 
-'''
-df['category-class'].fillna(0, inplace=True)
-df['app_asset_code'].fillna(0, inplace=True)
+#group by calegory-class
+
+df=pd.read_excel("final.xlsx",dtype=str)
+#df['category-class'].fillna(0, inplace=True)
+#df['app_asset_code'].fillna(0, inplace=True)
 
 col_names = df.columns.values
 
@@ -82,7 +95,7 @@ for item in gb_category.groups:
     gb_priod=sub_df1.groupby('priod')
     for item2 in gb_priod.groups:
         sub_df2=gb_priod.get_group(item2)
-        gb_app_asset=sub_df2.groupby('app_asset_code')
+        gb_app_asset=sub_df2.groupby('app_asset_no')
         for item3 in gb_app_asset.groups:
             directory = ".\\test\\{}\\".format(item) 
             file_name = ".\\test\\{}\\{}-{}-{}.xlsx".format(item,item,item3,item2)
@@ -91,6 +104,7 @@ for item in gb_category.groups:
             temp=gb_app_asset.get_group(item3).reset_index()
             temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
             temp.drop(['index'],axis=1,inplace=True)
-            temp[['asset','Asset Number','category-class','tozihat_taxonomy','priod','vahed_ejraii','active']].to_excel(file_name,index=False)
+            temp[['Asset Number','machine_code','app_asset_no','priod',
+                  'tozihat_taxonomy','vahede_ejraii','active']].to_excel(file_name,index=False)
     
-'''    
+
