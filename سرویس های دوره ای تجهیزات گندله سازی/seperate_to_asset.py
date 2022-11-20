@@ -2,8 +2,55 @@ import pandas as pd
 import numpy as np
 import os
 
+col_names = ['location','machine_code','joze_machine','sharhe_service_fa',
+             'service','tozihat','zamane_anjam','zamane_standard','priod',
+             'noe_service','tarikh_anjam','maharat','vahede_ejraii','active']
+df=pd.read_excel("service_list_row.xlsx",dtype=str,names=col_names)
 
-df=pd.read_excel("service_list.xlsx")
+
+#data cleaning
+df = df.replace('ك', 'ک', regex=True)
+df = df.replace('ي', 'ی', regex=True)
+df = df.replace(chr(10),' ',regex=True) #Two Line replace by one Line
+
+for n in range(6):
+    df = df.replace('  ',' ',regex=True)
+
+for item in col_names:
+    df[item]=df[item].astype(str).str.strip()
+
+#seperate data 
+first_char=df['location'].str[0]
+map = first_char.str.isdigit()
+df[map].to_excel('service_list.xlsx',index=False)
+df[~map].to_excel('not_procced.xlsx',index=False)
+del df
+
+#seperate EM 
+
+df=pd.read_excel("service_list.xlsx",dtype=str)
+filter_data = df['location'].str.contains('ME')
+df['map']=filter_data
+
+
+
+
+df.to_excel('temp.xlsx')
+
+'''
+df['area']=df['location'][map].str.split('.', expand=True)[0]
+
+df['area1']=df['area'][map].str.split('(\d+)', expand=True)[1]
+df['area1']=df['area1'][map].astype(str).str.zfill(4)
+df['tajhiz']=df['area'][map].str.split('(\d+)', expand=True)[2]
+df['tajhiz']=df['tajhiz'].str[0:2]
+df['asset']=df['area1']+df['tajhiz']
+'''
+
+
+
+
+'''
 df['category-class'].fillna(0, inplace=True)
 df['app_asset_code'].fillna(0, inplace=True)
 
@@ -30,4 +77,4 @@ for item in gb_category.groups:
             temp.drop(['index'],axis=1,inplace=True)
             temp[['asset','Asset Number','category-class','tozihat_taxonomy','priod','vahed_ejraii','active']].to_excel(file_name,index=False)
     
-    
+'''    
