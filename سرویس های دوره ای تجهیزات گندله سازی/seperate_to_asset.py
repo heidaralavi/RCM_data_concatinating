@@ -26,27 +26,43 @@ df[map].to_excel('service_list.xlsx',index=False)
 df[~map].to_excel('not_procced.xlsx',index=False)
 del df
 
-#seperate EM 
+#seperate ME 
 
 df=pd.read_excel("service_list.xlsx",dtype=str)
-filter_data = df['location'].str.contains('ME')
-df['map']=filter_data
+filter_by_ME = df['location'].str.contains('ME')
+df['filter']=filter_by_ME
+df[~df['filter']].to_excel('non_electromotors_services.xlsx',index=False)
+df[df['filter']].to_excel('electromotors_services.xlsx',index=False)
+del df
+
+
+#seperate GB 
+
+df=pd.read_excel("non_electromotors_services.xlsx",dtype=str)
+filter_by_GB = df['location'].str.contains('GB')
+df['filter_gb']=filter_by_GB
+df[~df['filter_gb']].to_excel('non_gearbox_services.xlsx',index=False)
+df[df['filter_gb']].to_excel('gearbox_services.xlsx',index=False)
+del df
 
 
 
+#make app asset_no for non_electromotor_geabox elements
 
-df.to_excel('temp.xlsx')
-
-'''
-df['area']=df['location'][map].str.split('.', expand=True)[0]
-
-df['area1']=df['area'][map].str.split('(\d+)', expand=True)[1]
-df['area1']=df['area1'][map].astype(str).str.zfill(4)
-df['tajhiz']=df['area'][map].str.split('(\d+)', expand=True)[2]
+df=pd.read_excel("non_gearbox_services.xlsx",dtype=str)
+df['temp1']=df['location'].str.split('.', expand=True)[0]
+df['area']=df['temp1'].str.split('(\d+)', expand=True)[1]
+df['area']=df['area'].astype(str).str.zfill(4)
+df['tajhiz']=df['temp1'].str.split('(\d+)', expand=True)[2]
 df['tajhiz']=df['tajhiz'].str[0:2]
-df['asset']=df['area1']+df['tajhiz']
-'''
+df['no']=df['temp1'].str.split('(\d+)', expand=True)[3]
+df['no']=df['no'].astype(str).str.zfill(2)
+df['app_asset_no']=df['area']+df['tajhiz']+df['no']
+df.to_excel('regenerate_app_asset_no.xlsx',index=False)
+del df
 
+#vlookup for category-class
+df=pd.read_excel("regenerate_app_asset_no.xlsx",dtype=str)
 
 
 
