@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
+'''
 col_names = ['location','machine_code','joze_machine','sharhe_service_fa',
              'service','tozihat','zamane_anjam','zamane_standard','priod',
              'noe_service','tarikh_anjam','maharat','vahede_ejraii','active']
@@ -19,7 +20,12 @@ for n in range(6):
 for item in col_names:
     df[item]=df[item].astype(str).str.strip()
 
+df.to_excel('clean_data.xlsx',index=False)
+del df
+'''
 #seperate data 
+
+df=pd.read_excel("clean_data.xlsx",dtype=str)
 first_char=df['location'].str[0]
 map = first_char.str.isdigit()
 df[map].to_excel('service_list.xlsx',index=False)

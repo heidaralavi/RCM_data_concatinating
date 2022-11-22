@@ -3,29 +3,37 @@
   <Dictionary Ref="1" type="Dictionary" isKey="true">
     <BusinessObjects isList="true" count="0" />
     <Databases isList="true" count="1">
-      <service_list_row Ref="2" type="Stimulsoft.Report.Dictionary.StiExcelDatabase" isKey="true">
-        <Alias>service_list_row</Alias>
-        <Key>02e0dbeda89c4823aba1dbd625e1791a</Key>
-        <Name>service_list_row</Name>
-        <PathData>C:\Users\heidar\Documents\GitHub\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\service_list_row.xlsx</PathData>
-      </service_list_row>
+      <clean_data Ref="2" type="Stimulsoft.Report.Dictionary.StiExcelDatabase" isKey="true">
+        <Alias>clean_data</Alias>
+        <Key />
+        <Name>clean_data</Name>
+        <PathData>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\clean_data.xlsx</PathData>
+      </clean_data>
     </Databases>
     <DataSources isList="true" count="1">
-      <ExportToFile Ref="3" type="DataTableSource" isKey="true">
-        <Alias>ExportToFile</Alias>
-        <Columns isList="true" count="6">
-          <value>كد_x0020_ماشين,System.String</value>
-          <value>جزء_x0020_ماشين,System.String</value>
-          <value>تخصيص_x0020_سرويس-ماشين_تخصيص_x0020_سرويس-توضيحات,System.String</value>
-          <value>مقدار_x0020_MTBO,System.Double</value>
-          <value>شرح_x0020_واحد_x0020_اجرايي,System.String</value>
-          <value>تخصيص_x0020_سرويس-ماشين_تخصيص_x0020_سرويس-فعال,System.Boolean</value>
+      <Sheet1 Ref="3" type="DataTableSource" isKey="true">
+        <Alias>Sheet1</Alias>
+        <Columns isList="true" count="14">
+          <value>location,System.String</value>
+          <value>machine_code,System.String</value>
+          <value>joze_machine,System.String</value>
+          <value>sharhe_service_fa,System.String</value>
+          <value>service,System.String</value>
+          <value>tozihat,System.String</value>
+          <value>zamane_anjam,System.String</value>
+          <value>zamane_standard,System.String</value>
+          <value>priod,System.String</value>
+          <value>noe_service,System.String</value>
+          <value>tarikh_anjam,System.String</value>
+          <value>maharat,System.String</value>
+          <value>vahede_ejraii,System.String</value>
+          <value>active,System.String</value>
         </Columns>
         <Dictionary isRef="1" />
-        <Key>d8ff24850293468c9f7dab68f7267758</Key>
-        <Name>ExportToFile</Name>
-        <NameInSource>service_list_row.ExportToFile</NameInSource>
-      </ExportToFile>
+        <Key>bf8899bdda2646b8ba70542ba95e562d</Key>
+        <Name>Sheet1</Name>
+        <NameInSource>clean_data.Sheet1</NameInSource>
+      </Sheet1>
     </DataSources>
     <Relations isList="true" count="0" />
     <Report isRef="0" />
@@ -43,12 +51,12 @@
       <Components isList="true" count="7">
         <PageHeaderBand1 Ref="5" type="PageHeaderBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,0.2,7.49,0.7</ClientRectangle>
+          <ClientRectangle>0,4,277,18</ClientRectangle>
           <Components isList="true" count="1">
             <Text4 Ref="6" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[216:216:216]</Brush>
-              <ClientRectangle>0,0,7.49,0.7</ClientRectangle>
+              <ClientRectangle>0,0,276.25,17.78</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,18,Bold</Font>
@@ -71,12 +79,12 @@
         </PageHeaderBand1>
         <PageFooterBand1 Ref="7" type="PageFooterBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,10.51,7.49,0.4</ClientRectangle>
+          <ClientRectangle>0,179.84,277,10.16</ClientRectangle>
           <Components isList="true" count="1">
             <Text15 Ref="8" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+              <Border>None;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
-              <ClientRectangle>2.5,0.09,2.6,0.2</ClientRectangle>
+              <ClientRectangle>0,2,276,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -99,12 +107,12 @@
         </PageFooterBand1>
         <GroupHeaderBand1 Ref="9" type="GroupHeaderBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,1.3,7.49,0.8</ClientRectangle>
-          <Components isList="true" count="7">
+          <ClientRectangle>0,30,277,20</ClientRectangle>
+          <Components isList="true" count="8">
             <Text2 Ref="10" type="Text" isKey="true">
               <Border>Top, Right, Bottom;Black;1;Solid;False;4;Black</Border>
               <Brush>[255:255:0]</Brush>
-              <ClientRectangle>6.79,0.1,0.7,0.5</ClientRectangle>
+              <ClientRectangle>256,2,20,12</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,14,Bold| Italic</Font>
@@ -122,7 +130,7 @@
               <Border>Top, Left, Bottom;Black;1;Solid;False;4;Black</Border>
               <Brush>[255:255:0]</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>4.7,0.1,2.1,0.5</ClientRectangle>
+              <ClientRectangle>202,2,54,12</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,14,Bold| Italic</Font>
@@ -131,7 +139,7 @@
               <Name>Text1</Name>
               <Page isRef="4" />
               <Parent isRef="9" />
-              <Text>{ExportToFile.كد_ماشين}</Text>
+              <Text>{Sheet1.machine_code}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -140,7 +148,7 @@
             <Text3 Ref="12" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>6.3,0.6,1.2,0.2</ClientRectangle>
+              <ClientRectangle>236,14,40,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -157,7 +165,7 @@
             <Text6 Ref="13" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>1.8,0.6,4.5,0.2</ClientRectangle>
+              <ClientRectangle>72,14,164,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -174,7 +182,7 @@
             <Text8 Ref="14" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>0.9,0.6,0.9,0.2</ClientRectangle>
+              <ClientRectangle>22,14,22,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -191,7 +199,7 @@
             <Text13 Ref="15" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>0.5,0.6,0.4,0.2</ClientRectangle>
+              <ClientRectangle>12,14,10,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,14,Bold| Italic</Font>
@@ -200,7 +208,7 @@
               <Name>Text13</Name>
               <Page isRef="4" />
               <Parent isRef="9" />
-              <Text>پریود</Text>
+              <Text>دوره</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
@@ -208,7 +216,7 @@
             <Text10 Ref="16" type="Text" isKey="true">
               <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>0,0.6,0.5,0.2</ClientRectangle>
+              <ClientRectangle>0,14,12,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -222,34 +230,51 @@
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text10>
+            <Text16 Ref="17" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
+              <Brush>[0:176:240]</Brush>
+              <ClientRectangle>44,14,28,6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,12,Bold</Font>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text16</Name>
+              <Page isRef="4" />
+              <Parent isRef="9" />
+              <Text>نوع سرویس</Text>
+              <TextBrush>Black</TextBrush>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text16>
           </Components>
-          <Condition>{ExportToFile.كد_ماشين}</Condition>
+          <Condition>{Sheet1.machine_code}</Condition>
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
           <Name>GroupHeaderBand1</Name>
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupHeaderBand1>
-        <GroupHeaderBand2 Ref="17" type="GroupHeaderBand" isKey="true">
+        <GroupHeaderBand2 Ref="18" type="GroupHeaderBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,2.5,7.49,0</ClientRectangle>
+          <ClientRectangle>0,58,277,0</ClientRectangle>
           <Components isList="true" count="0" />
-          <Condition>{ExportToFile.جزء_ماشين}</Condition>
+          <Condition>{Sheet1.joze_machine}</Condition>
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
           <Name>GroupHeaderBand2</Name>
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupHeaderBand2>
-        <DataBand1 Ref="18" type="DataBand" isKey="true">
+        <DataBand1 Ref="19" type="DataBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,2.9,7.49,0.3</ClientRectangle>
-          <Components isList="true" count="5">
-            <Text5 Ref="19" type="Text" isKey="true">
+          <ClientRectangle>0,66,277,10</ClientRectangle>
+          <Components isList="true" count="6">
+            <Text5 Ref="20" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>6.3,0,1.2,0.3</ClientRectangle>
+              <ClientRectangle>236,0,40,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -258,18 +283,18 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text5</Name>
               <Page isRef="4" />
-              <Parent isRef="18" />
-              <Text>{ExportToFile.جزء_ماشين}</Text>
+              <Parent isRef="19" />
+              <Text>{Sheet1.joze_machine}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text5>
-            <Text7 Ref="20" type="Text" isKey="true">
+            <Text7 Ref="21" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>1.8,0,4.5,0.3</ClientRectangle>
+              <ClientRectangle>72,0,164,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -278,18 +303,18 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text7</Name>
               <Page isRef="4" />
-              <Parent isRef="18" />
-              <Text>{ExportToFile.تخصيص_سرويس_ماشين_تخصيص_سرويس_توضيحات}</Text>
+              <Parent isRef="19" />
+              <Text>{Sheet1.tozihat}</Text>
               <TextBrush>Black</TextBrush>
-              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <TextOptions>,,RightToLeft=True,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text7>
-            <Text9 Ref="21" type="Text" isKey="true">
+            <Text9 Ref="22" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>0.9,0,0.9,0.3</ClientRectangle>
+              <ClientRectangle>22,0,22,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -298,18 +323,18 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text9</Name>
               <Page isRef="4" />
-              <Parent isRef="18" />
-              <Text>{ExportToFile.شرح_واحد_اجرايي}</Text>
+              <Parent isRef="19" />
+              <Text>{Sheet1.vahede_ejraii}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text9>
-            <Text11 Ref="22" type="Text" isKey="true">
+            <Text11 Ref="23" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>0,0,0.5,0.3</ClientRectangle>
+              <ClientRectangle>0,0,12,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -318,18 +343,18 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text11</Name>
               <Page isRef="4" />
-              <Parent isRef="18" />
-              <Text>{ExportToFile.تخصيص_سرويس_ماشين_تخصيص_سرويس_فعال}</Text>
+              <Parent isRef="19" />
+              <Text>{Sheet1.active}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text11>
-            <Text12 Ref="23" type="Text" isKey="true">
+            <Text12 Ref="24" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>0.5,0,0.4,0.3</ClientRectangle>
+              <ClientRectangle>12,0,10,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -338,32 +363,52 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text12</Name>
               <Page isRef="4" />
-              <Parent isRef="18" />
-              <Text>{ExportToFile.مقدار_MTBO}</Text>
+              <Parent isRef="19" />
+              <Text>{Sheet1.priod}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text12>
+            <Text17 Ref="25" type="Text" isKey="true">
+              <Border>All;Black;1;Dash;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <CanGrow>True</CanGrow>
+              <ClientRectangle>44,0,28,8</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,10,Bold</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text17</Name>
+              <Page isRef="4" />
+              <Parent isRef="19" />
+              <Text>{Sheet1.noe_service}</Text>
+              <TextBrush>Black</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text17>
           </Components>
           <Conditions isList="true" count="0" />
           <DataRelationName isNull="true" />
-          <DataSourceName>ExportToFile</DataSourceName>
+          <DataSourceName>Sheet1</DataSourceName>
           <Expressions isList="true" count="0" />
-          <Filters isList="true" count="0" />
+          <Filters isList="true" count="1">
+            <value>location,BeginningWith,_x0031_,,String</value>
+          </Filters>
           <Name>DataBand1</Name>
           <Page isRef="4" />
           <Parent isRef="4" />
-          <Sort isList="true" count="4">
+          <Sort isList="true" count="2">
             <value>ASC</value>
-            <value>كد_ماشين</value>
-            <value>ASC</value>
-            <value>جزء_ماشين</value>
+            <value>joze_machine</value>
           </Sort>
         </DataBand1>
-        <GroupFooterBand1 Ref="24" type="GroupFooterBand" isKey="true">
+        <GroupFooterBand1 Ref="26" type="GroupFooterBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,3.6,7.49,0</ClientRectangle>
+          <ClientRectangle>0,84,277,0</ClientRectangle>
           <Components isList="true" count="0" />
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
@@ -371,15 +416,15 @@
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupFooterBand1>
-        <GroupFooterBand2 Ref="25" type="GroupFooterBand" isKey="true">
+        <GroupFooterBand2 Ref="27" type="GroupFooterBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,4,7.49,0.2</ClientRectangle>
+          <ClientRectangle>0,92,277,8</ClientRectangle>
           <Components isList="true" count="1">
-            <Text14 Ref="26" type="Text" isKey="true">
+            <Text14 Ref="28" type="Text" isKey="true">
               <Border>All;Black;1;Dash;False;4;Black</Border>
-              <Brush>Transparent</Brush>
+              <Brush>[255:255:0]</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>0.2,0,7.1,0.2</ClientRectangle>
+              <ClientRectangle>0,0,276,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,14,Bold</Font>
@@ -387,8 +432,8 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text14</Name>
               <Page isRef="4" />
-              <Parent isRef="25" />
-              <Text>{ExportToFile.كد_ماشين} پایان تجهیز</Text>
+              <Parent isRef="27" />
+              <Text>{Sheet1.machine_code} پایان تجهیز</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -405,10 +450,11 @@
       <Conditions isList="true" count="0" />
       <Expressions isList="true" count="0" />
       <Guid>5ca6a67b2476443c952edc637e6f5955</Guid>
-      <Margins>0.39,0.39,0.39,0.39</Margins>
+      <Margins>10,10,10,10</Margins>
       <Name>Page1</Name>
-      <PageHeight>11.69</PageHeight>
-      <PageWidth>8.27</PageWidth>
+      <Orientation>Landscape</Orientation>
+      <PageHeight>210</PageHeight>
+      <PageWidth>297</PageWidth>
       <PaperSize>A4</PaperSize>
       <Report isRef="0" />
     </Page1>
@@ -424,12 +470,12 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>11/21/2022 10:07:03 PM</ReportChanged>
+  <ReportChanged>11/22/2022 10:57:31 AM</ReportChanged>
   <ReportCreated>11/21/2022 4:20:50 PM</ReportCreated>
-  <ReportFile>C:\Users\heidar\Documents\GitHub\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\Report.mrt</ReportFile>
-  <ReportGuid>e4c9212626ec4cdd8a589dbf7b97dc46</ReportGuid>
+  <ReportFile>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\Report.mrt</ReportFile>
+  <ReportGuid>6db5bc343f094c408ab61de64413fee8</ReportGuid>
   <ReportName>Report</ReportName>
-  <ReportUnit>Inches</ReportUnit>
+  <ReportUnit>Millimeters</ReportUnit>
   <ReportVersion>2022.1.1.0</ReportVersion>
   <Script>using System;
 using System.Drawing;
