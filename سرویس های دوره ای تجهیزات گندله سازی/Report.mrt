@@ -78,13 +78,14 @@
           <Parent isRef="4" />
         </PageHeaderBand1>
         <PageFooterBand1 Ref="7" type="PageFooterBand" isKey="true">
+          <Border>All;Black;1;Solid;False;4;Black</Border>
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,179.84,277,10.16</ClientRectangle>
-          <Components isList="true" count="1">
+          <ClientRectangle>0,164,277,26</ClientRectangle>
+          <Components isList="true" count="2">
             <Text15 Ref="8" type="Text" isKey="true">
               <Border>None;Black;1;Dash;False;4;Black</Border>
               <Brush>Transparent</Brush>
-              <ClientRectangle>0,2,276,6</ClientRectangle>
+              <ClientRectangle>0,20,276,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -98,6 +99,23 @@
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text15>
+            <Text18 Ref="9" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>244,0,32,8</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,16,Bold</Font>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text18</Name>
+              <Page isRef="4" />
+              <Parent isRef="7" />
+              <Text>امضا حاضرین:</Text>
+              <TextBrush>Black</TextBrush>
+              <TextOptions>,,RightToLeft=True,,,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text18>
           </Components>
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
@@ -105,11 +123,11 @@
           <Page isRef="4" />
           <Parent isRef="4" />
         </PageFooterBand1>
-        <GroupHeaderBand1 Ref="9" type="GroupHeaderBand" isKey="true">
+        <GroupHeaderBand1 Ref="10" type="GroupHeaderBand" isKey="true">
           <Brush>Transparent</Brush>
           <ClientRectangle>0,30,277,20</ClientRectangle>
-          <Components isList="true" count="8">
-            <Text2 Ref="10" type="Text" isKey="true">
+          <Components isList="true" count="10">
+            <Text2 Ref="11" type="Text" isKey="true">
               <Border>Top, Right, Bottom;Black;1;Solid;False;4;Black</Border>
               <Brush>[255:255:0]</Brush>
               <ClientRectangle>256,2,20,12</ClientRectangle>
@@ -120,13 +138,14 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text2</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
-              <Text>:کد تجهیز</Text>
+              <Parent isRef="10" />
+              <Text>کد تجهیز:</Text>
               <TextBrush>Black</TextBrush>
+              <TextOptions>,,RightToLeft=True,,,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text2>
-            <Text1 Ref="11" type="Text" isKey="true">
+            <Text1 Ref="12" type="Text" isKey="true">
               <Border>Top, Left, Bottom;Black;1;Solid;False;4;Black</Border>
               <Brush>[255:255:0]</Brush>
               <CanGrow>True</CanGrow>
@@ -138,17 +157,17 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text1</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>{Sheet1.machine_code}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text1>
-            <Text3 Ref="12" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text3 Ref="13" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>236,14,40,6</ClientRectangle>
+              <ClientRectangle>200,14,38,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -156,16 +175,16 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text3</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>جز ماشین</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text3>
-            <Text6 Ref="13" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text6 Ref="14" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
-              <ClientRectangle>72,14,164,6</ClientRectangle>
+              <ClientRectangle>72,14,128,6</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,12,Bold</Font>
@@ -173,14 +192,14 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text6</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>شرح سرویس</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text6>
-            <Text8 Ref="14" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text8 Ref="15" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
               <ClientRectangle>22,14,22,6</ClientRectangle>
               <Conditions isList="true" count="0" />
@@ -190,14 +209,14 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text8</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>مجری</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text8>
-            <Text13 Ref="15" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text13 Ref="16" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
               <ClientRectangle>12,14,10,6</ClientRectangle>
               <Conditions isList="true" count="0" />
@@ -207,14 +226,14 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text13</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>دوره</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text13>
-            <Text10 Ref="16" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text10 Ref="17" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
               <ClientRectangle>0,14,12,6</ClientRectangle>
               <Conditions isList="true" count="0" />
@@ -224,14 +243,14 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text10</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>وضعیت</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text10>
-            <Text16 Ref="17" type="Text" isKey="true">
-              <Border>All;Black;1;Solid;False;4;Black</Border>
+            <Text16 Ref="18" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[0:176:240]</Brush>
               <ClientRectangle>44,14,28,6</ClientRectangle>
               <Conditions isList="true" count="0" />
@@ -241,12 +260,46 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text16</Name>
               <Page isRef="4" />
-              <Parent isRef="9" />
+              <Parent isRef="10" />
               <Text>نوع سرویس</Text>
               <TextBrush>Black</TextBrush>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text16>
+            <Text19 Ref="19" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
+              <Brush>[0:176:240]</Brush>
+              <ClientRectangle>238,14,30,6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,12,Bold</Font>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text19</Name>
+              <Page isRef="4" />
+              <Parent isRef="10" />
+              <Text>کد تجهیز</Text>
+              <TextBrush>Black</TextBrush>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text19>
+            <Text22 Ref="20" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
+              <Brush>[0:176:240]</Brush>
+              <ClientRectangle>268,14,8,6</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,8,Bold</Font>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text22</Name>
+              <Page isRef="4" />
+              <Parent isRef="10" />
+              <Text>ردیف</Text>
+              <TextBrush>Black</TextBrush>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text22>
           </Components>
           <Condition>{Sheet1.machine_code}</Condition>
           <Conditions isList="true" count="0" />
@@ -255,7 +308,7 @@
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupHeaderBand1>
-        <GroupHeaderBand2 Ref="18" type="GroupHeaderBand" isKey="true">
+        <GroupHeaderBand2 Ref="21" type="GroupHeaderBand" isKey="true">
           <Brush>Transparent</Brush>
           <ClientRectangle>0,58,277,0</ClientRectangle>
           <Components isList="true" count="0" />
@@ -266,15 +319,15 @@
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupHeaderBand2>
-        <DataBand1 Ref="19" type="DataBand" isKey="true">
+        <DataBand1 Ref="22" type="DataBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,66,277,10</ClientRectangle>
-          <Components isList="true" count="6">
-            <Text5 Ref="20" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+          <ClientRectangle>0,66,277,8</ClientRectangle>
+          <Components isList="true" count="8">
+            <Text5 Ref="23" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>236,0,40,8</ClientRectangle>
+              <ClientRectangle>200,0,38,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -283,18 +336,18 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text5</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.joze_machine}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text5>
-            <Text7 Ref="21" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text7 Ref="24" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>72,0,164,8</ClientRectangle>
+              <ClientRectangle>72,0,128,8</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Expressions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
@@ -303,15 +356,15 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text7</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.tozihat}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,RightToLeft=True,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text7>
-            <Text9 Ref="22" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text9 Ref="25" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
               <ClientRectangle>22,0,22,8</ClientRectangle>
@@ -323,15 +376,15 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text9</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.vahede_ejraii}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text9>
-            <Text11 Ref="23" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text11 Ref="26" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
               <ClientRectangle>0,0,12,8</ClientRectangle>
@@ -343,15 +396,15 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text11</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.active}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text11>
-            <Text12 Ref="24" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text12 Ref="27" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
               <ClientRectangle>12,0,10,8</ClientRectangle>
@@ -363,15 +416,15 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text12</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.priod}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text12>
-            <Text17 Ref="25" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text17 Ref="28" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
               <ClientRectangle>44,0,28,8</ClientRectangle>
@@ -383,20 +436,58 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text17</Name>
               <Page isRef="4" />
-              <Parent isRef="19" />
+              <Parent isRef="22" />
               <Text>{Sheet1.noe_service}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
               <VertAlignment>Center</VertAlignment>
             </Text17>
+            <Text20 Ref="29" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <CanGrow>True</CanGrow>
+              <ClientRectangle>238,0,30,8</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,10,Bold</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text20</Name>
+              <Page isRef="4" />
+              <Parent isRef="22" />
+              <Text>{Sheet1.machine_code}</Text>
+              <TextBrush>Black</TextBrush>
+              <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
+              <Type>Expression</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text20>
+            <Text21 Ref="30" type="Text" isKey="true">
+              <Border>All;Black;1;Solid;False;4;Black</Border>
+              <Brush>Transparent</Brush>
+              <ClientRectangle>268,0,8,8</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Expressions isList="true" count="0" />
+              <Font>Arial,10,Bold</Font>
+              <GrowToHeight>True</GrowToHeight>
+              <HorAlignment>Center</HorAlignment>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text21</Name>
+              <Page isRef="4" />
+              <Parent isRef="22" />
+              <Text>{LineThrough}</Text>
+              <TextBrush>Black</TextBrush>
+              <Type>SystemVariables</Type>
+              <VertAlignment>Center</VertAlignment>
+            </Text21>
           </Components>
           <Conditions isList="true" count="0" />
           <DataRelationName isNull="true" />
           <DataSourceName>Sheet1</DataSourceName>
           <Expressions isList="true" count="0" />
           <Filters isList="true" count="1">
-            <value>location,BeginningWith,_x0031_,,String</value>
+            <value>machine_code,BeginningWith,_x0031_60,,String</value>
           </Filters>
           <Name>DataBand1</Name>
           <Page isRef="4" />
@@ -406,9 +497,9 @@
             <value>joze_machine</value>
           </Sort>
         </DataBand1>
-        <GroupFooterBand1 Ref="26" type="GroupFooterBand" isKey="true">
+        <GroupFooterBand1 Ref="31" type="GroupFooterBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,84,277,0</ClientRectangle>
+          <ClientRectangle>0,82,277,0</ClientRectangle>
           <Components isList="true" count="0" />
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
@@ -416,12 +507,12 @@
           <Page isRef="4" />
           <Parent isRef="4" />
         </GroupFooterBand1>
-        <GroupFooterBand2 Ref="27" type="GroupFooterBand" isKey="true">
+        <GroupFooterBand2 Ref="32" type="GroupFooterBand" isKey="true">
           <Brush>Transparent</Brush>
-          <ClientRectangle>0,92,277,8</ClientRectangle>
+          <ClientRectangle>0,90,277,8</ClientRectangle>
           <Components isList="true" count="1">
-            <Text14 Ref="28" type="Text" isKey="true">
-              <Border>All;Black;1;Dash;False;4;Black</Border>
+            <Text14 Ref="33" type="Text" isKey="true">
+              <Border>All;Black;2;Solid;False;4;Black</Border>
               <Brush>[255:255:0]</Brush>
               <CanGrow>True</CanGrow>
               <ClientRectangle>0,0,276,6</ClientRectangle>
@@ -432,7 +523,7 @@
               <Margins>0,0,0,0</Margins>
               <Name>Text14</Name>
               <Page isRef="4" />
-              <Parent isRef="27" />
+              <Parent isRef="32" />
               <Text>{Sheet1.machine_code} پایان تجهیز</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
@@ -470,10 +561,10 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>11/22/2022 10:57:31 AM</ReportChanged>
+  <ReportChanged>11/22/2022 6:46:10 PM</ReportChanged>
   <ReportCreated>11/21/2022 4:20:50 PM</ReportCreated>
   <ReportFile>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\Report.mrt</ReportFile>
-  <ReportGuid>6db5bc343f094c408ab61de64413fee8</ReportGuid>
+  <ReportGuid>65dc7d72741946e980e44927bb691d4d</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Millimeters</ReportUnit>
   <ReportVersion>2022.1.1.0</ReportVersion>
