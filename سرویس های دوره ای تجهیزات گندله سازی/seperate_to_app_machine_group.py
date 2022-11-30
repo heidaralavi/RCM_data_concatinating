@@ -27,8 +27,10 @@ for item in gb_category.groups:
             if not os.path.exists(directory):
                 os.makedirs(directory)
             temp=gb_app_asset.get_group(item3).reset_index()
-            temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat'],ascending=True)
+            temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
             temp.drop(['index'],axis=1,inplace=True)
-            temp.to_excel(file_name,index=False)
-    
+            output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
+                        'vahede_ejraii','active']
+            temp[output_col].to_excel(file_name,index=False)
+    break
 
