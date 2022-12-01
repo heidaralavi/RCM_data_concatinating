@@ -3,19 +3,20 @@
   <Dictionary Ref="1" type="Dictionary" isKey="true">
     <BusinessObjects isList="true" count="0" />
     <Databases isList="true" count="1">
-      <clean_data Ref="2" type="Stimulsoft.Report.Dictionary.StiExcelDatabase" isKey="true">
-        <Alias>clean_data</Alias>
+      <service_list_group_by_use_power_query Ref="2" type="Stimulsoft.Report.Dictionary.StiExcelDatabase" isKey="true">
+        <Alias>service_list_group_by_use_power_query</Alias>
         <Key />
-        <Name>clean_data</Name>
-        <PathData>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\clean_data.xlsx</PathData>
-      </clean_data>
+        <Name>service_list_group_by_use_power_query</Name>
+        <PathData>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\service_list_group_by_use_power_query.xlsx</PathData>
+      </service_list_group_by_use_power_query>
     </Databases>
     <DataSources isList="true" count="1">
-      <Sheet1 Ref="3" type="DataTableSource" isKey="true">
-        <Alias>Sheet1</Alias>
-        <Columns isList="true" count="14">
+      <Origin_data Ref="3" type="DataTableSource" isKey="true">
+        <Alias>Origin_data</Alias>
+        <Columns isList="true" count="15">
           <value>location,System.String</value>
           <value>machine_code,System.String</value>
+          <value>changed_machine_code,System.String</value>
           <value>joze_machine,System.String</value>
           <value>sharhe_service_fa,System.String</value>
           <value>service,System.String</value>
@@ -30,10 +31,10 @@
           <value>active,System.String</value>
         </Columns>
         <Dictionary isRef="1" />
-        <Key>bf8899bdda2646b8ba70542ba95e562d</Key>
-        <Name>Sheet1</Name>
-        <NameInSource>clean_data.Sheet1</NameInSource>
-      </Sheet1>
+        <Key>8092fc69f30344c9a9ca238fd2bf3569</Key>
+        <Name>Origin_data</Name>
+        <NameInSource>service_list_group_by_use_power_query.Origin_data</NameInSource>
+      </Origin_data>
     </DataSources>
     <Relations isList="true" count="0" />
     <Report isRef="0" />
@@ -158,7 +159,7 @@
               <Name>Text1</Name>
               <Page isRef="4" />
               <Parent isRef="10" />
-              <Text>{Sheet1.machine_code}</Text>
+              <Text>{Origin_data.machine_code}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -301,7 +302,7 @@
               <VertAlignment>Center</VertAlignment>
             </Text22>
           </Components>
-          <Condition>{Sheet1.machine_code}</Condition>
+          <Condition>{Origin_data.machine_code}</Condition>
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
           <Name>GroupHeaderBand1</Name>
@@ -312,7 +313,7 @@
           <Brush>Transparent</Brush>
           <ClientRectangle>0,58,277,0</ClientRectangle>
           <Components isList="true" count="0" />
-          <Condition>{Sheet1.joze_machine}</Condition>
+          <Condition>{Origin_data.joze_machine}</Condition>
           <Conditions isList="true" count="0" />
           <Expressions isList="true" count="0" />
           <Name>GroupHeaderBand2</Name>
@@ -337,7 +338,7 @@
               <Name>Text5</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.joze_machine}</Text>
+              <Text>{Origin_data.joze_machine}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -357,7 +358,7 @@
               <Name>Text7</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.tozihat}</Text>
+              <Text>{Origin_data.tozihat}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,RightToLeft=True,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -377,7 +378,7 @@
               <Name>Text9</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.vahede_ejraii}</Text>
+              <Text>{Origin_data.vahede_ejraii}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -397,7 +398,7 @@
               <Name>Text11</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.active}</Text>
+              <Text>{Origin_data.active}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -417,7 +418,7 @@
               <Name>Text12</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.priod}</Text>
+              <Text>{Origin_data.priod}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -437,7 +438,7 @@
               <Name>Text17</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.noe_service}</Text>
+              <Text>{Origin_data.noe_service}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -457,7 +458,7 @@
               <Name>Text20</Name>
               <Page isRef="4" />
               <Parent isRef="22" />
-              <Text>{Sheet1.machine_code}</Text>
+              <Text>{Origin_data.machine_code}</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -484,7 +485,7 @@
           </Components>
           <Conditions isList="true" count="0" />
           <DataRelationName isNull="true" />
-          <DataSourceName>Sheet1</DataSourceName>
+          <DataSourceName>Origin_data</DataSourceName>
           <Expressions isList="true" count="0" />
           <Filters isList="true" count="1">
             <value>machine_code,BeginningWith,_x0031_60,,String</value>
@@ -492,10 +493,7 @@
           <Name>DataBand1</Name>
           <Page isRef="4" />
           <Parent isRef="4" />
-          <Sort isList="true" count="2">
-            <value>ASC</value>
-            <value>joze_machine</value>
-          </Sort>
+          <Sort isList="true" count="0" />
         </DataBand1>
         <GroupFooterBand1 Ref="31" type="GroupFooterBand" isKey="true">
           <Brush>Transparent</Brush>
@@ -524,7 +522,7 @@
               <Name>Text14</Name>
               <Page isRef="4" />
               <Parent isRef="32" />
-              <Text>{Sheet1.machine_code} پایان تجهیز</Text>
+              <Text>{Origin_data.machine_code} پایان تجهیز</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -561,10 +559,10 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>11/22/2022 6:46:10 PM</ReportChanged>
+  <ReportChanged>12/1/2022 12:03:05 PM</ReportChanged>
   <ReportCreated>11/21/2022 4:20:50 PM</ReportCreated>
   <ReportFile>C:\Users\h.alavi\Documents\RCM_data_concatinating\سرویس های دوره ای تجهیزات گندله سازی\Report.mrt</ReportFile>
-  <ReportGuid>65dc7d72741946e980e44927bb691d4d</ReportGuid>
+  <ReportGuid>145761e0be274a50a9d43247aa6e506b</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Millimeters</ReportUnit>
   <ReportVersion>2022.1.1.0</ReportVersion>

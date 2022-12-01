@@ -30,7 +30,7 @@ for item in gb_category.groups:
             temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
             temp.drop(['index'],axis=1,inplace=True)
             output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
-                        'vahede_ejraii','active']
+                        'vahede_ejraii','active','Table3.category-class']
             temp[output_col].to_excel(file_name,index=False)
-    break
+    
 
