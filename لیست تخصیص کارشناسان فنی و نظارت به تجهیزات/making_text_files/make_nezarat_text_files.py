@@ -21,7 +21,7 @@ nasouz = main_dict[sheet_names[7]].to_dict(orient='records')
 
 #make daftarfanni text file
 
-f = open("daftar_fanni.txt", "w",encoding='utf-16')
+f = open("nezarat.txt", "w",encoding='utf-16')
 f.write('SELECT        FQ.PositionID\n')
 f.write('FROM            (\n')
 
@@ -33,27 +33,27 @@ for position in position_ID:
             code_system = system['کد سیستم']
           
             #for items in abzardaghigh:
-            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام شخص کارشناس نظارت']==position_name:
             #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
             #        f.write(text_line)
                             
             #for items in automasion:
-            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام شخص کارشناس نظارت']==position_name:
             #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
             #        f.write(text_line)
 
-            #for items in labratory:
-            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
-            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
-            #        f.write(text_line)
-
-            for items in transport:
-                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            for items in labratory:
+                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام شخص کارشناس نظارت']==position_name:
                     text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
                     f.write(text_line)
+
+            #for items in transport:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام شخص کارشناس نظارت']==position_name:
+            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+            #        f.write(text_line)
   
             #for items in nasouz:
-            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام شخص کارشناس نظارت']==position_name:
             #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
             #        f.write(text_line)
 
