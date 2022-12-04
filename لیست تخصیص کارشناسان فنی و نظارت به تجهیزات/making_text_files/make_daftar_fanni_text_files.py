@@ -38,10 +38,26 @@ for position in position_ID:
                     text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
                     f.write(text_line)
                             
-
-
-
-
+            for items in automasion:
+                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+                    f.write(text_line)
+  
+            for items in labratory:
+                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+                    f.write(text_line)
+  
+            for items in transport:
+                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+                    f.write(text_line)
+  
+            for items in transport:
+                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+                    f.write(text_line)
+  
 
 f.write(') AS FQ RIGHT OUTER JOIN\n')
 f.write('dbo.WorkOrder ON FQ.ParentSystemID =\n')
