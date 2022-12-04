@@ -32,32 +32,32 @@ for position in position_ID:
         trade_name = trade['Name']
         for system in system_ID:
             code_system = system['کد سیستم']
-            
+          
             for items in abzardaghigh:
                 if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
                     text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
                     f.write(text_line)
                             
-            for items in automasion:
-                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
-                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
-                    f.write(text_line)
+            #for items in automasion:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+            #        f.write(text_line)
+
+            #for items in labratory:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+            #        f.write(text_line)
+
+            #for items in transport:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+            #        f.write(text_line)
   
-            for items in labratory:
-                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
-                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
-                    f.write(text_line)
-  
-            for items in transport:
-                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
-                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
-                    f.write(text_line)
-  
-            for items in transport:
-                if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
-                    text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
-                    f.write(text_line)
-  
+            #for items in transport:
+            #    if items['کد سیستم'] == code_system and items['نوع کار']==trade_name and items['نام کارشناس دفتر فنی']==position_name:
+            #        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system['ID'],trade['ID'],position['Position ID'],code_system,position_name,trade_name)
+            #        f.write(text_line)
+
 
 f.write(') AS FQ RIGHT OUTER JOIN\n')
 f.write('dbo.WorkOrder ON FQ.ParentSystemID =\n')
@@ -67,42 +67,3 @@ f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
 f.close()
 
 
-
-'''
-for items in nasouz:
-    print(items['نام کارشناس دفتر فنی'])
-    #line_text='{} {}\n'.format(items['Name'],items['ID'])
-
-
-for sheet in sheet_names:
-    df=pd.read_excel("Origin.xlsx",dtype=str, sheet_name=sheet)
-    dic=df.to_dict(orient='records')
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-df=pd.read_excel("a.xlsx",dtype=str,, sheet_name='Employees')
-f = open("demofile3.txt", "w")
-
-
-dic=df.to_dict(orient='records')
-
-for items in dic:
-    print(items['name'],items['id'])
-    line_text='{} {}\n'.format(items['name'],items['id'])
-    f.write(line_text)
-    
-f.close()
-'''
