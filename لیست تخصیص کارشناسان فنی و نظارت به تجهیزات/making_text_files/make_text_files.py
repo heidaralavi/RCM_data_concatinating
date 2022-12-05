@@ -1,7 +1,8 @@
 import pandas as pd
+import numpy as np
 
 # read origin file
-main_dict = pd.read_excel("Origin.xlsx", sheet_name=None)
+main_dict = pd.read_excel("Origin.xlsx", sheet_name=None,keep_default_na=True)
 sheet_names=list(main_dict.keys())
 
 
@@ -14,6 +15,7 @@ automasion = main_dict[sheet_names[4]].to_dict(orient='records')
 labratory = main_dict[sheet_names[5]].to_dict(orient='records')
 transport = main_dict[sheet_names[6]].to_dict(orient='records')
 nasouz = main_dict[sheet_names[7]].to_dict(orient='records')
+mechanic = main_dict[sheet_names[9]].to_dict(orient='records')
 #IT = main_dict[sheet_names[8]].to_dict(orient='records')
 
 
@@ -40,8 +42,10 @@ def make_text_body(body,naghsh):
         code_system = items['کد سیستم']
         trade_name = items['نوع کار']
         position_name = items[naghsh]
-        text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system_id_returner(code_system),trade_id_returner(trade_name),position_id_returner(position_name),code_system,position_name,trade_name)
-        f.write(text_line)
+        print(position_name)
+        if position_name :
+            text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system_id_returner(code_system),trade_id_returner(trade_name),position_id_returner(position_name),code_system,position_name,trade_name)
+            f.write(text_line)
 
 
 #header and footer
@@ -58,19 +62,19 @@ def make_file(fname,vahed,naghsh):
     f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
     f.close()
 
+make_file('aa.txt',mechanic,"نام کارشناس دفتر فنی")
+#make_file('پامیدکو آزمایشگاه و کنترل فرآیند.txt',labratory,"نام کارشناس دفتر فنی")
+#make_file('پامیدکو ابزاردقیق.txt',abzardaghigh,"نام کارشناس دفتر فنی")
+#make_file('پامیدکو اتوماسیون.txt',automasion,"نام کارشناس دفتر فنی")
+#make_file('پامیدکو ترانسپورت.txt',transport,"نام کارشناس دفتر فنی")
+#make_file('پامیدکو نسوز.txt',nasouz,"نام کارشناس دفتر فنی")
 
-make_file('پامیدکو آزمایشگاه و کنترل فرآیند.txt',labratory,"نام کارشناس دفتر فنی")
-make_file('پامیدکو ابزاردقیق.txt',abzardaghigh,"نام کارشناس دفتر فنی")
-make_file('پامیدکو اتوماسیون.txt',automasion,"نام کارشناس دفتر فنی")
-make_file('پامیدکو ترانسپورت.txt',transport,"نام کارشناس دفتر فنی")
-make_file('پامیدکو نسوز.txt',nasouz,"نام کارشناس دفتر فنی")
 
-
-make_file('نظارت آزمایشگاه و فرآیند.txt',labratory,"نام شخص کارشناس نظارت")
-make_file('نظارت ابزاردقیق.txt',abzardaghigh,"نام شخص کارشناس نظارت")
-make_file('نظارت اتوماسیون.txt',automasion,"نام شخص کارشناس نظارت")
-make_file('نظارت ترانسپورت.txt',transport,"نام شخص کارشناس نظارت")
-make_file('نظارت نسوز.txt',transport,"نام شخص کارشناس نظارت")
+#make_file('نظارت آزمایشگاه و فرآیند.txt',labratory,"نام شخص کارشناس نظارت")
+#make_file('نظارت ابزاردقیق.txt',abzardaghigh,"نام شخص کارشناس نظارت")
+#make_file('نظارت اتوماسیون.txt',automasion,"نام شخص کارشناس نظارت")
+#make_file('نظارت ترانسپورت.txt',transport,"نام شخص کارشناس نظارت")
+#make_file('نظارت نسوز.txt',transport,"نام شخص کارشناس نظارت")
 
 
 
