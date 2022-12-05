@@ -41,9 +41,8 @@ def make_text_body(body,naghsh):
     for items in body:
         code_system = items['کد سیستم']
         trade_name = items['نوع کار']
-        position_name = items[naghsh]
-        print(position_name)
-        if position_name :
+        position_name = str(items[naghsh])
+        if position_name != "nan" :
             text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system_id_returner(code_system),trade_id_returner(trade_name),position_id_returner(position_name),code_system,position_name,trade_name)
             f.write(text_line)
 
@@ -54,7 +53,8 @@ def make_file(fname,vahed,naghsh):
     f = open(fname, "w",encoding='utf-16')
     f.write('SELECT        FQ.PositionID\n')
     f.write('FROM            (\n')
-    make_text_body(vahed,naghsh)
+    for i in range(len(vahed)):
+        make_text_body(vahed[i],naghsh)
     f.write(') AS FQ RIGHT OUTER JOIN\n')
     f.write('dbo.WorkOrder ON FQ.ParentSystemID =\n')
     f.write('dbo.WorkOrder.ParentSystemID AND FQ.WoTradeID =\n')
@@ -62,19 +62,18 @@ def make_file(fname,vahed,naghsh):
     f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
     f.close()
 
-make_file('aa.txt',mechanic,"نام کارشناس دفتر فنی")
-#make_file('پامیدکو آزمایشگاه و کنترل فرآیند.txt',labratory,"نام کارشناس دفتر فنی")
-#make_file('پامیدکو ابزاردقیق.txt',abzardaghigh,"نام کارشناس دفتر فنی")
-#make_file('پامیدکو اتوماسیون.txt',automasion,"نام کارشناس دفتر فنی")
-#make_file('پامیدکو ترانسپورت.txt',transport,"نام کارشناس دفتر فنی")
-#make_file('پامیدکو نسوز.txt',nasouz,"نام کارشناس دفتر فنی")
 
 
-#make_file('نظارت آزمایشگاه و فرآیند.txt',labratory,"نام شخص کارشناس نظارت")
-#make_file('نظارت ابزاردقیق.txt',abzardaghigh,"نام شخص کارشناس نظارت")
-#make_file('نظارت اتوماسیون.txt',automasion,"نام شخص کارشناس نظارت")
-#make_file('نظارت ترانسپورت.txt',transport,"نام شخص کارشناس نظارت")
-#make_file('نظارت نسوز.txt',transport,"نام شخص کارشناس نظارت")
+#make summery file from all 
+#vahed_ejraii = [mechanic,transport,abzardaghigh,automasion,labratory,nasouz]
+vahed_ejraii = [mechanic]
+
+make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
+
+
+make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
+
+
 
 
 
