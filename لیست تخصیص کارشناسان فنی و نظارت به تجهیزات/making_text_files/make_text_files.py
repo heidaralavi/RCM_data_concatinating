@@ -15,8 +15,11 @@ automasion = main_dict[sheet_names[4]].to_dict(orient='records')
 labratory = main_dict[sheet_names[5]].to_dict(orient='records')
 transport = main_dict[sheet_names[6]].to_dict(orient='records')
 nasouz = main_dict[sheet_names[7]].to_dict(orient='records')
+hydrolic = main_dict[sheet_names[8]].to_dict(orient='records')
 mechanic = main_dict[sheet_names[9]].to_dict(orient='records')
-#IT = main_dict[sheet_names[8]].to_dict(orient='records')
+tasisat = main_dict[sheet_names[10]].to_dict(orient='records')
+bargh = main_dict[sheet_names[11]].to_dict(orient='records')
+
 
 
 #ID returner functions
@@ -65,8 +68,8 @@ def make_file(fname,vahed,naghsh):
 
 
 #make summery file from all 
-#vahed_ejraii = [mechanic,transport,abzardaghigh,automasion,labratory,nasouz]
-vahed_ejraii = [mechanic]
+vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
+#vahed_ejraii = [mechanic]
 
 make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
 
