@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import os
 
 def find_dore(dore):
@@ -37,21 +36,36 @@ for item in gb_category.groups:
     for item2 in gb_priod.groups:
         sub_df2=gb_priod.get_group(item2)
         gb_noekar=sub_df2.groupby('noekar.ID')
+        
         for item3 in gb_noekar.groups:
             
             i=1
             cart_faaliat_code='PM.{}.{}.{}.{}'.format(item3,find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
             directory = ".\\moshtarak\\{}\\".format(item) 
             file_name = ".\\moshtarak\\{}\\{}-{}.xlsx".format(item,cart_faaliat_code,item2)
+            
             if not os.path.exists(directory):
                 os.makedirs(directory)
             temp=gb_noekar.get_group(item3).reset_index()
             temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
+            text='پی ام های {} - {} تجهیزات ({}) '.format(temp['noekar.نوع کار'][0],find_dore(int(item2))[0],item)
+            temp.reset_index(inplace=True)
+            temp.drop(['index'],axis=1,inplace=True)
+            output_col=['tozihat_taxonomy','active']
+            temp=temp[output_col]
+            temp.rename(columns={'tozihat_taxonomy': 'شرح و دستورالعمل'}, inplace=True)
+            temp.insert(loc=0, column='کد کارت فعالیت', value=cart_faaliat_code)
+            temp.insert(loc=1, column='ترتیب', value= temp.index+1)
+            temp.insert(loc=2, column='شرح کار یا فعالیت', value= text)
+            temp.insert(loc=3, column='زمان انجام دقیقه', value= '')
+            temp.insert(loc=4, column='زمان انجام ساعت', value= '')
+            temp.insert(loc=6, column='نکات ایمنی', value= '')
+            temp.insert(loc=7, column='نرخ انجام', value= '')
 
-            output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
-                    'vahede_ejraii','active','Table3.category-class']
-            temp[output_col].to_excel(file_name,index=False)
-
+            temp.to_excel(file_name,index=False)
+            
+            
+        
         
      
         
