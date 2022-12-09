@@ -35,19 +35,22 @@ for item in gb_category.groups:
     gb_priod=sub_df1.groupby('priod')
     
     for item2 in gb_priod.groups:
-        i=1
-        cart_faaliat_code='PM.{}.{}.{}'.format(find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
-        
-        directory = ".\\moshtarak\\{}\\".format(item) 
-        file_name = ".\\moshtarak\\{}\\{}-{}.xlsx".format(item,cart_faaliat_code,item2)
-        if not os.path.exists(directory):
-            os.makedirs(directory)
-        temp=gb_priod.get_group(item2).reset_index()
-        temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
+        sub_df2=gb_priod.get_group(item2)
+        gb_noekar=sub_df2.groupby('noekar.ID')
+        for item3 in gb_noekar.groups:
+            
+            i=1
+            cart_faaliat_code='PM.{}.{}.{}.{}'.format(item3,find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
+            directory = ".\\moshtarak\\{}\\".format(item) 
+            file_name = ".\\moshtarak\\{}\\{}-{}.xlsx".format(item,cart_faaliat_code,item2)
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            temp=gb_noekar.get_group(item3).reset_index()
+            temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
 
-        output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
+            output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
                     'vahede_ejraii','active','Table3.category-class']
-        temp[output_col].to_excel(file_name,index=False)
+            temp[output_col].to_excel(file_name,index=False)
 
         
      
@@ -57,22 +60,4 @@ for item in gb_category.groups:
         
         
         
-        
-        
-'''        
-        
-        
-        gb_app_asset=sub_df2.groupby('machine_code - Copy.1.1.1')
-        for item3 in gb_app_asset.groups:
-            directory = ".\\moshtarek\\{}\\".format(item) 
-            file_name = ".\\moshtarek\\{}\\{}-{}-{}.xlsx".format(item,item,item3,item2)
-            if not os.path.exists(directory):
-                os.makedirs(directory)
-            temp=gb_app_asset.get_group(item3).reset_index()
-            temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
-            temp.drop(['index'],axis=1,inplace=True)
-            output_col=['location','machine_code','tozihat_taxonomy','priod','noe_service',
-                        'vahede_ejraii','active','Table3.category-class']
-            temp[output_col].to_excel(file_name,index=False)
-    
-'''
+
