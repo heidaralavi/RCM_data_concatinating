@@ -3,6 +3,24 @@ import numpy as np
 import os
 
 
+
+def find_dore(dore):
+    for items in dore_service_dict:
+        #print(dore)
+        if items['Column1'] == dore:
+            return items['Column2'],items['Column3'],items['Column4'],items['Column5']
+    
+def find_groups(App_groups):
+    for items in groups_dict:
+        if items['app_machine_group'] == App_groups:
+            return items['Column1']
+        
+
+dore_service_dict=pd.read_excel("dore_service.xlsx").to_dict(orient='records')
+
+groups_dict=pd.read_excel("App_groups_Vs_Parseh.xlsx").to_dict(orient='records')
+
+
 df=pd.read_excel("service_list_group_by_use_power_query.xlsx",dtype=str)
 print(df.head())
 
@@ -21,9 +39,13 @@ for item in gb_category.groups:
     for item2 in gb_priod.groups:
         sub_df2=gb_priod.get_group(item2)
         gb_app_asset=sub_df2.groupby('machine_code - Copy.1.1.1')
+        i=1
         for item3 in gb_app_asset.groups:
+            
+            cart_faaliat_code='PM.{}.{}.{}'.format(find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
+            i=i+1
             directory = ".\\test\\{}\\".format(item) 
-            file_name = ".\\test\\{}\\{}-{}-{}.xlsx".format(item,item,item3,item2)
+            file_name = ".\\test\\{}\\{}-{}.xlsx".format(item,cart_faaliat_code,item2)
             if not os.path.exists(directory):
                 os.makedirs(directory)
             temp=gb_app_asset.get_group(item3).reset_index()
