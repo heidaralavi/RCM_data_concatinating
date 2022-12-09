@@ -35,12 +35,17 @@ for item in gb_category.groups:
     sub_df1=gb_category.get_group(item)
     gb_priod=sub_df1.groupby('priod')
     for item2 in gb_priod.groups:
-        temp=gb_priod.get_group(item2).reset_index().drop('index',axis=1)
-        temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
-        for item3 in temp['location']:
+        sub_df2=gb_priod.get_group(item2)
+        gb_noekar=sub_df2.groupby('noekar.ID')
+        for item3 in gb_noekar.groups:
+            
+            temp=gb_noekar.get_group(item3).reset_index()
+            temp=temp.drop_duplicates(subset=['service_no_taxonomy'],keep='first').sort_values(by=['tozihat_taxonomy'],ascending=True)
+            #print(temp['noekar.نوع کار'])
             i=1
-            text='پی ام های {} تجهیزات ({}) '.format(find_dore(int(item2))[0],item)
-            cart_faaliat_code='PM.{}.{}.{}'.format(find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
+            text='پی ام های {} - {} تجهیزات ({}) '.format(temp['noekar.نوع کار'][0],find_dore(int(item2))[0],item)
+            #print(text)
+            cart_faaliat_code='PM.{}.{}.{}.{}'.format(item3,find_dore(int(item2))[1],find_groups(item),str(i).zfill(4))
             i=i+1
             jobcard_test_dict['Name نام کارت فعالیت'].append(text)
             jobcard_test_dict['Code کد کارت فعالت'].append(cart_faaliat_code)
@@ -55,7 +60,7 @@ for item in gb_category.groups:
                 jobcard_test_dict['MeterUnit واحد کارکردی'].append('')
                 jobcard_test_dict['MeterPeriod دوره کارکردی'].append('')
  
-            jobcard_test_dict['WorkTrade نوع کار'].append(temp['vahede_ejraii'][0])
+            jobcard_test_dict['WorkTrade نوع کار'].append(temp['noekar.نوع کار'][0])
             jobcard_test_dict['AssetClass کلاس دستگاه'].append(temp['Table3.category-class'][0])
             jobcard_test_dict['Department مجری'].append(temp['vahede_ejraii'][0])
 
