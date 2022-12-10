@@ -62,7 +62,7 @@ for item in gb_category.groups:
  
             jobcard_test_dict['WorkTrade نوع کار'].append(temp['noekar.نوع کار'][0])
             jobcard_test_dict['AssetClass کلاس دستگاه'].append(temp['Table3.category-class'][0])
-            jobcard_test_dict['Department مجری'].append(temp['vahede_ejraii'][0])
+            jobcard_test_dict['Department مجری'].append(temp['mojri.Department مجری'][0])
 
 
 jobcard_test=pd.DataFrame(jobcard_test_dict).drop_duplicates(subset=['Name نام کارت فعالیت'],keep='first')
