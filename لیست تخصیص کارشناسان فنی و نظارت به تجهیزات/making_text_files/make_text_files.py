@@ -10,15 +10,16 @@ sheet_names=list(main_dict.keys())
 position_ID = main_dict[sheet_names[0]].to_dict(orient='records')
 system_ID = main_dict[sheet_names[1]].to_dict(orient='records')
 trade_ID = main_dict[sheet_names[2]].to_dict(orient='records')
-abzardaghigh = main_dict[sheet_names[3]].to_dict(orient='records')
-automasion = main_dict[sheet_names[4]].to_dict(orient='records')
-labratory = main_dict[sheet_names[5]].to_dict(orient='records')
-transport = main_dict[sheet_names[6]].to_dict(orient='records')
-nasouz = main_dict[sheet_names[7]].to_dict(orient='records')
-hydrolic = main_dict[sheet_names[8]].to_dict(orient='records')
-mechanic = main_dict[sheet_names[9]].to_dict(orient='records')
-tasisat = main_dict[sheet_names[10]].to_dict(orient='records')
-bargh = main_dict[sheet_names[11]].to_dict(orient='records')
+ejraii_ID = main_dict[sheet_names[3]].to_dict(orient='records')
+abzardaghigh = main_dict[sheet_names[4]].to_dict(orient='records')
+automasion = main_dict[sheet_names[5]].to_dict(orient='records')
+labratory = main_dict[sheet_names[6]].to_dict(orient='records')
+transport = main_dict[sheet_names[7]].to_dict(orient='records')
+nasouz = main_dict[sheet_names[8]].to_dict(orient='records')
+hydrolic = main_dict[sheet_names[9]].to_dict(orient='records')
+mechanic = main_dict[sheet_names[10]].to_dict(orient='records')
+tasisat = main_dict[sheet_names[11]].to_dict(orient='records')
+bargh = main_dict[sheet_names[12]].to_dict(orient='records')
 
 
 
@@ -38,6 +39,8 @@ def trade_id_returner(text):
         if item['Name'] == text:
             return item['ID']
         
+
+
 
 #body text generator
 def make_text_body(body,naghsh):
@@ -65,16 +68,31 @@ def make_file(fname,vahed,naghsh):
     f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
     f.close()
 
-
+def make_ejraii_file(fname,column):
+    global f
+    f = open(fname, "w",encoding='utf-16')
+    f.write('select case\n')
+    for item in ejraii_ID:
+        text_line='when DepartmentID = \'{}\' then \'{}\''.format(item['ID'],position_id_returner(item[column]))
+        f.write(text_line)
+        f.write('\n')
+    f.write('else \'7c70790f-81e3-4efd-ae03-700d677984bd\'\n')
+    f.write('end\n')
+    f.write('from dbo.WorkOrder\n')
+    f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
+    f.close()
 
 #make summery file from all 
 vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
 #vahed_ejraii = [mechanic]
 
-make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
+#make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
 
 
-make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
+#make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
+
+make_ejraii_file('raiis_ejraii_summery.txt','رئیس اجرایی')
+make_ejraii_file('sarparast_ejraii_summery.txt','سرپرست واحد اجرایی')
 
 
 
