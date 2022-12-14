@@ -86,10 +86,10 @@ def make_ejraii_file(fname,column):
 vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
 #vahed_ejraii = [mechanic]
 
-#make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
+make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
 
 
-#make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
+make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
 
 make_ejraii_file('raiis_ejraii_summery.txt','رئیس اجرایی')
 make_ejraii_file('sarparast_ejraii_summery.txt','سرپرست واحد اجرایی')
