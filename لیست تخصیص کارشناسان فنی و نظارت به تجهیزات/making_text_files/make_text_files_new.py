@@ -1,63 +1,22 @@
 import pandas as pd
-import numpy as np
+
 
 
 
 # make sheet data as dataframe
-position_ID = pd.read_excel("Origin.xlsx", sheet_name='Position_ID')
-system_ID = pd.read_excel("Origin.xlsx", sheet_name='System_ID')
-trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID')
-ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی')
-abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق')
-automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون')
-labratory = pd.read_excel("Origin.xlsx", sheet_name='آزمایشگاه و کنترل فرایند')
-transport = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی ترانسپورت')
-nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز')
-hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روانکاری')
-mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک')
-tasisat = pd.read_excel("Origin.xlsx", sheet_name='تاسیسات آبرسانی')
-bargh = pd.read_excel("Origin.xlsx", sheet_name='برق')
-
-
-
-vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
-#vahed_ejraii = [mechanic]
-
-
-for radif,vahed in enumerate(vahed_ejraii):
-    for index,items in vahed.iterrows():
-        code_system_ID = system_ID['ID'].loc[system_ID['کد سیستم']==items['کد سیستم']].values[0]
-        trade_name_ID = trade_ID['ID'].loc[trade_ID['Name'] == items['نوع کار']].values[0]
-        position_name_ID = position_ID['Position ID'].loc[position_ID['Employee'] == items['نام کارشناس دفتر فنی']].values
-        text='hello {}'.format(position_name_ID[0])
-        print(radif,text)
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
+position_ID = pd.read_excel("Origin.xlsx", sheet_name='Position_ID').to_dict(orient='records')
+system_ID = pd.read_excel("Origin.xlsx", sheet_name='System_ID').to_dict(orient='records')
+trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID').to_dict(orient='records')
+ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی').to_dict(orient='records')
+abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق').to_dict(orient='records')
+automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون').to_dict(orient='records')
+labratory = pd.read_excel("Origin.xlsx", sheet_name='آزمایشگاه و کنترل فرایند').to_dict(orient='records')
+transport = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی ترانسپورت').to_dict(orient='records')
+nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز').to_dict(orient='records')
+hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روانکاری').to_dict(orient='records')
+mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک').to_dict(orient='records')
+tasisat = pd.read_excel("Origin.xlsx", sheet_name='تاسیسات آبرسانی').to_dict(orient='records')
+bargh = pd.read_excel("Origin.xlsx", sheet_name='برق').to_dict(orient='records')
 
 
 
@@ -79,39 +38,51 @@ def trade_id_returner(text):
         
 
 
-
-#body text generator
-def make_text_body(body,naghsh):
-    for items in body:
-        code_system = items['کد سیستم']
-        trade_name = items['نوع کار']
-        position_name = str(items[naghsh])
-        if position_name != "nan" :
-            text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(system_id_returner(code_system),trade_id_returner(trade_name),position_id_returner(position_name),code_system,position_name,trade_name)
-            f.write(text_line)
-
-
-#header and footer
-def make_file(fname,vahed,naghsh):
-    global f
+def make_naghsh(fname,naghsh='نام کارشناس دفتر فنی'):
+    vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
+    #vahed_ejraii = [mechanic]
     f = open(fname, "w",encoding='utf-16')
     f.write('SELECT        FQ.PositionID\n')
     f.write('FROM            (\n')
-    for i in range(len(vahed)):
-        make_text_body(vahed[i],naghsh)
+        
+    for radif,vahed in enumerate(vahed_ejraii):
+        i=0
+        for items in vahed:
+            code_system_ID =system_id_returner(items['کد سیستم'])
+            trade_name_ID = trade_id_returner(items['نوع کار'])
+            position_name_ID = position_id_returner(items[naghsh])
+                        
+            if radif == 0 and i ==0:
+                text_line='SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],items[naghsh],items['نوع کار'])
+                f.write(text_line)
+                
+            i=i+1
+            text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],items[naghsh],items['نوع کار'])
+            f.write(text_line)
+            
+    
     f.write(') AS FQ RIGHT OUTER JOIN\n')
     f.write('dbo.WorkOrder ON FQ.ParentSystemID =\n')
     f.write('dbo.WorkOrder.ParentSystemID AND FQ.WoTradeID =\n')
     f.write('dbo.WorkOrder.WOTradeID\n')
     f.write('WHERE (WorkOrder.ID LIKE \'{0}\')\n')
     f.close()
+    
+
+
+make_naghsh('نقش دفترفنی.txt',naghsh='نام کارشناس دفتر فنی')
+make_naghsh('نقش نظارت.txt',naghsh='نام شخص کارشناس نظارت')
+
+
+
+    
 
 def make_ejraii_file(fname,column):
     global f
     f = open(fname, "w",encoding='utf-16')
     f.write('select case\n')
     for item in ejraii_ID:
-        text_line='when DepartmentID = \'{}\' then \'{}\''.format(item['ID'],position_id_returner(item[column]))
+        text_line='when DepartmentID = \'{}\' then \'{}\' --{}-{}'.format(item['ID'],position_id_returner(item[column]),item['Name'],item[column])
         f.write(text_line)
         f.write('\n')
     f.write('else \'7c70790f-81e3-4efd-ae03-700d677984bd\'\n')
@@ -121,19 +92,13 @@ def make_ejraii_file(fname,column):
     f.close()
 
 #make summery file from all 
-vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
-#vahed_ejraii = [mechanic]
-
-make_file('pamidco_summery.txt',vahed_ejraii,"نام کارشناس دفتر فنی")
 
 
-make_file('nezarat_summery.txt',vahed_ejraii,"نام شخص کارشناس نظارت")
-
-make_ejraii_file('raiis_ejraii_summery.txt','رئیس اجرایی')
-make_ejraii_file('sarparast_ejraii_summery.txt','سرپرست واحد اجرایی')
+make_ejraii_file('نقش رییس اجرایی.txt','رئیس اجرایی')
+make_ejraii_file('نقش سرپرست اجرایی.txt','سرپرست واحد اجرایی')
 
 
-'''
+
 
 
 
