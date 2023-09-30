@@ -23,8 +23,13 @@ bargh = pd.read_excel("Origin.xlsx", sheet_name='برق').to_dict(orient='record
 #ID returner functions
 def position_id_returner(text):
     for item in position_ID:
-        if item['Employee'] == text:
+        if item['Position'] == text:
             return item['Position ID']
+
+def name_returner(text):
+    for item in position_ID:
+        if item['Position'] == text:
+            return item['Employee']
 
 def system_id_returner(text):
     for item in system_ID:
@@ -38,7 +43,7 @@ def trade_id_returner(text):
         
 
 
-def make_naghsh(fname,naghsh='نام کارشناس دفتر فنی'):
+def make_naghsh(fname,naghsh='سمت کارشناس دفتر فنی'):
     vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
     #vahed_ejraii = [mechanic]
     f = open(fname, "w",encoding='utf-16')
@@ -50,14 +55,16 @@ def make_naghsh(fname,naghsh='نام کارشناس دفتر فنی'):
         for items in vahed:
             code_system_ID =system_id_returner(items['کد سیستم'])
             trade_name_ID = trade_id_returner(items['نوع کار'])
+            #position_name_ID = items[naghsh]
             position_name_ID = position_id_returner(items[naghsh])
+            employee_name = name_returner(items[naghsh])
                         
             if radif == 0 and i ==0:
-                text_line='SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],items[naghsh],items['نوع کار'])
+                text_line='SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],employee_name,items['نوع کار'])
                 f.write(text_line)
                 
             i=i+1
-            text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],items[naghsh],items['نوع کار'])
+            text_line='UNION ALL SELECT \'{}\' as ParentSystemID, \'{}\' as WoTradeID, \'{}\' as PositionID --{}-{}-{}\n'.format(code_system_ID,trade_name_ID,position_name_ID,items['کد سیستم'],employee_name,items['نوع کار'])
             f.write(text_line)
             
     
@@ -70,8 +77,8 @@ def make_naghsh(fname,naghsh='نام کارشناس دفتر فنی'):
     
 
 
-make_naghsh('نقش دفترفنی.txt',naghsh='نام کارشناس دفتر فنی')
-make_naghsh('نقش نظارت.txt',naghsh='نام شخص کارشناس نظارت')
+make_naghsh('نقش دفترفنی.txt',naghsh='سمت کارشناس دفتر فنی')
+make_naghsh('نقش نظارت.txt',naghsh='سمت کارشناس نظارت')
 
 
 
