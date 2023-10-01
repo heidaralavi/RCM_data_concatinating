@@ -10,8 +10,9 @@ trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID').to_dict(orient='r
 ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی').to_dict(orient='records')
 abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق').to_dict(orient='records')
 automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون').to_dict(orient='records')
-labratory = pd.read_excel("Origin.xlsx", sheet_name='آزمایشگاه و کنترل فرایند').to_dict(orient='records')
-transport = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی ترانسپورت').to_dict(orient='records')
+labratory = pd.read_excel("Origin.xlsx", sheet_name='کنترل فرآیند').to_dict(orient='records')
+transport1 = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی').to_dict(orient='records')
+transport2 = pd.read_excel("Origin.xlsx", sheet_name='ترانسپورت').to_dict(orient='records')
 nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز').to_dict(orient='records')
 hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روانکاری').to_dict(orient='records')
 mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک').to_dict(orient='records')
@@ -44,7 +45,7 @@ def trade_id_returner(text):
 
 
 def make_naghsh(fname,naghsh='سمت کارشناس دفتر فنی'):
-    vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport,nasouz,hydrolic,tasisat,bargh]
+    vahed_ejraii = [mechanic,abzardaghigh,automasion,labratory,transport1,transport2,nasouz,hydrolic,tasisat,bargh]
     #vahed_ejraii = [mechanic]
     f = open(fname, "w",encoding='utf-16')
     f.write('SELECT        FQ.PositionID\n')
