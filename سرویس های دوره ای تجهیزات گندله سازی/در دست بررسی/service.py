@@ -5,6 +5,8 @@ df=pd.read_excel("service-by-group-latest.xlsx",sheet_name="Table1",dtype=str)
 #print(df.info())
 
 gb_category_class = df.groupby('Table3.category-class')
+col_name = ['کد کارت فعالیت','ترتیب','شرح کار یا فعالیت','زمان انجام دقیقه','زمان انجام ساعت','شرح و دستورالعمل','نکات ایمنی','نرخ انجام','active']
+final_df = pd.DataFrame(columns=col_name)
 
 for item1 in gb_category_class.groups:
     i=1
@@ -14,14 +16,22 @@ for item1 in gb_category_class.groups:
     gb_noekar = sub_def1.groupby('noekar.ID')
     for item2 in gb_noekar.groups:
         sub_def2 = gb_noekar.get_group(item2)
-        gb_status = sub_def2.groupby('status')
-        for item3 in gb_status.groups:
-            sub_def3 = gb_status.get_group(item3)
-            gb_priod = sub_def3.groupby('parseh_priod')
-            for item4 in gb_priod.groups:
-                #print(group_class_id,item1,item2,item3,item4)
-                f_name="({})PM.{}.{}.{}.{}.{}".format(app_id,item2,item4,item3,group_class_id,str(i).zfill(4))
+        gb_priod = sub_def2.groupby('parseh_priod')  
+        for item3 in gb_priod.groups:
+            sub_def3 = gb_priod.get_group(item3)
+            gb_status = sub_def3.groupby('status')
+            for item4 in gb_status.groups:
+                print(group_class_id,item1,item2,item3,item4)
+                f_name="({})PM.{}.{}.{}.{}.{}.xlsx".format(app_id,item2,item3,item4,group_class_id,str(i).zfill(4))
+                code_faaliat="PM.{}.{}.{}.{}.{}".format(item2,item3,item4,group_class_id,str(i).zfill(4))
                 print(f_name)
+                sub_def4 = gb_status.get_group(item4)
+                final_df[['شرح کار یا فعالیت','شرح و دستورالعمل','زمان انجام دقیقه']]= pd.DataFrame(sub_def4[['sharhe_service_fa','Count','zamane_anjam1']].values)
+                final_df[['کد کارت فعالیت']] = code_faaliat
+                final_df.to_excel(f_name,index=False)
+        
+
+
 
     
     #group_class_id=sub_df['Table3.Column1'].to_list()[0]
