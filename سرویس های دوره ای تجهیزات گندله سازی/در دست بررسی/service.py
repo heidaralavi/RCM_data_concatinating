@@ -5,8 +5,8 @@ df=pd.read_excel("service-by-group-latest.xlsx",sheet_name="Table1",dtype=str)
 #print(df.info())
 
 gb_category_class = df.groupby('Table3.category-class')
-col_name = ['کد کارت فعالیت','ترتیب','شرح کار یا فعالیت','زمان انجام دقیقه','زمان انجام ساعت','شرح و دستورالعمل','نکات ایمنی','نرخ انجام','active']
-final_df = pd.DataFrame(columns=col_name)
+#col_name = ['کد کارت فعالیت','ترتیب','شرح کار یا فعالیت','زمان انجام دقیقه','زمان انجام ساعت','شرح و دستورالعمل','نکات ایمنی','نرخ انجام','active']
+#final_df = pd.DataFrame(columns=col_name)
 
 for item1 in gb_category_class.groups:
     i=1
@@ -22,13 +22,18 @@ for item1 in gb_category_class.groups:
             gb_status = sub_def3.groupby('status')
             for item4 in gb_status.groups:
                 print(group_class_id,item1,item2,item3,item4)
-                f_name="({})PM.{}.{}.{}.{}.{}.xlsx".format(app_id,item2,item3,item4,group_class_id,str(i).zfill(4))
+                path = ".\mp\{}\\".format(app_id)
+                isExist = os.path.exists(path)
+                if not isExist:
+                    os.makedirs(path)
+                f_name="{}({})PM.{}.{}.{}.{}.{}.xlsx".format(path,app_id,item2,item3,item4,group_class_id,str(i).zfill(4))
                 code_faaliat="PM.{}.{}.{}.{}.{}".format(item2,item3,item4,group_class_id,str(i).zfill(4))
                 print(f_name)
-                sub_def4 = gb_status.get_group(item4)
-                final_df[['شرح کار یا فعالیت','شرح و دستورالعمل','زمان انجام دقیقه']]= pd.DataFrame(sub_def4[['sharhe_service_fa','Count','zamane_anjam1']].values)
-                final_df[['کد کارت فعالیت']] = code_faaliat
+                sub_def4 = gb_status.get_group(item4) #.to_dict() # (orient='records')
+                final_df = sub_def4[['sharhe_service_fa','zamane_anjam1','Count']].rename(columns={'sharhe_service_fa':'شرح کار یا فعالیت','zamane_anjam1': 'زمان انجام دقیقه','Count':'شرح و دستورالعمل'})
+                final_df.insert(0,'کد کارت فعالیت',code_faaliat)
                 final_df.to_excel(f_name,index=False)
+                
         
 
 
