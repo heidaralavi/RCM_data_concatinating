@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from xlsxwriter import Workbook
 
 category_name = pd.read_excel('class-group-vlockup.xlsx',usecols=['class-group','FullCategoryName','App_Tag']).to_dict(orient='records')
 
@@ -100,10 +101,22 @@ rows = []
 for item in f_list_txt:
     rows.append(make_row(item))
 
-col=pd.read_excel("jobcard.xlsx",dtype=str)
+#col=pd.read_excel("jobcard.xlsx",dtype=str)
 
-col_names = col.columns.values
+col_names = ['Name نام کارت فعالیت','Code کد کارت فعالت','CalendarUnit واحد تقویمی','CalendarPeriod دوره تقویمی','CalendarPeriodPlus شناوری مثبت تقویمی','calendarPeriodMinus شناوری منفی تقویمی','MeterUnit واحد کارکردی','MeterPeriod دوره کارکردی','MeterPeriodPlus شناوری کارکردی مثبت','MeterPeriodMinus شناوری کارکردی منفی','SafetyInstruction نکته ایمنی','PlanningStatus وضعیت کارت فعالیت','CalendarCoverageLimit حد همپوشانی تقویمی','MeterCoverageLimit حد همپوشانی کارکردی','JCType نوع کارت فعالیت','WorkTrade نوع کار','AssetClass کلاس دستگاه','Department مجری','DurationUnit واحد انجام','Duration مدت انجام','Problem کد ایراد و مشکل'] #col.columns.values
 
 df=pd.DataFrame(rows,columns=col_names)
+writer = pd.ExcelWriter('jobcard.xlsx', engine='xlsxwriter')
+df.to_excel(writer, startrow=1 ,sheet_name = 'sheet1',header=False,index=False)
+workbook = writer.book
+worksheet = writer.sheets['sheet1']
+(max_row, max_col) = df.shape
+column_settings = []
+for header in df.columns:
+    column_settings.append({'header': header})
+worksheet.add_table(0, 0, max_row, max_col - 1, {'columns': column_settings})
+worksheet.set_column(0, max_col - 1, 12)
+writer.close()
 
-df.to_excel('jobcard.xlsx',index=False)
+
+
