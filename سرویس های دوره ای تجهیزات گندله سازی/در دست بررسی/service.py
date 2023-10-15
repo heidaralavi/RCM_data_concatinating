@@ -26,13 +26,19 @@ for item1 in gb_category_class.groups:
                 isExist = os.path.exists(path)
                 if not isExist:
                     os.makedirs(path)
-                f_name="{}({})PM.{}.{}.{}.{}.{}.xlsx".format(path,app_id,item2,item3,item4,group_class_id,str(i).zfill(4))
+                f_name="{}PM.{}.{}.{}.{}.{}.xlsx".format(path,item2,item3,item4,group_class_id,str(i).zfill(4))
                 code_faaliat="PM.{}.{}.{}.{}.{}".format(item2,item3,item4,group_class_id,str(i).zfill(4))
                 print(f_name)
                 sub_def4 = gb_status.get_group(item4) #.to_dict() # (orient='records')
                 final_df = sub_def4[['sharhe_service_fa','zamane_anjam1','Count']].rename(columns={'sharhe_service_fa':'شرح کار یا فعالیت','zamane_anjam1': 'زمان انجام دقیقه','Count':'شرح و دستورالعمل'})
                 final_df.insert(0,'کد کارت فعالیت',code_faaliat)
-                final_df.to_excel(f_name,index=False)
+                final_df.insert(1,'ترتیب',range(1,len(final_df)+1))
+                final_df.insert(4,'زمان انجام ساعت',"")
+                final_df.insert(6,'نکات ایمنی',"")
+                final_df.insert(7,'نرخ انجام',"")
+                final_df.insert(8,'active',"YES")
+                sh_name = "({}){}".format(app_id[:5],code_faaliat)
+                final_df.to_excel(f_name,sheet_name = sh_name ,index=False)
                 
         
 
