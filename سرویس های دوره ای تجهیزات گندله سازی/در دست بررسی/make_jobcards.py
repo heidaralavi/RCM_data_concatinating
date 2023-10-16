@@ -3,11 +3,15 @@ import os
 from xlsxwriter import Workbook
 
 category_name = pd.read_excel('class-group-vlockup.xlsx',usecols=['class-group','FullCategoryName','App_Tag']).to_dict(orient='records')
-
+code_faaliat_mojri = pd.read_excel('vlookup_code_faaliat_mijri.xlsx').to_dict(orient='records')
 def class_group(text):
     for item in category_name:
         if item['class-group'] == text:
             return item['FullCategoryName']
+def faaliat_mojri(text):
+    for item in code_faaliat_mojri:
+        if item['code_faaliat'] == text:
+            return item['mojri']
         
 def app_tag(text):
     for item in category_name:
@@ -52,7 +56,8 @@ def make_row(text):
     row.append('سرویس دوره ای - PM')
     row.append(vocablary[arr[1]][1])
     row.append(class_group(arr[4]))
-    row.append('')
+    row.append(faaliat_mojri(text))
+    print(faaliat_mojri(text))
     row.append('Hour')
     row.append('')
     row.append('')

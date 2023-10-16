@@ -8,7 +8,7 @@ df=pd.read_excel("service-by-group-latest.xlsx",sheet_name="Table1",dtype=str)
 gb_category_class = df.groupby('Table3.category-class')
 #col_name = ['کد کارت فعالیت','ترتیب','شرح کار یا فعالیت','زمان انجام دقیقه','زمان انجام ساعت','شرح و دستورالعمل','نکات ایمنی','نرخ انجام','active']
 #final_df = pd.DataFrame(columns=col_name)
-
+code_faaliat_mojri = []
 for item1 in gb_category_class.groups:
     i=1
     sub_def1 = gb_category_class.get_group(item1)
@@ -31,7 +31,7 @@ for item1 in gb_category_class.groups:
                     if not isExist:
                         os.makedirs(path)
                     f_name="{}PM.{}.{}.{}.{}.{}{}.xlsx".format(path,item2,item3,item4,group_class_id,item5,str(i).zfill(2))
-                    code_faaliat="PM.{}.{}.{}.{}.{}".format(item2,item3,item4,group_class_id,str(i).zfill(4))
+                    code_faaliat="PM.{}.{}.{}.{}.{}{}".format(item2,item3,item4,group_class_id,item5,str(i).zfill(2))
                     print(f_name)
                     sub_def4 = gb_status.get_group(item4) #.to_dict() # (orient='records')
                     final_df = sub_def4[['sharhe_service_fa','zamane_anjam1','Count','mojri.Department مجری']].rename(columns={'sharhe_service_fa':'شرح کار یا فعالیت','zamane_anjam1': 'زمان انجام دقیقه','Count':'شرح و دستورالعمل','mojri.Department مجری':'مجری'})
@@ -41,7 +41,8 @@ for item1 in gb_category_class.groups:
                     final_df.insert(7,'نکات ایمنی',"")
                     final_df.insert(8,'نرخ انجام',"")
                     final_df.insert(9,'active',"YES")
-                    sh_name = "({}){}".format(app_id[:5],code_faaliat)
+                    code_faaliat_mojri.append((code_faaliat,final_df['مجری'].to_list()[0]))
+                    sh_name = "({}){}".format(app_id[:3],code_faaliat[:20])
                     
                     writer = pd.ExcelWriter(f_name, engine='xlsxwriter')
                   
@@ -56,8 +57,9 @@ for item1 in gb_category_class.groups:
                     worksheet.set_column(0, max_col - 1, 12)
                     writer.close()
                     
-                
-        
+
+code_faaliat_mojri_df = pd.DataFrame(code_faaliat_mojri,columns = ['code_faaliat','mojri'])                
+code_faaliat_mojri_df.to_excel('vlookup_code_faaliat_mijri.xlsx',index=False)        
 
 
 
