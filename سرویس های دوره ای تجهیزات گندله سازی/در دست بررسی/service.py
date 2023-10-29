@@ -54,7 +54,20 @@ for item1 in gb_category_class.groups:
                     for header in final_df.columns:
                         column_settings.append({'header': header})
                     worksheet.add_table(0, 0, max_row, max_col - 1, {'columns': column_settings})
-                    worksheet.set_column(0, max_col - 1, 12)
+                    cell_format = workbook.add_format({'text_wrap': True})
+                    cell_format.set_align('vcenter')
+                    cell_format.set_align('center')
+                    cell_format1 = workbook.add_format({'text_wrap': True})
+                    cell_format1.set_align('vcenter')
+                    cell_format1.set_align('right')
+                    worksheet.set_column('A:A', 24,cell_format)
+                    worksheet.set_column('B:B', 5,cell_format)
+                    worksheet.set_column('C:C', 20,cell_format)
+                    worksheet.set_column('D:D', 5,cell_format)
+                    worksheet.set_column('E:E', 20,cell_format)
+                    worksheet.set_column('F:F', 50,cell_format1)
+                    worksheet.set_column('G:G', 30,cell_format)
+                    worksheet.set_column('H:J', 5,cell_format)
                     writer.close()
                     
 

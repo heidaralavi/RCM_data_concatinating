@@ -121,6 +121,7 @@ for header in df.columns:
     column_settings.append({'header': header})
 worksheet.add_table(0, 0, max_row, max_col - 1, {'columns': column_settings})
 worksheet.set_column(0, max_col - 1, 12)
+worksheet.set_column('E:E', 40)
 writer.close()
 
 
