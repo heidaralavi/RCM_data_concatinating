@@ -90,7 +90,7 @@ def make_ejraii_file(fname,column):
     f = open(fname, "w",encoding='utf-16')
     f.write('select case\n')
     for item in ejraii_ID:
-        text_line='when DepartmentID = \'{}\' then \'{}\' --{}-{}'.format(item['ID'],position_id_returner(item[column]),item['Name'],item[column])
+        text_line='when DepartmentID = \'{}\' then \'{}\' --{}-{}'.format(item['ID'],position_id_returner(item[column]),item['Name'],item['سرپرست اجرایی PM'])
         f.write(text_line)
         f.write('\n')
     f.write('else \'7c70790f-81e3-4efd-ae03-700d677984bd\'\n')
@@ -104,6 +104,7 @@ def make_ejraii_file(fname,column):
 
 make_ejraii_file('نقش رییس اجرایی.txt','رئیس اجرایی')
 make_ejraii_file('نقش سرپرست اجرایی.txt','سرپرست واحد اجرایی')
+make_ejraii_file('نقش سرپرست اجرایی پی ام.txt','پوزیشن سرپرست اجرایی پی ام')
 
 
 
