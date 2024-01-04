@@ -71,7 +71,7 @@ for category_class_item in gb_category_class.groups:
                         jobcards_dict['NeedSafety'].append('False')
                         jobcards_dict['ShutDownTypes'].append(ShutDownTypes_txt)
                         jobcards_dict['Duration'].append(Duration_txt)
-                        jobcards_dict['DurationUnitName'].append('Hour')
+                        jobcards_dict['DurationUnitName'].append('Minute')
 
                         
                         for (item1,item2,item3) in zip(sub_def6['service_title'].to_list(),sub_def6['zamane_anjam'].to_list(),sub_def6['Description'].to_list()):
