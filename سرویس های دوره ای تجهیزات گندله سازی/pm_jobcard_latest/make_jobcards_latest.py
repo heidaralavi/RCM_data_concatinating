@@ -51,7 +51,7 @@ for category_class_item in gb_category_class.groups:
                     i=1
                     for DepartmentName_item in gb_DepartmentName.groups:
                         sub_def6 = gb_DepartmentName.get_group(DepartmentName_item)
-                        
+                        sub_def6 = sub_def6. drop_duplicates()
                         JCTypesName_txt = sub_def5['JCTypesName'].to_list()[0]
                         Duration_txt = sub_def5['zamane_anjam'].astype(int).sum()
 
