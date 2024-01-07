@@ -1,0 +1,9 @@
+delete     FROM   dbo.JobcardActivity
+        where dbo.JobcardActivity.JobcardID in  (select  qq.ID
+		  from dbo.JobcardActivity INNER JOIN
+                         dbo.JobCard as qq ON dbo.JobcardActivity.JobcardID = qq.ID
+
+
+
+where qq.Code like ('PM%')
+and dbo.JobcardActivity.JobcardID= qq.ID)
