@@ -4,20 +4,20 @@ import pandas as pd
 
 
 # make sheet data as dataframe
-position_ID = pd.read_excel("Origin.xlsx", sheet_name='Position_ID').to_dict(orient='records')
-system_ID = pd.read_excel("Origin.xlsx", sheet_name='System_ID').to_dict(orient='records')
-trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID').to_dict(orient='records')
-ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی').to_dict(orient='records')
-abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق').to_dict(orient='records')
-automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون').to_dict(orient='records')
-labratory = pd.read_excel("Origin.xlsx", sheet_name='کنترل فرآیند').to_dict(orient='records')
-transport1 = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی').to_dict(orient='records')
-transport2 = pd.read_excel("Origin.xlsx", sheet_name='ترانسپورت').to_dict(orient='records')
-nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز').to_dict(orient='records')
-hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روانکاری').to_dict(orient='records')
-mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک').to_dict(orient='records')
-tasisat = pd.read_excel("Origin.xlsx", sheet_name='تاسیسات آبرسانی').to_dict(orient='records')
-bargh = pd.read_excel("Origin.xlsx", sheet_name='برق').to_dict(orient='records')
+position_ID = pd.read_excel("Origin.xlsx", sheet_name='Position_ID',dtype=str).to_dict(orient='records')
+system_ID = pd.read_excel("Origin.xlsx", sheet_name='System_ID',dtype=str).to_dict(orient='records')
+trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID',dtype=str).to_dict(orient='records')
+ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی',dtype=str).to_dict(orient='records')
+abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق',dtype=str).to_dict(orient='records')
+automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون',dtype=str).to_dict(orient='records')
+labratory = pd.read_excel("Origin.xlsx", sheet_name='کنترل فرآیند',dtype=str).to_dict(orient='records')
+transport1 = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی',dtype=str).to_dict(orient='records')
+transport2 = pd.read_excel("Origin.xlsx", sheet_name='ترانسپورت',dtype=str).to_dict(orient='records')
+nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز',dtype=str).to_dict(orient='records')
+hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روانکاری',dtype=str).to_dict(orient='records')
+mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک',dtype=str).to_dict(orient='records')
+tasisat = pd.read_excel("Origin.xlsx", sheet_name='تاسیسات آبرسانی',dtype=str).to_dict(orient='records')
+bargh = pd.read_excel("Origin.xlsx", sheet_name='برق',dtype=str).to_dict(orient='records')
 
 
 
