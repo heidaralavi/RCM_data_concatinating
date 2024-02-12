@@ -104,7 +104,7 @@ def make_ejraii_file(fname,column):
 
 make_ejraii_file('نقش رییس اجرایی.txt','سمت رئیس اجرایی')
 make_ejraii_file('نقش سرپرست اجرایی.txt','سمت سرپرست اجرایی')
-make_ejraii_file('نقش سرپرست اجرایی پی ام.txt','سمت سرپرست اجرایی پی ام')
+make_ejraii_file('نقش سرپرست اجرایی پی ام.txt','سمت سرپرست اجرایی PM')
 
 
 
