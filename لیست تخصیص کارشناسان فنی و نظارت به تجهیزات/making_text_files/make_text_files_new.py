@@ -10,7 +10,7 @@ trade_ID = pd.read_excel("Origin.xlsx", sheet_name='Trade_ID',dtype=str).to_dict
 ejraii_ID = pd.read_excel("Origin.xlsx", sheet_name='واحد اجرایی',dtype=str).to_dict(orient='records')
 abzardaghigh = pd.read_excel("Origin.xlsx", sheet_name='ابزاردقیق',dtype=str).to_dict(orient='records')
 automasion = pd.read_excel("Origin.xlsx", sheet_name='اتوماسیون',dtype=str).to_dict(orient='records')
-labratory = pd.read_excel("Origin.xlsx", sheet_name='کنترل فرآیند',dtype=str).to_dict(orient='records')
+labratory = pd.read_excel("Origin.xlsx", sheet_name='کنترل کیفی',dtype=str).to_dict(orient='records')
 transport1 = pd.read_excel("Origin.xlsx", sheet_name='عمرانی خدماتی',dtype=str).to_dict(orient='records')
 transport2 = pd.read_excel("Origin.xlsx", sheet_name='ترانسپورت',dtype=str).to_dict(orient='records')
 nasouz = pd.read_excel("Origin.xlsx", sheet_name='نسوز',dtype=str).to_dict(orient='records')
