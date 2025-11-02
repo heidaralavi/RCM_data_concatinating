@@ -1,5 +1,5 @@
 import pandas as pd
-
+import math
 
 
 
@@ -18,7 +18,8 @@ hydrolic = pd.read_excel("Origin.xlsx", sheet_name='هیدرولیک و روان
 mechanic = pd.read_excel("Origin.xlsx", sheet_name='مکانیک',dtype=str).to_dict(orient='records')
 tasisat = pd.read_excel("Origin.xlsx", sheet_name='تاسیسات آبرسانی',dtype=str).to_dict(orient='records')
 bargh = pd.read_excel("Origin.xlsx", sheet_name='برق',dtype=str).to_dict(orient='records')
-
+tolid = pd.read_excel("Origin.xlsx", sheet_name='نقش بهره بردار تولید',dtype=str).to_dict(orient='records')
+    
 
 
 #ID returner functions
@@ -107,6 +108,47 @@ make_ejraii_file('نقش سرپرست اجرایی.txt','سمت سرپرست ا�
 make_ejraii_file('نقش سرپرست اجرایی پی ام.txt','سمت سرپرست اجرایی پی ام')
 
 
+def make_naghsh_tolid(fname):
+    f = open(fname, "w",encoding='utf-16')
+    f.write('select case\n')
+    for item in tolid:
+        persion_counter = 0
+        position_name = []
+        if str(item['سمت بهره بردار تولید 1']) != "nan" :
+            persion_counter += 1
+            position_name.append(item['سمت بهره بردار تولید 1'])
+        if str(item['سمت بهره بردار تولید 2']) != "nan" :
+            persion_counter += 1
+            position_name.append(item['سمت بهره بردار تولید 2'])
+        if str(item['سمت بهره بردار تولید 3']) != "nan" :
+            persion_counter += 1 
+            position_name.append(item['سمت بهره بردار تولید 3'])
+        if str(item['سمت بهره بردار تولید 4']) != "nan" :
+            persion_counter += 1
+            position_name.append(item['سمت بهره بردار تولید 4'])
+    
+        match persion_counter:
+            case 1:
+                text_line = f'when ParentSystemID = \'{system_id_returner(item['کد سیستم'])}\' then \'{position_id_returner(position_name[0])}\' --{item['کد سیستم']} / {name_returner(position_name[0])}'
+            case 2:
+                text_line = f'when ParentSystemID = \'{system_id_returner(item['کد سیستم'])}\' then \'{position_id_returner(position_name[0])}\' + \',\' + \'{position_id_returner(position_name[1])}\'  --{item['کد سیستم']} / {name_returner(position_name[0])}+{name_returner(position_name[1])}'
+            case 3:
+                text_line = f'when ParentSystemID = \'{system_id_returner(item['کد سیستم'])}\' then \'{position_id_returner(position_name[0])}\' + \',\' + \'{position_id_returner(position_name[1])}\' + \',\' + \'{position_id_returner(position_name[2])}\'  --{item['کد سیستم']} / {name_returner(position_name[0])}+{name_returner(position_name[1])}+{name_returner(position_name[2])}'
+            case 4:
+                text_line = f'when ParentSystemID = \'{system_id_returner(item['کد سیستم'])}\' then \'{position_id_returner(position_name[0])}\' + \',\' + \'{position_id_returner(position_name[1])}\' + \',\' + \'{position_id_returner(position_name[2])}\' + \',\' + \'{position_id_returner(position_name[3])}\'  --{item['کد سیستم']} / {name_returner(position_name[0])}+{name_returner(position_name[1])}+{name_returner(position_name[2])}+{name_returner(position_name[3])}'
+    
+        if persion_counter > 0:
+            f.write(text_line)
+            f.write('\n')
+    f.write('else OrganizationPos.ID --درخواست کننده\n')
+    f.write('end as ID \n')
+    f.write('from WorkOrder Inner Join\n')
+    f.write('     Employee On WorkOrder.ReportByID = Employee.ID Inner Join\n')
+    f.write('	      OrganizationPos On Employee.ID = OrganizationPos.EmployeeID\n')
+    f.write('where (workorder.ID LIKE \'{0}\')\n')
+    f.close()
+
+make_naghsh_tolid('نقش بهره بردار دستگاه.txt')
 
 
 
