@@ -1,0 +1,16 @@
+select case
+when WoTradeID = 'BBFC342F-6CB5-4709-89C0-2D9476967387' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --ابزار دقیق - فرحناز میرجانی سروی
+when WoTradeID = '26759677-2DE5-4268-8C8B-3801A7D4C97D' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --اتوماسیون-فرحناز میرجانی سروی
+when WoTradeID = '8AF9CC35-B938-4976-9C12-F05E1575BF7F' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --برق-فرحناز میرجانی سروی
+when WoTradeID = '8F03BD33-60AE-4959-A64A-9FA58263E40C' then '5856ede9-2f72-41b6-968b-66203974271d' --مکانیک-مجتبی دهستانی اردکانی
+when WoTradeID = '7C095E36-4F3F-4556-89EE-A76CB93D8FEE' then '5856ede9-2f72-41b6-968b-66203974271d' --هیدرولیک و روانکاری -مجتبی دهستانی اردکانی
+when WoTradeID = '8A70945E-D4E3-47ED-96D7-A52544553E89' then 'b939be0e-19f2-40a9-8e2a-d4d7b3f7aff1' --تاسیسات/آبرسانی-ایمان حسنائی
+when WoTradeID = '39731D39-5280-45EA-A647-0ED6A1004AB3' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --شبکه و IT-فرحناز میرجانی سروی
+when WoTradeID = 'D3E111A0-E132-4BB2-8CE5-48B98D7F0256' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --ترانسپورت-فرحناز میرجانی سروی
+when WoTradeID = '35A0CC31-B853-4CD0-A68E-F8564BAB3EA5' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --عمرانی/خدماتی-فرحناز میرجانی سروی
+when WoTradeID = 'B398D37E-5E0C-4A6E-924F-12E4D245F4C9' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --نسوز-فرحناز میرجانی سروی
+when WoTradeID = '4A2D6064-858C-4D94-9530-38C2EE574B8D' then 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc' --کنترل کیفی-فرحناز میرجانی سروی
+else 'a48a50d5-13ca-4cb7-97e9-3d0ad247d8bc'
+end as ID
+from dbo.WorkOrder
+WHERE (WorkOrder.ID LIKE '{0}')
