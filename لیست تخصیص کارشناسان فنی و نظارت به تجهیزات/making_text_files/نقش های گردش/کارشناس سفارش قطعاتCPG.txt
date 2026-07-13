@@ -1,0 +1,9 @@
+
+select case when BDPOREQTypeID = '617490D2-AED3-489E-AA7A-CE57637CA8DB' then '07862ed2-7af9-4b26-900e-b5ae07e37c9d' --سفارش قطعات برق و الکترونیک -4برگی CPG / احسان واحدی
+            when BDPOREQTypeID = '19E8CAF5-A18A-4AFE-895B-04343DE7F9F0' then 'a7967a84-a6bf-423d-b4c7-f233f0a023b0'    --سفارش قطعات مکانیک و سیالات -4برگی CPG / سید علی سلامی
+            when BDPOREQTypeID = '5F71AA95-EEDD-4516-9734-2507AD29A92F' then '070bd812-10ca-494a-9a2c-9b5757c8cf27' --5F71AA95-EEDD-4516-9734-2507AD29A92F / محمدمهدی خدایی
+            else '7c70790f-81e3-4efd-ae03-700d677984bd' --هادی حدادنیا
+        end AS ID
+from PurchaseOrder
+where (PurchaseOrder.ID LIKE '{0}')
+            
